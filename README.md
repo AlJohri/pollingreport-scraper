@@ -1,8 +1,8 @@
 # Polling Report Scraper
 
-Scrapes publically available polls from [polling report](http://www.pollingreport.com/). Specifically scrapes the poll pages labeled as "detailed" ([example](http://www.pollingreport.com/obama_job2.htm)).
+Polls: https://docs.google.com/spreadsheets/d/1XZ_qSBlqFrsyhYzrHjljAjOHMInAMxwXlXS9b0YBVdg/edit?usp=sharing
 
-Because scraping Microsoft Frontpage can only be so accurate. An attempt to manually normalize the polls is here: https://docs.google.com/spreadsheets/d/1XZ_qSBlqFrsyhYzrHjljAjOHMInAMxwXlXS9b0YBVdg/edit?usp=sharing
+Semi-scrapes publically available polls from [polling report](http://www.pollingreport.com/). Manual input / normalization is still required because scraping Microsoft Frontpage websites is really hard.
 
 ![](http://i.imgur.com/xrrIZfZ.png)
 
@@ -19,4 +19,3 @@ pip install -r requirements.txt
 ```
 python scrape_pollingreport.py
 ```
-

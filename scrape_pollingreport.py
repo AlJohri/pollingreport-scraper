@@ -57,7 +57,7 @@ def scrape_page(url, f):
 
         date_match2 = different_month_date_range.search(poll_title)
         date = date or (date_match2.groups() if date_match2 else None)
-        
+
         date_match3 = single_date.search(poll_title)
         date = date or (date_match3.groups() if date_match2 else None)
 
@@ -129,14 +129,14 @@ def scrape_page(url, f):
             if re.search(r"Favorable|Unfavorable|Approve|Disapprove", rows[0].text_content()):
                 # continue parsing this table
 
-                headers = [get_stripped_text(x) for x in rows[0].cssselect("td")]
+                headers = [get_stripped_text(x).lower() for x in rows[0].cssselect("td")]
 
                 for i, header in enumerate(headers):
-                    if header == "Disap- prove":
-                        headers[i] = "Disapprove"
+                    if header == "disap- prove":
+                        headers[i] = "disapprove"
 
-                    if header == "Unfav- orable":
-                        headers[i] = "Unfavorable"
+                    if header == "unfav- orable":
+                        headers[i] = "unfavorable"
 
                 if sample_size_column_index is not None:
                     headers[sample_size_column_index] = "sample_size"
@@ -159,11 +159,10 @@ def scrape_page(url, f):
 
                 if is_date(df.iloc[0,0]):
                     columns = list(df.columns)
-                    columns[0] = "Date"
+                    columns[0] = "date"
                     df.columns = columns
 
                 # TODO: parse out pollster from poll_title
-                # TODO: parse out subpopulation from "date"
                 # TODO: parse date into start date / end date
 
                 if 'sample_size' not in df:
@@ -171,8 +170,12 @@ def scrape_page(url, f):
                 else:
                     df['sample_size'] = df['sample_size'].replace(',', '', regex=True)
 
+                df['pollster'] = poll_title.split(".")[0]
                 df['margin_of_error'] = np.nan
                 df['subpopulation'] = np.nan
+
+                df.loc[df.date.str.contains('rv', case=False), 'subpopulation'] = 'rv'
+                df.loc[df.date.str.contains('lv', case=False), 'subpopulation'] = 'lv'
 
                 if pd.isnull(df.ix[0, 'sample_size']):
                     df.ix[0, 'sample_size'] = sample_size or np.nan
@@ -188,11 +191,11 @@ def scrape_page(url, f):
                 df['url'] = url
                 df['original'] = poll_title
                 df['question'] = question
-                df['Date'] = df['Date'].map(lambda x: "=\"" + x + "\"")
+                df['date'] = df['date'].map(lambda x: "=\"" + x + "\"")
 
                 f.write(df.to_csv(index=False))
                 f.write("\n")
-        
+
         else:
             print(t.red("table could not be parsed. expecting all rows to have %d columns. offending rows:" % num_columns))
             for row in rows:
