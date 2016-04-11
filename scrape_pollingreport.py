@@ -1,4 +1,4 @@
-import os, re, sys, csv, requests, lxml.html
+import os, re, sys, csv, requests, lxml.html, traceback
 from collections import defaultdict
 from pprint import pprint as pp
 import pandas as pd
@@ -35,181 +35,193 @@ def scrape_page(url, f):
     question_counter = 0
 
     for separator in doc.cssselect("hr[size='1'][color='#C0C0C0']"):
-        parents = separator.iterancestors(tag='table')
-        poll = next(parents)
 
-        # Hack
-        if "President Obama: Job Ratings" in poll.text_content(): continue
+        try:
 
-        # poll_title_el = get_first(poll, "font[color='#004080']")
-        # poll_title = get_stripped_text(poll_title_el)
-        all_blue_text = poll.cssselect("font[color='#004080']")
-        poll_title = " ".join([get_stripped_text(x) for x in all_blue_text])
+            parents = separator.iterancestors(tag='table')
+            poll = next(parents)
 
-        sample_size_match = re.search(r"N=([\d,]+)", poll_title)
-        sample_size = sample_size_match.groups()[0].replace(",", "") if sample_size_match else None
+            # Hack
+            if "President Obama: Job Ratings" in poll.text_content(): continue
 
-        moe_match = re.search(r"(?:Margin of error|MoE|margin of error) ± (\d+)", poll_title)
-        margin_of_error = moe_match.groups()[0] if moe_match else None
+            # poll_title_el = get_first(poll, "font[color='#004080']")
+            # poll_title = get_stripped_text(poll_title_el)
+            all_blue_text = poll.cssselect("font[color='#004080']")
+            poll_title = " ".join([get_stripped_text(x) for x in all_blue_text])
 
-        date_match1 = same_month_date_range.search(poll_title)
-        date = date_match1.groups() if date_match1 else None
+            sample_size_match = re.search(r"N=([\d,]+)", poll_title)
+            sample_size = sample_size_match.groups()[0].replace(",", "") if sample_size_match else None
 
-        date_match2 = different_month_date_range.search(poll_title)
-        date = date or (date_match2.groups() if date_match2 else None)
+            moe_match = re.search(r"(?:Margin of error|MoE|margin of error) ± (\d+)", poll_title)
+            margin_of_error = moe_match.groups()[0] if moe_match else None
 
-        date_match3 = single_date.search(poll_title)
-        date = date or (date_match3.groups() if date_match2 else None)
+            date_match1 = same_month_date_range.search(poll_title)
+            date = date_match1.groups() if date_match1 else None
 
-        subpopulation = None
-        if "registered voters nationwide" in poll_title:
-            subpopulation = "rv"
-        elif "likely voters nationwide" in poll_title:
-            subpopulation = "lv"
-        elif "adults nationwide" in poll_title:
-            subpopulation = "a"
+            date_match2 = different_month_date_range.search(poll_title)
+            date = date or (date_match2.groups() if date_match2 else None)
 
-        question_el = get_first(poll, "font[color='#666666']:contains('\"')")
-        question = get_stripped_text(question_el)
+            date_match3 = single_date.search(poll_title)
+            date = date or (date_match3.groups() if date_match2 else None)
 
-        all_text = get_stripped_text(poll)
+            subpopulation = None
+            if "registered voters nationwide" in poll_title:
+                subpopulation = "rv"
+            elif "likely voters nationwide" in poll_title:
+                subpopulation = "lv"
+            elif "adults nationwide" in poll_title:
+                subpopulation = "a"
 
-        qindextitle = url.split("/")[-1] + " | Question %d" % question_counter
+            question_el = get_first(poll, "font[color='#666666']:contains('\"')")
+            question = get_stripped_text(question_el)
 
-        print(t.bold_white(qindextitle))
-        print(t.bold_white(poll_title))
-        print(t.yellow(question))
-        print([margin_of_error, sample_size, subpopulation])
-        question_counter += 1
+            all_text = get_stripped_text(poll)
 
-        f.write("\"" + qindextitle + "\"" ); f.write("\n")
-        f.write("\""  + poll_title + "\"" ); f.write("\n")
-        f.write(question); f.write("\n")
+            qindextitle = url.split("/")[-1] + " | Question %d" % question_counter
 
-        # if any([keyword in all_text for keyword in favorability_keywords]):
-        #     print(t.yellow("Potentially Favorability"))
+            print(t.bold_white(qindextitle))
+            print(t.bold_white(poll_title))
+            print(t.yellow(question))
+            print([margin_of_error, sample_size, subpopulation])
+            question_counter += 1
 
-        # if any([keyword in all_text for keyword in approval_keywords]):
-        #     print(t.yellow("Potentially Approval"))
+            f.write("\"" + qindextitle + "\"" ); f.write("\n")
+            f.write("\""  + poll_title + "\"" ); f.write("\n")
+            f.write(question); f.write("\n")
 
-        # Find first row after question
-        question_row = next(question_el.iterancestors('tr'))
-        first_data_row = question_row.getnext()
-        if len(first_data_row.cssselect("td")) == 1:
-            first_data_row = first_data_row.getnext()
+            # if any([keyword in all_text for keyword in favorability_keywords]):
+            #     print(t.yellow("Potentially Favorability"))
 
-        # TODO: parse poll properly if there is no line between question and first row
-        # e.g. last 2 polls on http://www.pollingreport.com/bushfav2.htm
+            # if any([keyword in all_text for keyword in approval_keywords]):
+            #     print(t.yellow("Potentially Approval"))
 
-        # Find all rows after the question
-        rows = [first_data_row] + list(first_data_row.itersiblings())
+            # Find first row after question
+            question_row = next(question_el.iterancestors('tr'))
+            first_data_row = question_row.getnext()
+            if len(first_data_row.cssselect("td")) == 1:
+                first_data_row = first_data_row.getnext()
 
-        # Remove last row if it contains an hr tag
-        if rows[-1].cssselect("hr"): del rows[-1]
+            # TODO: parse poll properly if there is no line between question and first row
+            # e.g. last 2 polls on http://www.pollingreport.com/bushfav2.htm
 
-        num_columns = len(rows[0].cssselect("td"))
+            # Find all rows after the question
+            rows = [first_data_row] + list(first_data_row.itersiblings())
 
-        # Ensure that all rows have the same number of columns
-        if all([len(row.cssselect("td")) == num_columns for row in rows]):
-        # Filter down to rows with at least 4 columns (ideally the data)
-        # rows = [row for row in rows if len(row.cssselect("td")) > 4]
+            # Remove last row if it contains an hr tag
+            if rows[-1].cssselect("hr"): del rows[-1]
 
-            # Remove first row if its entirely blank or a single dot?
-            if re.search(r'^\s+|\.$', rows[0].text_content().strip()): del rows[0]
+            num_columns = len(rows[0].cssselect("td"))
 
-            sample_size_column_index = None
+            # Ensure that all rows have the same number of columns
+            if all([len(row.cssselect("td")) == num_columns for row in rows]):
+            # Filter down to rows with at least 4 columns (ideally the data)
+            # rows = [row for row in rows if len(row.cssselect("td")) > 4]
 
-            # Remove second row if it has a percentage sign in it.
-            if re.search(r'%', rows[1].text_content()):
-                if re.search(r'N', rows[1].text_content()):
-                    sample_size_column_index = [i for i, x in  enumerate(rows[1].cssselect("td")) if get_stripped_text(x) == "N"][0]
-                del rows[1]
+                # Remove first row if its entirely blank or a single dot
+                if re.search(r'^\s+|\.$', rows[0].text_content().strip()): del rows[0]
 
-            # First row should now be the header row
-            if re.search(r"Favorable|Unfavorable|Approve|Disapprove", rows[0].text_content()):
-                # continue parsing this table
+                # Remove last row if its entirely blank
+                if rows[-1].text_content().strip() == "": del rows[-1]
 
-                headers = [get_stripped_text(x).lower() for x in rows[0].cssselect("td")]
+                sample_size_column_index = None
 
-                for i, header in enumerate(headers):
-                    if header == "disap- prove":
-                        headers[i] = "disapprove"
+                # Remove second row if it has a percentage sign in it.
+                if re.search(r'%', rows[1].text_content()):
+                    if re.search(r'N', rows[1].text_content()):
+                        sample_size_column_index = [i for i, x in  enumerate(rows[1].cssselect("td")) if get_stripped_text(x) == "N"][0]
+                    del rows[1]
 
-                    if header == "unfav- orable":
-                        headers[i] = "unfavorable"
+                # First row should now be the header row
+                if re.search(r"Favorable|Unfavorable|Approve|Disapprove", rows[0].text_content()):
+                    # continue parsing this table
 
-                if sample_size_column_index is not None:
-                    headers[sample_size_column_index] = "sample_size"
+                    headers = [get_stripped_text(x).lower() for x in rows[0].cssselect("td")]
 
-                data = []
+                    for i, header in enumerate(headers):
+                        if header == "disap- prove":
+                            headers[i] = "disapprove"
 
-                for row in rows[1:]:
-                    actual_row = [get_stripped_text(x) for x in row]
-                    data.append(actual_row)
+                        if header == "unfav- orable":
+                            headers[i] = "unfavorable"
 
-                # DEBUG
-                # print(headers)
-                # pp(data)
+                    if sample_size_column_index is not None:
+                        headers[sample_size_column_index] = "sample_size"
 
-                df = pd.DataFrame(data, columns=headers)
-                df.replace('', np.nan, regex=True, inplace=True)
+                    data = []
 
-                # Remove first column if its entirely blank
-                df.dropna(axis=1, how='all', inplace=True)
+                    for row in rows[1:]:
+                        actual_row = [get_stripped_text(x) for x in row]
+                        data.append(actual_row)
 
-                if is_date(df.iloc[0,0]):
-                    columns = list(df.columns)
-                    columns[0] = "date"
-                    df.columns = columns
+                    # DEBUG
+                    # print(headers)
+                    # pp(data)
 
-                # TODO: parse out pollster from poll_title
-                # TODO: parse date into start date / end date
+                    df = pd.DataFrame(data, columns=headers)
+                    df.replace('', np.nan, regex=True, inplace=True)
 
-                if 'sample_size' not in df:
-                    df['sample_size'] = np.nan
-                else:
-                    df['sample_size'] = df['sample_size'].replace(',', '', regex=True)
+                    # Remove first column if its entirely blank
+                    df.dropna(axis=1, how='all', inplace=True)
 
-                df['pollster'] = poll_title.split(".")[0]
-                df['margin_of_error'] = np.nan
-                df['subpopulation'] = np.nan
+                    if is_date(df.iloc[0,0]):
+                        columns = list(df.columns)
+                        columns[0] = "date"
+                        df.columns = columns
 
-                df.loc[df.date.str.contains('rv', case=False), 'subpopulation'] = 'rv'
-                df.loc[df.date.str.contains('lv', case=False), 'subpopulation'] = 'lv'
+                    # TODO: parse out pollster from poll_title
+                    # TODO: parse date into start date / end date
 
-                if pd.isnull(df.ix[0, 'sample_size']):
-                    df.ix[0, 'sample_size'] = sample_size or np.nan
+                    if 'sample_size' not in df:
+                        df['sample_size'] = np.nan
+                    else:
+                        df['sample_size'] = df['sample_size'].replace(',', '', regex=True)
 
-                if pd.isnull(df.ix[0, 'margin_of_error']):
-                    df.ix[0, 'margin_of_error'] = margin_of_error or np.nan
+                    df['margin_of_error'] = np.nan
+                    df['subpopulation'] = np.nan
 
-                if pd.isnull(df.ix[0, 'subpopulation']):
-                    df.ix[0, 'subpopulation'] = subpopulation or np.nan
+                    df.loc[df.date.str.contains('rv', case=False).fillna(False), 'subpopulation'] = 'rv'
+                    df.loc[df.date.str.contains('lv', case=False).fillna(False), 'subpopulation'] = 'lv'
 
-                print(t.green(str(df))) # .to_csv(index=False)
+                    if pd.isnull(df.ix[0, 'sample_size']):
+                        df.ix[0, 'sample_size'] = sample_size or np.nan
 
-                df['url'] = url
-                df['original'] = poll_title
-                df['question'] = question
-                df['date'] = df['date'].map(lambda x: "=\"" + x + "\"")
+                    if pd.isnull(df.ix[0, 'margin_of_error']):
+                        df.ix[0, 'margin_of_error'] = margin_of_error or np.nan
 
-                f.write(df.to_csv(index=False))
-                f.write("\n")
+                    if pd.isnull(df.ix[0, 'subpopulation']):
+                        df.ix[0, 'subpopulation'] = subpopulation or np.nan
 
-        else:
-            print(t.red("table could not be parsed. expecting all rows to have %d columns. offending rows:" % num_columns))
-            for row in rows:
-                if len(row.cssselect("td")) != len(rows[0].cssselect("td")):
-                    print("\t", [get_stripped_text(x) for x in row.cssselect("td")])
+                    print(t.green(str(df)))
 
-            f.write("manually enter poll"); f.write("\n")
+                    df['url'] = url
+                    df['original'] = poll_title
+                    df['question'] = question
+                    df['date'] = df['date'].map(lambda x: "=\"" + x + "\"") # excel date hack
+                    df['pollster'] = poll_title.split(".")[0]
 
-        f.write("\n")
-        f.write("\n")
-        f.write("\n")
-        f.write("\n")
-        f.write("\n")
-        print()
+                    f.write(df.to_csv(index=False))
+                    f.write("\n")
+
+            else:
+                print(t.red("table could not be parsed. expecting all rows to have %d columns. offending rows:" % num_columns))
+                for row in rows:
+                    if len(row.cssselect("td")) != len(rows[0].cssselect("td")):
+                        print("\t", [get_stripped_text(x) for x in row.cssselect("td")])
+
+                f.write("manually enter poll"); f.write("\n")
+
+            f.write("\n")
+            f.write("\n")
+            f.write("\n")
+            f.write("\n")
+            f.write("\n")
+            print()
+
+        except Exception as e:
+            print(t.red("ERROR: " + str(e)))
+            print(t.red(traceback.format_exc()))
+
+            continue
 
 favorability_keywords = ["favorable", "unfavorable"]
 approval_keywords = ["approve", "disapprove", "disap- prove"]
