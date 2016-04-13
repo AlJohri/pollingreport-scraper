@@ -1,6 +1,6 @@
 # Polling Report Scraper
 
-Polls: https://docs.google.com/spreadsheets/d/1XZ_qSBlqFrsyhYzrHjljAjOHMInAMxwXlXS9b0YBVdg/edit?usp=sharing
+Normalized Polls: https://goo.gl/GRWLVH
 
 Semi-scrapes publically available polls from [polling report](http://www.pollingreport.com/). Manual input / normalization is still required because scraping Microsoft Frontpage websites is really hard.
 
