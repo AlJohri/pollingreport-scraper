@@ -34,6 +34,7 @@ date,favorable,unfavorable,never heard of,unsure,,sample_size,margin_of_error,su
 "=""6/01""",34,20,33,13,,,,,favorability,http://www.pollingreport.com/d.htm,"CNN/USA Today/Gallup Poll . July 25-27, 2003. N=1,006 adults nationwide. MoE ± 3.","""Next, we'd like to get your overall opinion of some people in the news. As I read each name, please say if you have a favorable or unfavorable opinion of these people -- or if you have never heard of them. Senate Democratic Leader Tom Daschle."" *",CNN/USA Today/Gallup Poll 
 "=""nan""",,,,,.,,,,favorability,http://www.pollingreport.com/d.htm,"CNN/USA Today/Gallup Poll . July 25-27, 2003. N=1,006 adults nationwide. MoE ± 3.","""Next, we'd like to get your overall opinion of some people in the news. As I read each name, please say if you have a favorable or unfavorable opinion of these people -- or if you have never heard of them. Senate Democratic Leader Tom Daschle."" *",CNN/USA Today/Gallup Poll 
 
+
 additional notes
 ['', '* Wording 9/02 & 12/02: "Senate Majority Leader Tom Daschle"']
 
@@ -402,6 +403,7 @@ date,favorable,unfavorable,unsure,sample_size,,margin_of_error,subpopulation,que
 "=""2/12-14/99 **""",57,13,30,1010,,,,favorability,http://www.pollingreport.com/d.htm,ABC News and The Washington Post,"""I'm going to read you a few names. For each, please tell me if you have a favorable or unfavorable impression of that person, or perhaps you don't know enough to say. How about Elizabeth Dole?""",ABC News and The Washington Post
 "=""nan""",,,,,.,,,favorability,http://www.pollingreport.com/d.htm,ABC News and The Washington Post,"""I'm going to read you a few names. For each, please tell me if you have a favorable or unfavorable impression of that person, or perhaps you don't know enough to say. How about Elizabeth Dole?""",ABC News and The Washington Post
 
+
 additional notes
 ['', '** Conducted by The Washington Post *** Conducted by ABC News and The Washington Post']
 
@@ -429,6 +431,7 @@ date,favorable,unfavorable,can't say (vol.),never heard of,sample_size,margin_of
 "=""10/20-21/99""",60,22,15,3,904,,rv,favorability,http://www.pollingreport.com/d.htm,FOX News/Opinion Dynamics Poll,"""I'm going to read the names of some prominent people. Please tell me whether you have a generally favorable or unfavorable opinion of each one. If you've never heard of someone, please just say so. Elizabeth Dole.""",FOX News/Opinion Dynamics Poll
 "=""6/2-3/99""",63,18,16,3,924,,rv,favorability,http://www.pollingreport.com/d.htm,FOX News/Opinion Dynamics Poll,"""I'm going to read the names of some prominent people. Please tell me whether you have a generally favorable or unfavorable opinion of each one. If you've never heard of someone, please just say so. Elizabeth Dole.""",FOX News/Opinion Dynamics Poll
 "=""5/20-21/98""",63,14,16,7,914,,rv,favorability,http://www.pollingreport.com/d.htm,FOX News/Opinion Dynamics Poll,"""I'm going to read the names of some prominent people. Please tell me whether you have a generally favorable or unfavorable opinion of each one. If you've never heard of someone, please just say so. Elizabeth Dole.""",FOX News/Opinion Dynamics Poll
+
 
 additional notes
 ['', '', '', '', '', 'RV = registered voters']

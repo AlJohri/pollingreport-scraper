@@ -77,6 +77,8 @@ def scrape_page(url, f):
             date_match3 = single_date.search(poll_title)
             date = date or (date_match3.groups() if date_match2 else None)
 
+            # TODO: make subpopulation finding case insensitive
+
             subpopulation = None
             if "registered voters nationwide" in poll_title:
                 subpopulation = "rv"
@@ -102,20 +104,11 @@ def scrape_page(url, f):
             f.write("\""  + poll_title + "\"" ); f.write("\n")
             f.write(question); f.write("\n")
 
-            # if any([keyword in all_text for keyword in favorability_keywords]):
-            #     print(t.yellow("Potentially Favorability"))
-
-            # if any([keyword in all_text for keyword in approval_keywords]):
-            #     print(t.yellow("Potentially Approval"))
-
             # Find first row after question
             question_row = next(question_el.iterancestors('tr'))
             first_data_row = question_row.getnext()
             if len(first_data_row.cssselect("td")) == 1:
                 first_data_row = first_data_row.getnext()
-
-            # TODO: parse poll properly if there is no line between question and first row
-            # e.g. last 2 polls on http://www.pollingreport.com/bushfav2.htm
 
             # Find all rows after the question
             rows = [first_data_row] + list(first_data_row.itersiblings())
@@ -165,6 +158,9 @@ def scrape_page(url, f):
             remove_blank_first_last_rows()
 
             #####################################################
+
+            # Dangerous to just remove all blank lines / lines with a dot
+            # Could be a single question with two different sets of answers
 
             # rows_indexes_to_remove = []
             # for i, row in enumerate(rows):
@@ -322,7 +318,7 @@ def scrape_page(url, f):
 
             if last_row is not None:
                 print(t.yellow("additional notes:"))
-                f.write("additional notes"); f.write("\n")
+                f.write("\n"); f.write("additional notes"); f.write("\n")
                 last_row_text = [get_stripped_text(x) for x in last_row.cssselect("td")]
                 print("\t", last_row_text)
 
@@ -330,7 +326,7 @@ def scrape_page(url, f):
 
             if len(highest_lowest_approval_rows) > 0:
                 print(t.yellow("highest lowest approval rows:"))
-                f.write("highest lowest approval rows"); f.write("\n")
+                f.write("\n"); f.write("highest lowest approval rows"); f.write("\n")
                 for row in highest_lowest_approval_rows:
                     row_text = [get_stripped_text(x) for x in row.cssselect("td")]
                     print("\t", row_text)

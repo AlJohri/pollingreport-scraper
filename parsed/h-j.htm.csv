@@ -375,6 +375,7 @@ date,favorable,unfavorable,can't say (vol.),never heard of,sample_size,margin_of
 "=""10/97""",48,34,15,3,,,rv,favorability,http://www.pollingreport.com/h-j.htm,FOX News/Opinion Dynamics Poll,"""I'm going to read the names of some prominent people. Please tell me whether you have a generally favorable or unfavorable opinion of each one. If you've never heard of someone, please just say so. Jesse Jackson.""",FOX News/Opinion Dynamics Poll
 "=""nan""",,,,,.,,,favorability,http://www.pollingreport.com/h-j.htm,FOX News/Opinion Dynamics Poll,"""I'm going to read the names of some prominent people. Please tell me whether you have a generally favorable or unfavorable opinion of each one. If you've never heard of someone, please just say so. Jesse Jackson.""",FOX News/Opinion Dynamics Poll
 
+
 additional notes
 ['', '', '', '', '', 'RV = registered voters']
 

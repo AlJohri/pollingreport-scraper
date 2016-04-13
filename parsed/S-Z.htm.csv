@@ -642,6 +642,7 @@ date,favorable,unfavorable,not familiar,not sure,sample_size,margin_of_error,sub
 "=""7/14-15/99""",46,17,32,5,1017,,,favorability,http://www.pollingreport.com/S-Z.htm,CNN/Time Poll conducted by Yankelovich Partners  ,"""Next, I'm going to read you the names of some people or organizations in the news today. Please tell me whether you have generally favorable or generally unfavorable impressions of each, or whether you are not familiar enough to say one way or another. Jesse Ventura."" *",CNN/Time Poll conducted by Yankelovich Partners  
 "=""nan""",,,,,.,,,favorability,http://www.pollingreport.com/S-Z.htm,CNN/Time Poll conducted by Yankelovich Partners  ,"""Next, I'm going to read you the names of some people or organizations in the news today. Please tell me whether you have generally favorable or generally unfavorable impressions of each, or whether you are not familiar enough to say one way or another. Jesse Ventura."" *",CNN/Time Poll conducted by Yankelovich Partners  
 
+
 additional notes
 ['', '* July 1999 wording: "Minnesota Governor Jesse Ventura."']
 
@@ -657,6 +658,7 @@ date,favorable,unfavorable,never heard of,no opinion,sample_size,margin_of_error
 "=""9/23-26/99 *""",51,25,12,12,1039,,,favorability,http://www.pollingreport.com/S-Z.htm,Gallup/CNN/USA Today Poll ,"""Next, I'd like to get your overall opinion of some people who were in the news. As I read each name, please say if you have a favorable or unfavorable opinion of this person -- or if you have never heard of him or her. How about Minnesota Governor Jesse Ventura?""",Gallup/CNN/USA Today Poll 
 "=""12/28-29/98""",53,14,16,17,1055,,,favorability,http://www.pollingreport.com/S-Z.htm,Gallup/CNN/USA Today Poll ,"""Next, I'd like to get your overall opinion of some people who were in the news. As I read each name, please say if you have a favorable or unfavorable opinion of this person -- or if you have never heard of him or her. How about Minnesota Governor Jesse Ventura?""",Gallup/CNN/USA Today Poll 
 "=""nan""",,,,,.,,,favorability,http://www.pollingreport.com/S-Z.htm,Gallup/CNN/USA Today Poll ,"""Next, I'd like to get your overall opinion of some people who were in the news. As I read each name, please say if you have a favorable or unfavorable opinion of this person -- or if you have never heard of him or her. How about Minnesota Governor Jesse Ventura?""",Gallup/CNN/USA Today Poll 
+
 
 additional notes
 ['', '* Conducted independently by Gallup']

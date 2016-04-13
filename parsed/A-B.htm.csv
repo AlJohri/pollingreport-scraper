@@ -995,6 +995,7 @@ date,favorable,unfavorable,no opinion,sample_size,,margin_of_error,subpopulation
 "=""3/11-14/99 ***""",29,13,58,1515,,,,favorability,http://www.pollingreport.com/A-B.htm,ABC News and The Washington Post,"""I'm going to read you a few names. For each, please tell me if you have a favorable or unfavorable impression of that person, or perhaps you don't know enough to say. How about Bill Bradley?""",ABC News and The Washington Post
 "=""nan""",,,,,.,,,favorability,http://www.pollingreport.com/A-B.htm,ABC News and The Washington Post,"""I'm going to read you a few names. For each, please tell me if you have a favorable or unfavorable impression of that person, or perhaps you don't know enough to say. How about Bill Bradley?""",ABC News and The Washington Post
 
+
 additional notes
 ['', '* Conducted by ABC News ** Conducted by The Washington Post *** Conducted by ABC News and The Washington Post']
 
@@ -1014,6 +1015,7 @@ date,favorable,not favorable,undecided,haven't heard enough,refused,sample_size,
 "=""8/1-2/99""",14,8,15,63,0,927,,,favorability,http://www.pollingreport.com/A-B.htm,CBS News Poll,"""Is your opinion of Bill Bradley favorable, not favorable, undecided, or haven't you heard enough about Bill Bradley yet to have an opinion?""",CBS News Poll
 "=""7/13-14/99""",12,7,15,66,0,722,,,favorability,http://www.pollingreport.com/A-B.htm,CBS News Poll,"""Is your opinion of Bill Bradley favorable, not favorable, undecided, or haven't you heard enough about Bill Bradley yet to have an opinion?""",CBS News Poll
 "=""nan""",,,,,,.,,,favorability,http://www.pollingreport.com/A-B.htm,CBS News Poll,"""Is your opinion of Bill Bradley favorable, not favorable, undecided, or haven't you heard enough about Bill Bradley yet to have an opinion?""",CBS News Poll
+
 
 additional notes
 ['', '', '', '', '', '', 'RV = registered voters']
@@ -1054,6 +1056,7 @@ date,favorable,unfavorable,can't say (vol.),never heard of,sample_size,margin_of
 "=""4/7-8/99""",34,10,24,32,921,,rv,favorability,http://www.pollingreport.com/A-B.htm,Fox News/Opinion Dynamics Poll,"""I'm going to read the names of some prominent people. Please tell me whether you have a generally favorable or unfavorable opinion of each one. If you've never heard of someone, please just say so. Bill Bradley.""",Fox News/Opinion Dynamics Poll
 "=""nan""",,,,,.,,,favorability,http://www.pollingreport.com/A-B.htm,Fox News/Opinion Dynamics Poll,"""I'm going to read the names of some prominent people. Please tell me whether you have a generally favorable or unfavorable opinion of each one. If you've never heard of someone, please just say so. Bill Bradley.""",Fox News/Opinion Dynamics Poll
 
+
 additional notes
 ['', '', '', '', '', 'RV = registered voters']
 
@@ -1079,6 +1082,7 @@ date,favorable,unfavorable,never heard of,no opinion,sample_size,margin_of_error
 "=""4/13-14/99""",46,10,20,24,1069,,,favorability,http://www.pollingreport.com/A-B.htm,Gallup/CNN/USA Today Poll,"""Next, I'd like to get your overall opinion of some people in the news. As I read each name, please say if you have a favorable or unfavorable opinion of this person -- or if you have never heard of him or her. Former New Jersey Senator Bill Bradley.""",Gallup/CNN/USA Today Poll
 "=""2/19-21/99""",38,9,33,20,,,,favorability,http://www.pollingreport.com/A-B.htm,Gallup/CNN/USA Today Poll,"""Next, I'd like to get your overall opinion of some people in the news. As I read each name, please say if you have a favorable or unfavorable opinion of this person -- or if you have never heard of him or her. Former New Jersey Senator Bill Bradley.""",Gallup/CNN/USA Today Poll
 "=""nan""",,,,,.,,,favorability,http://www.pollingreport.com/A-B.htm,Gallup/CNN/USA Today Poll,"""Next, I'd like to get your overall opinion of some people in the news. As I read each name, please say if you have a favorable or unfavorable opinion of this person -- or if you have never heard of him or her. Former New Jersey Senator Bill Bradley.""",Gallup/CNN/USA Today Poll
+
 
 additional notes
 ['', '* Conducted independently by Gallup', '']
@@ -1150,6 +1154,7 @@ date,favorable,unfavorable,no opinion,sample_size,,margin_of_error,subpopulation
 "=""3/11-14/99 ***""",26,48,27,1515,,,,favorability,http://www.pollingreport.com/A-B.htm,ABC News and The Washington Post,"""I'm going to read you a few names. For each, please tell me if you have a favorable or unfavorable impression of that person, or perhaps you don't know enough to say. How about Pat Buchanan?""",ABC News and The Washington Post
 "=""nan""",,,,,.,,,favorability,http://www.pollingreport.com/A-B.htm,ABC News and The Washington Post,"""I'm going to read you a few names. For each, please tell me if you have a favorable or unfavorable impression of that person, or perhaps you don't know enough to say. How about Pat Buchanan?""",ABC News and The Washington Post
 
+
 additional notes
 ['', '* Conducted by ABC News *** Conducted by ABC News and The Washington Post']
 
@@ -1166,6 +1171,7 @@ date,favorable,not favorable,undecided,haven't heard enough,refused,sample_size,
 "=""3/19-21/00""",7,54,21,17,1,909,,rv,favorability,http://www.pollingreport.com/A-B.htm,CBS News Poll,"""Is your opinion of Pat Buchanan favorable, not favorable, undecided, or haven't you heard enough about Pat Buchanan yet to have an opinion?""",CBS News Poll
 "=""12/99""",9,51,22,17,1,,,,favorability,http://www.pollingreport.com/A-B.htm,CBS News Poll,"""Is your opinion of Pat Buchanan favorable, not favorable, undecided, or haven't you heard enough about Pat Buchanan yet to have an opinion?""",CBS News Poll
 "=""nan""",,,,,,.,,,favorability,http://www.pollingreport.com/A-B.htm,CBS News Poll,"""Is your opinion of Pat Buchanan favorable, not favorable, undecided, or haven't you heard enough about Pat Buchanan yet to have an opinion?""",CBS News Poll
+
 
 additional notes
 ['', '', '', '', '', '', 'RV = registered voters']
@@ -1198,6 +1204,7 @@ date,favorable,unfavorable,can't say (vol.),never heard of,sample_size,margin_of
 "=""9/22-23/99""",26,43,24,7,900,,rv,favorability,http://www.pollingreport.com/A-B.htm,FOX News/Opinion Dynamics Poll  ,"""I'm going to read the names of some prominent people. Please tell me whether you have a generally favorable or unfavorable opinion of each one. If you've never heard of someone, please just say so. Pat Buchanan.""",FOX News/Opinion Dynamics Poll  
 "=""6/2-3/99""",30,43,17,10,924,,rv,favorability,http://www.pollingreport.com/A-B.htm,FOX News/Opinion Dynamics Poll  ,"""I'm going to read the names of some prominent people. Please tell me whether you have a generally favorable or unfavorable opinion of each one. If you've never heard of someone, please just say so. Pat Buchanan.""",FOX News/Opinion Dynamics Poll  
 
+
 additional notes
 ['', '', '', '', '', 'RV = registered voters']
 
@@ -1217,6 +1224,7 @@ date,favorable,unfavorable,never heard of,no opinion,sample_size,margin_of_error
 "=""9/23-26/99 *""",32,45,8,15,1039,,,favorability,http://www.pollingreport.com/A-B.htm,Gallup/CNN/USA Today Poll,"""Next, I'd like to get your overall opinion of some people in the news. As I read each name, please say if you have a favorable or unfavorable opinion of this person -- or if you have never heard of him or her.",Gallup/CNN/USA Today Poll
 "=""3/5-7/99""",31,40,9,20,,,,favorability,http://www.pollingreport.com/A-B.htm,Gallup/CNN/USA Today Poll,"""Next, I'd like to get your overall opinion of some people in the news. As I read each name, please say if you have a favorable or unfavorable opinion of this person -- or if you have never heard of him or her.",Gallup/CNN/USA Today Poll
 "=""nan""",,,,,.,,,favorability,http://www.pollingreport.com/A-B.htm,Gallup/CNN/USA Today Poll,"""Next, I'd like to get your overall opinion of some people in the news. As I read each name, please say if you have a favorable or unfavorable opinion of this person -- or if you have never heard of him or her.",Gallup/CNN/USA Today Poll
+
 
 additional notes
 ['', '* Conducted independently by Gallup', '']
@@ -1239,6 +1247,7 @@ date,very positive,somewhat positive,neutral,somewhat negative,very negative,don
 "=""12/9-12/99""",4,13,25,21,26,11,500,,,thermometer,http://www.pollingreport.com/A-B.htm,NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Robert Teeter (R)  ,"""I'm going to read you the names of several public figures and I'd like you to rate your feelings toward each one as either very positive, somewhat positive, neutral, somewhat negative, or very negative. If you don't know the name, please just say so. Pat Buchanan.""",NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Robert Teeter (R)  
 "=""10/23-25/99""",4,14,24,20,28,10,1003,,,thermometer,http://www.pollingreport.com/A-B.htm,NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Robert Teeter (R)  ,"""I'm going to read you the names of several public figures and I'd like you to rate your feelings toward each one as either very positive, somewhat positive, neutral, somewhat negative, or very negative. If you don't know the name, please just say so. Pat Buchanan.""",NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Robert Teeter (R)  
 "=""nan""",,,,,,,.,,,thermometer,http://www.pollingreport.com/A-B.htm,NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Robert Teeter (R)  ,"""I'm going to read you the names of several public figures and I'd like you to rate your feelings toward each one as either very positive, somewhat positive, neutral, somewhat negative, or very negative. If you don't know the name, please just say so. Pat Buchanan.""",NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Robert Teeter (R)  
+
 
 additional notes
 ['', '', '', '', '', '', '', 'RV = registered voters']

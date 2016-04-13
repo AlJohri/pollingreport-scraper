@@ -735,6 +735,7 @@ date,favorable,unfavorable,can't say (vol.),never heard of,,sample_size,margin_o
 "=""1/28/98""",56,30,13,-,,,,,favorability,http://www.pollingreport.com/g.htm,"FOX News/Opinion Dynamics Poll. June 29-30, 2010. N=900 registered voters nationwide. MoE ± 3.","""I'm going to read the names of some people. Please tell me whether you have a generally favorable or unfavorable opinion of each one. If you've never heard of one, please just say so. Al Gore.""",FOX News/Opinion Dynamics Poll
 "=""1/7-8/98""",49,37,13,1,,,,,favorability,http://www.pollingreport.com/g.htm,"FOX News/Opinion Dynamics Poll. June 29-30, 2010. N=900 registered voters nationwide. MoE ± 3.","""I'm going to read the names of some people. Please tell me whether you have a generally favorable or unfavorable opinion of each one. If you've never heard of one, please just say so. Al Gore.""",FOX News/Opinion Dynamics Poll
 
+
 additional notes
 ['', '', '', '', '', 'LV = likely voters']
 
@@ -1007,6 +1008,7 @@ date,approve,disapprove,don't know,sample_size,margin_of_error,subpopulation,que
 "=""4/7-8/98""",57,23,20,,,rv,approval,http://www.pollingreport.com/g.htm,"FOX News/Opinion Dynamics Poll. Nov. 1-2, 2000. N=1,000 likely voters nationwide.","""Do you approve or disapprove of the job Vice President Gore is doing?""",FOX News/Opinion Dynamics Poll
 "=""3/25-26/98""",56,23,21,,,rv,approval,http://www.pollingreport.com/g.htm,"FOX News/Opinion Dynamics Poll. Nov. 1-2, 2000. N=1,000 likely voters nationwide.","""Do you approve or disapprove of the job Vice President Gore is doing?""",FOX News/Opinion Dynamics Poll
 "=""2/11-12/98""",54,24,22,,,rv,approval,http://www.pollingreport.com/g.htm,"FOX News/Opinion Dynamics Poll. Nov. 1-2, 2000. N=1,000 likely voters nationwide.","""Do you approve or disapprove of the job Vice President Gore is doing?""",FOX News/Opinion Dynamics Poll
+
 
 additional notes
 ['', '', '', '', '', 'LV = likely voters RV = registered voters']

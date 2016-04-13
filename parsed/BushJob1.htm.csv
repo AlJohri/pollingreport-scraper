@@ -2,6 +2,7 @@
 "ABC News/Washington Post Poll. April 17-21, 2013. N=1,000 adults nationwide. Margin of error ± 3.5.        "
 "Thinking back to when George W. Bush was in office, would you say you approve or disapprove of the way Bush handled his job as president?"
 manually enter poll
+
 highest lowest approval rows
 ['', 'Highest approval:']
 ['', '10/8-9/01', '92', '6', '1', '', '']
@@ -64,6 +65,7 @@ date,approve,disapprove,unsure,sample_size,margin_of_error,subpopulation,questio
 "=""5/16-17/06""",36,57,7,,,,approval,http://www.pollingreport.com/BushJob1.htm,"CNN/Opinion Research Corporation Poll . Jan. 12-15, 2009. N=1,245 adults nationwide. MoE ± 3.","""Do you approve or disapprove of the way George W. Bush is handling his job as president?""",CNN/Opinion Research Corporation Poll 
 "=""5/5-7/06""",34,58,8,,,,approval,http://www.pollingreport.com/BushJob1.htm,"CNN/Opinion Research Corporation Poll . Jan. 12-15, 2009. N=1,245 adults nationwide. MoE ± 3.","""Do you approve or disapprove of the way George W. Bush is handling his job as president?""",CNN/Opinion Research Corporation Poll 
 "=""4/21-23/06""",32,60,8,,,,approval,http://www.pollingreport.com/BushJob1.htm,"CNN/Opinion Research Corporation Poll . Jan. 12-15, 2009. N=1,245 adults nationwide. MoE ± 3.","""Do you approve or disapprove of the way George W. Bush is handling his job as president?""",CNN/Opinion Research Corporation Poll 
+
 
 highest lowest approval rows
 ['', 'Highest approval:']
@@ -237,6 +239,7 @@ date,approve,disapprove,unsure,sample_size,margin_of_error,subpopulation,questio
 "=""2/7-8/01""",55,16,29,,,,approval,http://www.pollingreport.com/BushJob1.htm,"FOX News/Opinion Dynamics Poll. Jan. 13-14, 2009. N=900 registered voters nationwide. MoE ± 3.    ","""Do you approve or disapprove of the job George W. Bush is doing as president?""",FOX News/Opinion Dynamics Poll
 "=""1/24-25/01""",46,14,40,,,,approval,http://www.pollingreport.com/BushJob1.htm,"FOX News/Opinion Dynamics Poll. Jan. 13-14, 2009. N=900 registered voters nationwide. MoE ± 3.    ","""Do you approve or disapprove of the job George W. Bush is doing as president?""",FOX News/Opinion Dynamics Poll
 
+
 highest lowest approval rows
 ['', 'Highest approval:']
 ['', '11/14-15/01', '88', '7', '5', '', '']
@@ -327,6 +330,7 @@ date,approve,disapprove,unsure,sample_size,margin_of_error,subpopulation,questio
 "=""6/23-25/01""",50,35,15,,,,approval,http://www.pollingreport.com/BushJob1.htm,"NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R). Jan. 9-12, 2009. N=1,007 adults nationwide. MoE ± 3.1.   ","""In general, do you approve or disapprove of the job that George W. Bush is doing as president?""",NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R)
 "=""4/21-23/01""",56,30,14,,,,approval,http://www.pollingreport.com/BushJob1.htm,"NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R). Jan. 9-12, 2009. N=1,007 adults nationwide. MoE ± 3.1.   ","""In general, do you approve or disapprove of the job that George W. Bush is doing as president?""",NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R)
 "=""3/1-4/01""",57,22,21,,,,approval,http://www.pollingreport.com/BushJob1.htm,"NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R). Jan. 9-12, 2009. N=1,007 adults nationwide. MoE ± 3.1.   ","""In general, do you approve or disapprove of the job that George W. Bush is doing as president?""",NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R)
+
 
 highest lowest approval rows
 ['', 'Highest approval:', '', '']
@@ -625,6 +629,7 @@ date,approve,disapprove,unsure,sample_size,margin_of_error,subpopulation,questio
 "=""2/9-11/01""",57,25,18,1016,,,approval,http://www.pollingreport.com/BushJob1.htm,Gallup Poll and USA Today/Gallup Poll. Adults nationwide.    ,"""Do you approve or disapprove of the way George W. Bush is handling his job as president?""",Gallup Poll and USA Today/Gallup Poll
 "=""2/1-4/01""",57,25,18,1003,,,approval,http://www.pollingreport.com/BushJob1.htm,Gallup Poll and USA Today/Gallup Poll. Adults nationwide.    ,"""Do you approve or disapprove of the way George W. Bush is handling his job as president?""",Gallup Poll and USA Today/Gallup Poll
 
+
 highest lowest approval rows
 ['', 'Highest approval:']
 ['', '9/21-22/01 *', '90', '6', '4', '', '1,005']
@@ -746,6 +751,7 @@ date,approve,disapprove,unsure,sample_size,margin_of_error,subpopulation,questio
 "=""5/15-20/01""",53,32,15,,,,approval,http://www.pollingreport.com/BushJob1.htm,"Pew Research Center for the People & the Press survey. Jan. 7-11, 2009. N=734 adults nationwide. MoE ± 4.   ","""Do you approve or disapprove of the way George W. Bush is handling his job as president?"" If ""Depends"":",Pew Research Center for the People & the Press survey
 "=""4/18-22/01""",56,27,17,,,,approval,http://www.pollingreport.com/BushJob1.htm,"Pew Research Center for the People & the Press survey. Jan. 7-11, 2009. N=734 adults nationwide. MoE ± 4.   ","""Do you approve or disapprove of the way George W. Bush is handling his job as president?"" If ""Depends"":",Pew Research Center for the People & the Press survey
 "=""2/14-19/01""",53,21,26,,,,approval,http://www.pollingreport.com/BushJob1.htm,"Pew Research Center for the People & the Press survey. Jan. 7-11, 2009. N=734 adults nationwide. MoE ± 4.   ","""Do you approve or disapprove of the way George W. Bush is handling his job as president?"" If ""Depends"":",Pew Research Center for the People & the Press survey
+
 
 highest lowest approval rows
 ['', 'Highest approval:']
