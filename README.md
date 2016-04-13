@@ -16,6 +16,8 @@ pip install -r requirements.txt
 
 ## Usage
 
+Downloads all of the urls listed in main.py and parses them.
+
 ```
-python scrape_pollingreport.py
+python main.py
 ```

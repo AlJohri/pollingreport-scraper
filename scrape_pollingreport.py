@@ -33,9 +33,11 @@ def scrape_page(url, f):
     html_filename = url.split("/")[-1]
     
     if os.path.isfile("raw/" + html_filename):
+        print(t.bold_magenta("Opening {}".format(url)))
         with open("raw/" + html_filename, "rb") as f2:
             response_content = f2.read()
     else:
+        print(t.bold_magenta("Scraping {}".format(url)))
         response = requests.get(url)
         response_content = response.content
         with open("raw/" + html_filename, "wb") as f2:
@@ -239,7 +241,7 @@ def scrape_page(url, f):
                     data = []
 
                     for row in rows[1:]:
-                        actual_row = [get_stripped_text(x) for x in row]
+                        actual_row = [get_stripped_text(x) for x in row.cssselect("td")]
                         data.append(actual_row)
 
                     # DEBUG
@@ -256,6 +258,10 @@ def scrape_page(url, f):
                         columns = list(df.columns)
                         columns[0] = "date"
                         df.columns = columns
+                    else:
+                        print(t.red(str(df)))
+                        print()
+                        raise Exception("cannot find date in top left of dataframe")
 
                     # TODO: parse date into start date / end date
 
@@ -335,3 +341,14 @@ def scrape_page(url, f):
             print(t.red(traceback.format_exc()))
 
             continue
+
+if __name__ == '__main__':
+
+    os.makedirs("parsed", exist_ok=True)
+    os.makedirs("raw", exist_ok=True)
+
+    url = sys.argv[1]
+    filename = url.split("/")[-1] + ".csv"
+
+    with open("parsed/" + filename, "w", encoding="latin-1") as f:
+        scrape_page(url, f)
