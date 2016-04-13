@@ -1,0 +1,928 @@
+"l.htm | Question 0"
+"NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R). Nov. 4-7, 2005. N=500 adults nationwide."
+"Now I'm going to read you the names of several public figures and organizations, and I'd like you to rate your feelings toward each one as either very positive, somewhat positive, neutral, somewhat negative, or very negative. If you don't know the name, please just say so.
+date,very positive,somewhat positive,neutral,somewhat negative,very negative,don't know name/ not sure,sample_size,margin_of_error,subpopulation,question_type,url,original,question,pollster
+"=""11/4-7/05""",1,5,21,12,27,34,500,,a,thermometer,http://www.pollingreport.com/l.htm,"NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R). Nov. 4-7, 2005. N=500 adults nationwide.","""Now I'm going to read you the names of several public figures and organizations, and I'd like you to rate your feelings toward each one as either very positive, somewhat positive, neutral, somewhat negative, or very negative. If you don't know the name, please just say so.",NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R)
+
+
+
+
+
+
+"l.htm | Question 1"
+"CBS News Poll. Oct. 30-Nov. 1, 2005. N=936 adults nationwide. Margin of error ± 3."
+"Is your opinion of
+date,favorable,not favorable,undecided,haven't heard enough,refused,sample_size,margin_of_error,subpopulation,question_type,url,original,question,pollster
+"=""10/30 - 11/1/05""",4,25,21,50,0,936,3,a,favorability,http://www.pollingreport.com/l.htm,"CBS News Poll. Oct. 30-Nov. 1, 2005. N=936 adults nationwide. Margin of error ± 3.","""Is your opinion of",CBS News Poll
+
+
+
+
+
+
+"l.htm | Question 2"
+"CNN/USA Today/Gallup Poll. Oct. 28-30, 2005. N=800 adults nationwide. Margin of error ± 4."
+"Next, we'd like to get your overall opinion of some people in the news. As I read each name, please say if you have a favorable or unfavorable opinion of these people -- or if you have never heard of them. How about
+date,favorable,unfavorable,never heard of,unsure,sample_size,margin_of_error,subpopulation,question_type,url,original,question,pollster
+"=""10/28-30/05""",10,43,31,16,800,4,a,favorability,http://www.pollingreport.com/l.htm,"CNN/USA Today/Gallup Poll. Oct. 28-30, 2005. N=800 adults nationwide. Margin of error ± 4.","""Next, we'd like to get your overall opinion of some people in the news. As I read each name, please say if you have a favorable or unfavorable opinion of these people -- or if you have never heard of them. How about",CNN/USA Today/Gallup Poll
+
+
+
+
+
+
+"l.htm | Question 3"
+"CNN/Opinion Research Corporation Poll. Dec. 16-20, 2009. N=1,160 adults nationwide. Margin of error ± 3."
+"We'd like to get your overall opinion of some people in the news. As I read each name, please say if you have a favorable or unfavorable opinion of these people -- or if you have never heard of them. Connecticut Senator Joe Lieberman." 8/08: "Connecticut Senator" was omitted.
+date,favorable,unfavorable,never heard of,unsure,sample_size,margin_of_error,subpopulation,question_type,url,original,question,pollster
+"=""12/16-20/09""",31,34,17,17,1160,3,a,favorability,http://www.pollingreport.com/l.htm,"CNN/Opinion Research Corporation Poll. Dec. 16-20, 2009. N=1,160 adults nationwide. Margin of error ± 3.","""We'd like to get your overall opinion of some people in the news. As I read each name, please say if you have a favorable or unfavorable opinion of these people -- or if you have never heard of them. Connecticut Senator Joe Lieberman."" 8/08: ""Connecticut Senator"" was omitted.",CNN/Opinion Research Corporation Poll
+"=""12/2-3/09""",40,28,15,17,,,,favorability,http://www.pollingreport.com/l.htm,"CNN/Opinion Research Corporation Poll. Dec. 16-20, 2009. N=1,160 adults nationwide. Margin of error ± 3.","""We'd like to get your overall opinion of some people in the news. As I read each name, please say if you have a favorable or unfavorable opinion of these people -- or if you have never heard of them. Connecticut Senator Joe Lieberman."" 8/08: ""Connecticut Senator"" was omitted.",CNN/Opinion Research Corporation Poll
+"=""8/29-31/08""",35,37,8,20,,,rv,favorability,http://www.pollingreport.com/l.htm,"CNN/Opinion Research Corporation Poll. Dec. 16-20, 2009. N=1,160 adults nationwide. Margin of error ± 3.","""We'd like to get your overall opinion of some people in the news. As I read each name, please say if you have a favorable or unfavorable opinion of these people -- or if you have never heard of them. Connecticut Senator Joe Lieberman."" 8/08: ""Connecticut Senator"" was omitted.",CNN/Opinion Research Corporation Poll
+
+
+
+
+
+
+"l.htm | Question 4"
+"Diageo/Hotline Poll conducted by Financial Dynamics. Jan. 11-14, 2007. N=approx. 400 registered voters nationwide."
+"Please tell me if you have a favorable or unfavorable opinion of the following public figures. If you haven't heard of them, just tell me and we'll move on. Joe Lieberman."
+date,favorable,unfavorable,heard of/can't rate (vol.),haven't heard of,unsure,sample_size,margin_of_error,subpopulation,question_type,url,original,question,pollster
+"=""1/11-14/07""",45,26,14,10,4,,,rv,favorability,http://www.pollingreport.com/l.htm,"Diageo/Hotline Poll conducted by Financial Dynamics. Jan. 11-14, 2007. N=approx. 400 registered voters nationwide.","""Please tell me if you have a favorable or unfavorable opinion of the following public figures. If you haven't heard of them, just tell me and we'll move on. Joe Lieberman.""",Diageo/Hotline Poll conducted by Financial Dynamics
+"=""8/17-20/06""",40,26,18,12,4,,,,favorability,http://www.pollingreport.com/l.htm,"Diageo/Hotline Poll conducted by Financial Dynamics. Jan. 11-14, 2007. N=approx. 400 registered voters nationwide.","""Please tell me if you have a favorable or unfavorable opinion of the following public figures. If you haven't heard of them, just tell me and we'll move on. Joe Lieberman.""",Diageo/Hotline Poll conducted by Financial Dynamics
+
+
+
+
+
+
+"l.htm | Question 5"
+"NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R). Dec. 8-11, 2006. N=approx. 500 adults nationwide. Margin of error ± 4.4."
+"I'm going to read you the names of several public figures and I'd like you to rate your feelings toward each one as either very positive, somewhat positive, neutral, somewhat negative, or very negative. If you don't know the name, please just say so. Joe Lieberman."
+date,very positive,somewhat positive,neutral,somewhat negative,very negative,don't know name/ not sure,sample_size,margin_of_error,subpopulation,question_type,url,original,question,pollster
+"=""12/8-11/06""",7,24,32,14,6,17,,4,a,thermometer,http://www.pollingreport.com/l.htm,"NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R). Dec. 8-11, 2006. N=approx. 500 adults nationwide. Margin of error ± 4.4.","""I'm going to read you the names of several public figures and I'd like you to rate your feelings toward each one as either very positive, somewhat positive, neutral, somewhat negative, or very negative. If you don't know the name, please just say so. Joe Lieberman.""",NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R)
+"=""7/21-24/06""",5,18,31,15,6,25,,,,thermometer,http://www.pollingreport.com/l.htm,"NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R). Dec. 8-11, 2006. N=approx. 500 adults nationwide. Margin of error ± 4.4.","""I'm going to read you the names of several public figures and I'd like you to rate your feelings toward each one as either very positive, somewhat positive, neutral, somewhat negative, or very negative. If you don't know the name, please just say so. Joe Lieberman.""",NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R)
+"=""1/04""",6,25,26,19,9,14,,,,thermometer,http://www.pollingreport.com/l.htm,"NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R). Dec. 8-11, 2006. N=approx. 500 adults nationwide. Margin of error ± 4.4.","""I'm going to read you the names of several public figures and I'd like you to rate your feelings toward each one as either very positive, somewhat positive, neutral, somewhat negative, or very negative. If you don't know the name, please just say so. Joe Lieberman.""",NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R)
+"=""12/03""",6,23,26,16,11,18,,,,thermometer,http://www.pollingreport.com/l.htm,"NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R). Dec. 8-11, 2006. N=approx. 500 adults nationwide. Margin of error ± 4.4.","""I'm going to read you the names of several public figures and I'd like you to rate your feelings toward each one as either very positive, somewhat positive, neutral, somewhat negative, or very negative. If you don't know the name, please just say so. Joe Lieberman.""",NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R)
+"=""1/01""",14,28,29,14,5,10,,,,thermometer,http://www.pollingreport.com/l.htm,"NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R). Dec. 8-11, 2006. N=approx. 500 adults nationwide. Margin of error ± 4.4.","""I'm going to read you the names of several public figures and I'd like you to rate your feelings toward each one as either very positive, somewhat positive, neutral, somewhat negative, or very negative. If you don't know the name, please just say so. Joe Lieberman.""",NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R)
+"=""12/00""",18,22,25,11,12,12,,,,thermometer,http://www.pollingreport.com/l.htm,"NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R). Dec. 8-11, 2006. N=approx. 500 adults nationwide. Margin of error ± 4.4.","""I'm going to read you the names of several public figures and I'd like you to rate your feelings toward each one as either very positive, somewhat positive, neutral, somewhat negative, or very negative. If you don't know the name, please just say so. Joe Lieberman.""",NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R)
+"=""10/00""",19,28,27,9,6,11,,,rv,thermometer,http://www.pollingreport.com/l.htm,"NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R). Dec. 8-11, 2006. N=approx. 500 adults nationwide. Margin of error ± 4.4.","""I'm going to read you the names of several public figures and I'd like you to rate your feelings toward each one as either very positive, somewhat positive, neutral, somewhat negative, or very negative. If you don't know the name, please just say so. Joe Lieberman.""",NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R)
+"=""9/00""",17,26,26,8,6,17,,,rv,thermometer,http://www.pollingreport.com/l.htm,"NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R). Dec. 8-11, 2006. N=approx. 500 adults nationwide. Margin of error ± 4.4.","""I'm going to read you the names of several public figures and I'd like you to rate your feelings toward each one as either very positive, somewhat positive, neutral, somewhat negative, or very negative. If you don't know the name, please just say so. Joe Lieberman.""",NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R)
+"=""8/00""",19,21,27,7,4,22,,,rv,thermometer,http://www.pollingreport.com/l.htm,"NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R). Dec. 8-11, 2006. N=approx. 500 adults nationwide. Margin of error ± 4.4.","""I'm going to read you the names of several public figures and I'd like you to rate your feelings toward each one as either very positive, somewhat positive, neutral, somewhat negative, or very negative. If you don't know the name, please just say so. Joe Lieberman.""",NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R)
+
+
+
+
+
+
+"l.htm | Question 6"
+"Quinnipiac University Poll. Nov. 13-19, 2006. N=1,623 registered voters nationwide. Margin of error ± 2.4."
+"I'd like to get your feelings toward some of our political leaders and other people who have been in the news. I'll read the name of a person and I'd like you to rate that person using something called the feeling thermometer. You can choose any number between 0 and 100. The higher the number, the warmer or more favorable you feel toward that person, the lower the number, the colder or less favorable. If we come to a person who you haven't heard enough about to form an opinion, you don't need to rate the person. Just tell me and we'll move on to the next one. How do you feel about Joe Lieberman?"
+manually enter poll
+
+
+
+
+
+"l.htm | Question 7"
+"CBS News/New York Times Poll. Jan. 12-15, 2004. N=877 registered voters nationwide."
+"Is your opinion of
+date,favorable,not favorable,undecided,haven't heard enough,sample_size,margin_of_error,subpopulation,question_type,url,original,question,pollster
+"=""1/04""",24,27,28,20,877,,rv,favorability,http://www.pollingreport.com/l.htm,"CBS News/New York Times Poll. Jan. 12-15, 2004. N=877 registered voters nationwide.","""Is your opinion of",CBS News/New York Times Poll
+"=""12/03""",27,24,30,20,,,,favorability,http://www.pollingreport.com/l.htm,"CBS News/New York Times Poll. Jan. 12-15, 2004. N=877 registered voters nationwide.","""Is your opinion of",CBS News/New York Times Poll
+"=""8/03""",28,21,23,28,,,,favorability,http://www.pollingreport.com/l.htm,"CBS News/New York Times Poll. Jan. 12-15, 2004. N=877 registered voters nationwide.","""Is your opinion of",CBS News/New York Times Poll
+
+
+
+
+
+
+"l.htm | Question 8"
+"Gallup Poll. Nov. 10-12, 2003. N=1,004 adults nationwide. ± 3."
+"Next, I'd like to get your overall opinion of some people in the news. As I read each name, please say if you have a favorable or unfavorable opinion of this person -- or if you have never heard of him. Connecticut Senator Joe Lieberman."
+date,favorable,unfavorable,never heard of,no opinion,sample_size,margin_of_error,subpopulation,question_type,url,original,question,pollster
+"=""11/10-12/03""",39,28,15,18,1004,,a,favorability,http://www.pollingreport.com/l.htm,"Gallup Poll. Nov. 10-12, 2003. N=1,004 adults nationwide. ± 3.","""Next, I'd like to get your overall opinion of some people in the news. As I read each name, please say if you have a favorable or unfavorable opinion of this person -- or if you have never heard of him. Connecticut Senator Joe Lieberman.""",Gallup Poll
+"=""3/29-30/03""",41,26,13,20,,,,favorability,http://www.pollingreport.com/l.htm,"Gallup Poll. Nov. 10-12, 2003. N=1,004 adults nationwide. ± 3.","""Next, I'd like to get your overall opinion of some people in the news. As I read each name, please say if you have a favorable or unfavorable opinion of this person -- or if you have never heard of him. Connecticut Senator Joe Lieberman.""",Gallup Poll
+"=""12/16-17/02""",44,24,16,16,,,,favorability,http://www.pollingreport.com/l.htm,"Gallup Poll. Nov. 10-12, 2003. N=1,004 adults nationwide. ± 3.","""Next, I'd like to get your overall opinion of some people in the news. As I read each name, please say if you have a favorable or unfavorable opinion of this person -- or if you have never heard of him. Connecticut Senator Joe Lieberman.""",Gallup Poll
+"=""3/9-11/01""",52,20,10,18,,,,favorability,http://www.pollingreport.com/l.htm,"Gallup Poll. Nov. 10-12, 2003. N=1,004 adults nationwide. ± 3.","""Next, I'd like to get your overall opinion of some people in the news. As I read each name, please say if you have a favorable or unfavorable opinion of this person -- or if you have never heard of him. Connecticut Senator Joe Lieberman.""",Gallup Poll
+"=""12/2-4/00""",47,30,11,12,,,,favorability,http://www.pollingreport.com/l.htm,"Gallup Poll. Nov. 10-12, 2003. N=1,004 adults nationwide. ± 3.","""Next, I'd like to get your overall opinion of some people in the news. As I read each name, please say if you have a favorable or unfavorable opinion of this person -- or if you have never heard of him. Connecticut Senator Joe Lieberman.""",Gallup Poll
+"=""11/13-15/00""",48,23,8,21,,,,favorability,http://www.pollingreport.com/l.htm,"Gallup Poll. Nov. 10-12, 2003. N=1,004 adults nationwide. ± 3.","""Next, I'd like to get your overall opinion of some people in the news. As I read each name, please say if you have a favorable or unfavorable opinion of this person -- or if you have never heard of him. Connecticut Senator Joe Lieberman.""",Gallup Poll
+"=""8/18-19/00""",55,13,11,21,,,,favorability,http://www.pollingreport.com/l.htm,"Gallup Poll. Nov. 10-12, 2003. N=1,004 adults nationwide. ± 3.","""Next, I'd like to get your overall opinion of some people in the news. As I read each name, please say if you have a favorable or unfavorable opinion of this person -- or if you have never heard of him. Connecticut Senator Joe Lieberman.""",Gallup Poll
+"=""8/7/00""",37,10,24,29,,,rv,favorability,http://www.pollingreport.com/l.htm,"Gallup Poll. Nov. 10-12, 2003. N=1,004 adults nationwide. ± 3.","""Next, I'd like to get your overall opinion of some people in the news. As I read each name, please say if you have a favorable or unfavorable opinion of this person -- or if you have never heard of him. Connecticut Senator Joe Lieberman.""",Gallup Poll
+
+
+
+
+
+
+"l.htm | Question 9"
+"FOX News/Opinion Dynamics Poll. Aug. 12-13, 2003. N=900 registered voters nationwide. Margin of error ± 3.  "
+"I'm going to read the names of some people. Please tell me whether you have a generally favorable or unfavorable opinion of each. If you've never heard of one, please just say so. Joe Lieberman."
+date,favorable,unfavorable,can't say (vol.),never heard of,sample_size,margin_of_error,subpopulation,question_type,url,original,question,pollster
+"=""8/03""",42,28,18,12,900,3,rv,favorability,http://www.pollingreport.com/l.htm,"FOX News/Opinion Dynamics Poll. Aug. 12-13, 2003. N=900 registered voters nationwide. Margin of error ± 3.  ","""I'm going to read the names of some people. Please tell me whether you have a generally favorable or unfavorable opinion of each. If you've never heard of one, please just say so. Joe Lieberman.""",FOX News/Opinion Dynamics Poll
+"=""6/03""",46,23,18,13,,,,favorability,http://www.pollingreport.com/l.htm,"FOX News/Opinion Dynamics Poll. Aug. 12-13, 2003. N=900 registered voters nationwide. Margin of error ± 3.  ","""I'm going to read the names of some people. Please tell me whether you have a generally favorable or unfavorable opinion of each. If you've never heard of one, please just say so. Joe Lieberman.""",FOX News/Opinion Dynamics Poll
+"=""1/14-15/03""",42,30,20,8,,,,favorability,http://www.pollingreport.com/l.htm,"FOX News/Opinion Dynamics Poll. Aug. 12-13, 2003. N=900 registered voters nationwide. Margin of error ± 3.  ","""I'm going to read the names of some people. Please tell me whether you have a generally favorable or unfavorable opinion of each. If you've never heard of one, please just say so. Joe Lieberman.""",FOX News/Opinion Dynamics Poll
+"=""12/17-18/02""",42,25,21,12,,,,favorability,http://www.pollingreport.com/l.htm,"FOX News/Opinion Dynamics Poll. Aug. 12-13, 2003. N=900 registered voters nationwide. Margin of error ± 3.  ","""I'm going to read the names of some people. Please tell me whether you have a generally favorable or unfavorable opinion of each. If you've never heard of one, please just say so. Joe Lieberman.""",FOX News/Opinion Dynamics Poll
+"=""11/29-30/00""",47,26,23,4,,,,favorability,http://www.pollingreport.com/l.htm,"FOX News/Opinion Dynamics Poll. Aug. 12-13, 2003. N=900 registered voters nationwide. Margin of error ± 3.  ","""I'm going to read the names of some people. Please tell me whether you have a generally favorable or unfavorable opinion of each. If you've never heard of one, please just say so. Joe Lieberman.""",FOX News/Opinion Dynamics Poll
+"=""11/1-2/00""",53,21,20,6,,,lv,favorability,http://www.pollingreport.com/l.htm,"FOX News/Opinion Dynamics Poll. Aug. 12-13, 2003. N=900 registered voters nationwide. Margin of error ± 3.  ","""I'm going to read the names of some people. Please tell me whether you have a generally favorable or unfavorable opinion of each. If you've never heard of one, please just say so. Joe Lieberman.""",FOX News/Opinion Dynamics Poll
+"=""10/18-19/00""",50,22,22,6,,,lv,favorability,http://www.pollingreport.com/l.htm,"FOX News/Opinion Dynamics Poll. Aug. 12-13, 2003. N=900 registered voters nationwide. Margin of error ± 3.  ","""I'm going to read the names of some people. Please tell me whether you have a generally favorable or unfavorable opinion of each. If you've never heard of one, please just say so. Joe Lieberman.""",FOX News/Opinion Dynamics Poll
+"=""10/4-5/00""",47,17,27,9,,,lv,favorability,http://www.pollingreport.com/l.htm,"FOX News/Opinion Dynamics Poll. Aug. 12-13, 2003. N=900 registered voters nationwide. Margin of error ± 3.  ","""I'm going to read the names of some people. Please tell me whether you have a generally favorable or unfavorable opinion of each. If you've never heard of one, please just say so. Joe Lieberman.""",FOX News/Opinion Dynamics Poll
+"=""9/20-21/00""",53,16,23,8,,,lv,favorability,http://www.pollingreport.com/l.htm,"FOX News/Opinion Dynamics Poll. Aug. 12-13, 2003. N=900 registered voters nationwide. Margin of error ± 3.  ","""I'm going to read the names of some people. Please tell me whether you have a generally favorable or unfavorable opinion of each. If you've never heard of one, please just say so. Joe Lieberman.""",FOX News/Opinion Dynamics Poll
+"=""9/6-7/00""",52,18,25,5,,,lv,favorability,http://www.pollingreport.com/l.htm,"FOX News/Opinion Dynamics Poll. Aug. 12-13, 2003. N=900 registered voters nationwide. Margin of error ± 3.  ","""I'm going to read the names of some people. Please tell me whether you have a generally favorable or unfavorable opinion of each. If you've never heard of one, please just say so. Joe Lieberman.""",FOX News/Opinion Dynamics Poll
+"=""8/23-24/00""",52,13,28,7,,,,favorability,http://www.pollingreport.com/l.htm,"FOX News/Opinion Dynamics Poll. Aug. 12-13, 2003. N=900 registered voters nationwide. Margin of error ± 3.  ","""I'm going to read the names of some people. Please tell me whether you have a generally favorable or unfavorable opinion of each. If you've never heard of one, please just say so. Joe Lieberman.""",FOX News/Opinion Dynamics Poll
+"=""8/9-10/00""",48,10,30,12,,,,favorability,http://www.pollingreport.com/l.htm,"FOX News/Opinion Dynamics Poll. Aug. 12-13, 2003. N=900 registered voters nationwide. Margin of error ± 3.  ","""I'm going to read the names of some people. Please tell me whether you have a generally favorable or unfavorable opinion of each. If you've never heard of one, please just say so. Joe Lieberman.""",FOX News/Opinion Dynamics Poll
+
+
+
+
+
+
+"l.htm | Question 10"
+"Time/CNN Poll conducted by Harris Interactive. Feb. 19-20, 2003. N=629 Democrats and independents who lean Democratic nationwide .   "
+"Next, I'm going to read you the names of some people in the news today. Please tell me whether you have generally favorable or generally unfavorable impressions of each, or whether you are not familiar enough to say one way or another. Connecticut Senator Joseph Lieberman." *
+manually enter poll
+
+
+
+
+
+"l.htm | Question 11"
+"Zogby America Poll. Jan. 24-26, 2003. N=1,017 likely voters nationwide. Margin of error ± 3.1.  "
+"Please tell me if your overall opinion of each of the following people is very favorable, somewhat favorable, somewhat unfavorable, very unfavorable, or you are not familiar enough to form an opinion. Joe Lieberman."
+date,very favorable,somewhat favorable,somewhat unfavorable,very unfavorable,not familiar enough,unsure,sample_size,margin_of_error,subpopulation,question_type,url,original,question,pollster
+"=""1/03""",14,36,15,14,20,2,1017,3,lv,favorability,http://www.pollingreport.com/l.htm,"Zogby America Poll. Jan. 24-26, 2003. N=1,017 likely voters nationwide. Margin of error ± 3.1.  ","""Please tell me if your overall opinion of each of the following people is very favorable, somewhat favorable, somewhat unfavorable, very unfavorable, or you are not familiar enough to form an opinion. Joe Lieberman.""",Zogby America Poll
+
+
+
+
+
+
+"l.htm | Question 12"
+"Pew Research Center for the People & the Press survey conducted by Princeton Survey Research Associates. Dec. 4-8, 2002. N=1,205 adults nationwide. Margin of error ± 3.  "
+"Now I'd like your views on some people and organizations. As I read from a list, please tell me which category best describes your overall opinion of who I name. Would you say your overall opinion of Joe Lieberman is very favorable, mostly favorable, mostly unfavorable, or very unfavorable?"
+date,very favorable,mostly favorable,mostly unfavorable,very unfavorable,never heard of,can't rate (vol.),sample_size,margin_of_error,subpopulation,question_type,url,original,question,pollster
+"=""12/02""",8,31,18,9,16,18,1205,3,a,favorability,http://www.pollingreport.com/l.htm,"Pew Research Center for the People & the Press survey conducted by Princeton Survey Research Associates. Dec. 4-8, 2002. N=1,205 adults nationwide. Margin of error ± 3.  ","""Now I'd like your views on some people and organizations. As I read from a list, please tell me which category best describes your overall opinion of who I name. Would you say your overall opinion of Joe Lieberman is very favorable, mostly favorable, mostly unfavorable, or very unfavorable?""",Pew Research Center for the People & the Press survey conducted by Princeton Survey Research Associates
+"=""7/01""",10,34,18,8,13,17,,,,favorability,http://www.pollingreport.com/l.htm,"Pew Research Center for the People & the Press survey conducted by Princeton Survey Research Associates. Dec. 4-8, 2002. N=1,205 adults nationwide. Margin of error ± 3.  ","""Now I'd like your views on some people and organizations. As I read from a list, please tell me which category best describes your overall opinion of who I name. Would you say your overall opinion of Joe Lieberman is very favorable, mostly favorable, mostly unfavorable, or very unfavorable?""",Pew Research Center for the People & the Press survey conducted by Princeton Survey Research Associates
+"=""1/01""",17,38,16,5,6,18,,,,favorability,http://www.pollingreport.com/l.htm,"Pew Research Center for the People & the Press survey conducted by Princeton Survey Research Associates. Dec. 4-8, 2002. N=1,205 adults nationwide. Margin of error ± 3.  ","""Now I'd like your views on some people and organizations. As I read from a list, please tell me which category best describes your overall opinion of who I name. Would you say your overall opinion of Joe Lieberman is very favorable, mostly favorable, mostly unfavorable, or very unfavorable?""",Pew Research Center for the People & the Press survey conducted by Princeton Survey Research Associates
+
+
+
+
+
+
+"l.htm | Question 13"
+"NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R). June 12-15, 2009. N=approx. 500 adults nationwide. Margin of error ± 4.4."
+"I'm going to read you the names of several public figures and I'd like you to rate your feelings toward each one as either very positive, somewhat positive, neutral, somewhat negative, or very negative. If you don't know the name, please just say so. Rush Limbaugh."
+date,very positive,somewhat positive,neutral,somewhat negative,very negative,don't know name/ not sure,sample_size,margin_of_error,subpopulation,question_type,url,original,question,pollster
+"=""6/12-15/09""",8,15,17,13,37,10,,4,a,thermometer,http://www.pollingreport.com/l.htm,"NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R). June 12-15, 2009. N=approx. 500 adults nationwide. Margin of error ± 4.4.","""I'm going to read you the names of several public figures and I'd like you to rate your feelings toward each one as either very positive, somewhat positive, neutral, somewhat negative, or very negative. If you don't know the name, please just say so. Rush Limbaugh.""",NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R)
+"=""6/95""",10,14,14,14,34,14,,,,thermometer,http://www.pollingreport.com/l.htm,"NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R). June 12-15, 2009. N=approx. 500 adults nationwide. Margin of error ± 4.4.","""I'm going to read you the names of several public figures and I'd like you to rate your feelings toward each one as either very positive, somewhat positive, neutral, somewhat negative, or very negative. If you don't know the name, please just say so. Rush Limbaugh.""",NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R)
+"=""10/93""",13,13,16,9,25,24,,,,thermometer,http://www.pollingreport.com/l.htm,"NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R). June 12-15, 2009. N=approx. 500 adults nationwide. Margin of error ± 4.4.","""I'm going to read you the names of several public figures and I'd like you to rate your feelings toward each one as either very positive, somewhat positive, neutral, somewhat negative, or very negative. If you don't know the name, please just say so. Rush Limbaugh.""",NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R)
+
+
+
+
+
+
+"l.htm | Question 14"
+"Diageo/Hotline Poll conducted by FD. June 4-7, 2009. N=800 registered voters nationwide. Margin of error ± 3.5."
+"Now, I'd like to read you a list of various national public figures, and for each one, please tell me if you have a favorable or unfavorable opinion of them. If you haven't heard of them, just tell me and we'll move on. Rush Limbaugh."
+date,favorable,unfavorable,heard of/can't rate (vol.),haven't heard of,unsure,sample_size,margin_of_error,subpopulation,question_type,url,original,question,pollster
+"=""6/4-7/09""",27,56,8,6,3,800,3,rv,favorability,http://www.pollingreport.com/l.htm,"Diageo/Hotline Poll conducted by FD. June 4-7, 2009. N=800 registered voters nationwide. Margin of error ± 3.5.","""Now, I'd like to read you a list of various national public figures, and for each one, please tell me if you have a favorable or unfavorable opinion of them. If you haven't heard of them, just tell me and we'll move on. Rush Limbaugh.""",Diageo/Hotline Poll conducted by FD
+
+
+
+
+
+
+"l.htm | Question 15"
+"CNN/Opinion Research Corporation Poll. May 14-17, 2009. N=1,010 adults nationwide. Margin of error ± 3."
+"We'd like to get your overall opinion of some people in the news. As I read each name, please say if you have a favorable or unfavorable opinion of these people -- or if you have never heard of them. Rush Limbaugh."
+date,favorable,unfavorable,never heard of,unsure,sample_size,margin_of_error,subpopulation,question_type,url,original,question,pollster
+"=""5/14-17/09""",30,53,11,6,1010,3,a,favorability,http://www.pollingreport.com/l.htm,"CNN/Opinion Research Corporation Poll. May 14-17, 2009. N=1,010 adults nationwide. Margin of error ± 3.","""We'd like to get your overall opinion of some people in the news. As I read each name, please say if you have a favorable or unfavorable opinion of these people -- or if you have never heard of them. Rush Limbaugh.""",CNN/Opinion Research Corporation Poll
+"=""10/27-29/06""",26,58,7,9,,,,favorability,http://www.pollingreport.com/l.htm,"CNN/Opinion Research Corporation Poll. May 14-17, 2009. N=1,010 adults nationwide. Margin of error ± 3.","""We'd like to get your overall opinion of some people in the news. As I read each name, please say if you have a favorable or unfavorable opinion of these people -- or if you have never heard of them. Rush Limbaugh.""",CNN/Opinion Research Corporation Poll
+
+
+
+
+
+
+"l.htm | Question 16"
+"FOX News/Opinion Dynamics Poll. March 31-April 1, 2009. N=900 registered voters nationwide. Margin of error ± 3.  "
+"I'm going to read you the names of several individuals and groups. Please tell me whether you have a generally favorable or unfavorable opinion of each one. If you've never heard of one please just say so. Rush Limbaugh."
+date,favorable,unfavorable,unsure,never heard of,sample_size,margin_of_error,subpopulation,question_type,url,original,question,pollster
+"=""3/31 - 4/1/09""",31,52,13,5,900,3,rv,favorability,http://www.pollingreport.com/l.htm,"FOX News/Opinion Dynamics Poll. March 31-April 1, 2009. N=900 registered voters nationwide. Margin of error ± 3.  ","""I'm going to read you the names of several individuals and groups. Please tell me whether you have a generally favorable or unfavorable opinion of each one. If you've never heard of one please just say so. Rush Limbaugh.""",FOX News/Opinion Dynamics Poll
+
+
+
+
+
+
+"l.htm | Question 17"
+"Ipsos/McClatchy Poll conducted by Ipsos Public Affairs. March 5-9, 2009. N=1,070 adults nationwide. Margin of error ± 3.  "
+"What is your opinion of Rush Limbaugh: very favorable, somewhat favorable, somewhat unfavorable, or very unfavorable?"
+date,very favorable,somewhat favorable,somewhat unfavorable,very unfavorable,no opinion/ unsure,sample_size,margin_of_error,subpopulation,question_type,url,original,question,pollster
+"=""3/5-9/09""",11,19,13,33,24,1070,3,a,favorability,http://www.pollingreport.com/l.htm,"Ipsos/McClatchy Poll conducted by Ipsos Public Affairs. March 5-9, 2009. N=1,070 adults nationwide. Margin of error ± 3.  ","""What is your opinion of Rush Limbaugh: very favorable, somewhat favorable, somewhat unfavorable, or very unfavorable?""",Ipsos/McClatchy Poll conducted by Ipsos Public Affairs
+
+
+
+
+
+
+"l.htm | Question 18"
+"Newsweek Poll conducted by Princeton Survey Research Associates International. March 4-5, 2009. N=1,203 adults nationwide. Margin of error ± 3.5.      "
+"Do you have a favorable or unfavorable opinion of radio talk show host Rush Limbaugh?"
+manually enter poll
+
+
+
+
+
+"l.htm | Question 19"
+"Gallup Poll. Jan. 30-Feb. 1, 2009. N=1,027 adults nationwide. Margin of error ± 3.  "
+"Finally, thinking about radio talk show host Rush Limbaugh: Do you have a favorable or unfavorable opinion of Rush Limbaugh, or have you never heard of him?"
+"l.htm | Question 20"
+"CNN/ORC Poll. March 15-17, 2013. N=1,021 adults nationwide. Margin of error ± 3."
+"We'd like to get your overall opinion of some people in the news. As I read each name, please say if you have a favorable or unfavorable opinion of these people -- or if you have never heard of them. John McCain." 6/07 - 8/23-24/08: "Arizona Senator John McCain"
+date,favorable,unfavorable,never heard of,unsure,sample_size,margin_of_error,subpopulation,question_type,url,original,question,pollster
+"=""3/15-17/13""",46,42,3,9,1021,3,a,favorability,http://www.pollingreport.com/l.htm,"CNN/ORC Poll. March 15-17, 2013. N=1,021 adults nationwide. Margin of error ± 3.","""We'd like to get your overall opinion of some people in the news. As I read each name, please say if you have a favorable or unfavorable opinion of these people -- or if you have never heard of them. John McCain."" 6/07 - 8/23-24/08: ""Arizona Senator John McCain""",CNN/ORC Poll
+"=""1/14-16/11""",54,39,1,6,,,,favorability,http://www.pollingreport.com/l.htm,"CNN/ORC Poll. March 15-17, 2013. N=1,021 adults nationwide. Margin of error ± 3.","""We'd like to get your overall opinion of some people in the news. As I read each name, please say if you have a favorable or unfavorable opinion of these people -- or if you have never heard of them. John McCain."" 6/07 - 8/23-24/08: ""Arizona Senator John McCain""",CNN/ORC Poll
+"=""1/22-24/10""",58,36,-,5,,,,favorability,http://www.pollingreport.com/l.htm,"CNN/ORC Poll. March 15-17, 2013. N=1,021 adults nationwide. Margin of error ± 3.","""We'd like to get your overall opinion of some people in the news. As I read each name, please say if you have a favorable or unfavorable opinion of these people -- or if you have never heard of them. John McCain."" 6/07 - 8/23-24/08: ""Arizona Senator John McCain""",CNN/ORC Poll
+"=""7/31 - 8/3/09""",51,40,2,7,,,,favorability,http://www.pollingreport.com/l.htm,"CNN/ORC Poll. March 15-17, 2013. N=1,021 adults nationwide. Margin of error ± 3.","""We'd like to get your overall opinion of some people in the news. As I read each name, please say if you have a favorable or unfavorable opinion of these people -- or if you have never heard of them. John McCain."" 6/07 - 8/23-24/08: ""Arizona Senator John McCain""",CNN/ORC Poll
+"=""5/14-17/09""",58,37,-,5,,,,favorability,http://www.pollingreport.com/l.htm,"CNN/ORC Poll. March 15-17, 2013. N=1,021 adults nationwide. Margin of error ± 3.","""We'd like to get your overall opinion of some people in the news. As I read each name, please say if you have a favorable or unfavorable opinion of these people -- or if you have never heard of them. John McCain."" 6/07 - 8/23-24/08: ""Arizona Senator John McCain""",CNN/ORC Poll
+"=""2/18-19/09""",52,40,-,7,,,,favorability,http://www.pollingreport.com/l.htm,"CNN/ORC Poll. March 15-17, 2013. N=1,021 adults nationwide. Margin of error ± 3.","""We'd like to get your overall opinion of some people in the news. As I read each name, please say if you have a favorable or unfavorable opinion of these people -- or if you have never heard of them. John McCain."" 6/07 - 8/23-24/08: ""Arizona Senator John McCain""",CNN/ORC Poll
+"=""11/6-9/08""",61,36,-,3,,,,favorability,http://www.pollingreport.com/l.htm,"CNN/ORC Poll. March 15-17, 2013. N=1,021 adults nationwide. Margin of error ± 3.","""We'd like to get your overall opinion of some people in the news. As I read each name, please say if you have a favorable or unfavorable opinion of these people -- or if you have never heard of them. John McCain."" 6/07 - 8/23-24/08: ""Arizona Senator John McCain""",CNN/ORC Poll
+"=""10/30 - 11/1/08""",57,41,-,3,,,lv,favorability,http://www.pollingreport.com/l.htm,"CNN/ORC Poll. March 15-17, 2013. N=1,021 adults nationwide. Margin of error ± 3.","""We'd like to get your overall opinion of some people in the news. As I read each name, please say if you have a favorable or unfavorable opinion of these people -- or if you have never heard of them. John McCain."" 6/07 - 8/23-24/08: ""Arizona Senator John McCain""",CNN/ORC Poll
+"=""10/17-19/08""",59,39,-,3,,,lv,favorability,http://www.pollingreport.com/l.htm,"CNN/ORC Poll. March 15-17, 2013. N=1,021 adults nationwide. Margin of error ± 3.","""We'd like to get your overall opinion of some people in the news. As I read each name, please say if you have a favorable or unfavorable opinion of these people -- or if you have never heard of them. John McCain."" 6/07 - 8/23-24/08: ""Arizona Senator John McCain""",CNN/ORC Poll
+"=""10/3-5/08""",55,42,-,2,,,lv,favorability,http://www.pollingreport.com/l.htm,"CNN/ORC Poll. March 15-17, 2013. N=1,021 adults nationwide. Margin of error ± 3.","""We'd like to get your overall opinion of some people in the news. As I read each name, please say if you have a favorable or unfavorable opinion of these people -- or if you have never heard of them. John McCain."" 6/07 - 8/23-24/08: ""Arizona Senator John McCain""",CNN/ORC Poll
+"=""9/19-21/08""",59,38,-,3,,,lv,favorability,http://www.pollingreport.com/l.htm,"CNN/ORC Poll. March 15-17, 2013. N=1,021 adults nationwide. Margin of error ± 3.","""We'd like to get your overall opinion of some people in the news. As I read each name, please say if you have a favorable or unfavorable opinion of these people -- or if you have never heard of them. John McCain."" 6/07 - 8/23-24/08: ""Arizona Senator John McCain""",CNN/ORC Poll
+"=""9/5-7/08""",60,33,-,6,,,rv,favorability,http://www.pollingreport.com/l.htm,"CNN/ORC Poll. March 15-17, 2013. N=1,021 adults nationwide. Margin of error ± 3.","""We'd like to get your overall opinion of some people in the news. As I read each name, please say if you have a favorable or unfavorable opinion of these people -- or if you have never heard of them. John McCain."" 6/07 - 8/23-24/08: ""Arizona Senator John McCain""",CNN/ORC Poll
+"=""8/29-31/08""",59,38,-,3,,,rv,favorability,http://www.pollingreport.com/l.htm,"CNN/ORC Poll. March 15-17, 2013. N=1,021 adults nationwide. Margin of error ± 3.","""We'd like to get your overall opinion of some people in the news. As I read each name, please say if you have a favorable or unfavorable opinion of these people -- or if you have never heard of them. John McCain."" 6/07 - 8/23-24/08: ""Arizona Senator John McCain""",CNN/ORC Poll
+"=""8/23-24/08""",61,33,-,6,,,rv,favorability,http://www.pollingreport.com/l.htm,"CNN/ORC Poll. March 15-17, 2013. N=1,021 adults nationwide. Margin of error ± 3.","""We'd like to get your overall opinion of some people in the news. As I read each name, please say if you have a favorable or unfavorable opinion of these people -- or if you have never heard of them. John McCain."" 6/07 - 8/23-24/08: ""Arizona Senator John McCain""",CNN/ORC Poll
+"=""7/27-29/08""",62,33,1,4,,,rv,favorability,http://www.pollingreport.com/l.htm,"CNN/ORC Poll. March 15-17, 2013. N=1,021 adults nationwide. Margin of error ± 3.","""We'd like to get your overall opinion of some people in the news. As I read each name, please say if you have a favorable or unfavorable opinion of these people -- or if you have never heard of them. John McCain."" 6/07 - 8/23-24/08: ""Arizona Senator John McCain""",CNN/ORC Poll
+"=""7/27-29/08""",62,33,1,4,,,rv,favorability,http://www.pollingreport.com/l.htm,"CNN/ORC Poll. March 15-17, 2013. N=1,021 adults nationwide. Margin of error ± 3.","""We'd like to get your overall opinion of some people in the news. As I read each name, please say if you have a favorable or unfavorable opinion of these people -- or if you have never heard of them. John McCain."" 6/07 - 8/23-24/08: ""Arizona Senator John McCain""",CNN/ORC Poll
+"=""6/26-29/08""",59,37,-,4,,,rv,favorability,http://www.pollingreport.com/l.htm,"CNN/ORC Poll. March 15-17, 2013. N=1,021 adults nationwide. Margin of error ± 3.","""We'd like to get your overall opinion of some people in the news. As I read each name, please say if you have a favorable or unfavorable opinion of these people -- or if you have never heard of them. John McCain."" 6/07 - 8/23-24/08: ""Arizona Senator John McCain""",CNN/ORC Poll
+"=""4/28-30/08""",55,36,1,7,,,,favorability,http://www.pollingreport.com/l.htm,"CNN/ORC Poll. March 15-17, 2013. N=1,021 adults nationwide. Margin of error ± 3.","""We'd like to get your overall opinion of some people in the news. As I read each name, please say if you have a favorable or unfavorable opinion of these people -- or if you have never heard of them. John McCain."" 6/07 - 8/23-24/08: ""Arizona Senator John McCain""",CNN/ORC Poll
+"=""2/1-3/08""",53,36,3,8,,,,favorability,http://www.pollingreport.com/l.htm,"CNN/ORC Poll. March 15-17, 2013. N=1,021 adults nationwide. Margin of error ± 3.","""We'd like to get your overall opinion of some people in the news. As I read each name, please say if you have a favorable or unfavorable opinion of these people -- or if you have never heard of them. John McCain."" 6/07 - 8/23-24/08: ""Arizona Senator John McCain""",CNN/ORC Poll
+"=""1/9-10/08""",54,29,5,13,,,,favorability,http://www.pollingreport.com/l.htm,"CNN/ORC Poll. March 15-17, 2013. N=1,021 adults nationwide. Margin of error ± 3.","""We'd like to get your overall opinion of some people in the news. As I read each name, please say if you have a favorable or unfavorable opinion of these people -- or if you have never heard of them. John McCain."" 6/07 - 8/23-24/08: ""Arizona Senator John McCain""",CNN/ORC Poll
+"=""9/7-9/07""",47,32,7,14,,,,favorability,http://www.pollingreport.com/l.htm,"CNN/ORC Poll. March 15-17, 2013. N=1,021 adults nationwide. Margin of error ± 3.","""We'd like to get your overall opinion of some people in the news. As I read each name, please say if you have a favorable or unfavorable opinion of these people -- or if you have never heard of them. John McCain."" 6/07 - 8/23-24/08: ""Arizona Senator John McCain""",CNN/ORC Poll
+"=""6/22-24/07""",46,32,9,13,,,,favorability,http://www.pollingreport.com/l.htm,"CNN/ORC Poll. March 15-17, 2013. N=1,021 adults nationwide. Margin of error ± 3.","""We'd like to get your overall opinion of some people in the news. As I read each name, please say if you have a favorable or unfavorable opinion of these people -- or if you have never heard of them. John McCain."" 6/07 - 8/23-24/08: ""Arizona Senator John McCain""",CNN/ORC Poll
+"=""3/9-11/07""",47,27,12,14,,,,favorability,http://www.pollingreport.com/l.htm,"CNN/ORC Poll. March 15-17, 2013. N=1,021 adults nationwide. Margin of error ± 3.","""We'd like to get your overall opinion of some people in the news. As I read each name, please say if you have a favorable or unfavorable opinion of these people -- or if you have never heard of them. John McCain."" 6/07 - 8/23-24/08: ""Arizona Senator John McCain""",CNN/ORC Poll
+"=""11/3-5/06""",52,22,11,15,,,,favorability,http://www.pollingreport.com/l.htm,"CNN/ORC Poll. March 15-17, 2013. N=1,021 adults nationwide. Margin of error ± 3.","""We'd like to get your overall opinion of some people in the news. As I read each name, please say if you have a favorable or unfavorable opinion of these people -- or if you have never heard of them. John McCain."" 6/07 - 8/23-24/08: ""Arizona Senator John McCain""",CNN/ORC Poll
+"=""9/22-24/06""",50,25,14,11,,,,favorability,http://www.pollingreport.com/l.htm,"CNN/ORC Poll. March 15-17, 2013. N=1,021 adults nationwide. Margin of error ± 3.","""We'd like to get your overall opinion of some people in the news. As I read each name, please say if you have a favorable or unfavorable opinion of these people -- or if you have never heard of them. John McCain."" 6/07 - 8/23-24/08: ""Arizona Senator John McCain""",CNN/ORC Poll
+"=""4/21-23/06""",46,20,17,16,,,,favorability,http://www.pollingreport.com/l.htm,"CNN/ORC Poll. March 15-17, 2013. N=1,021 adults nationwide. Margin of error ± 3.","""We'd like to get your overall opinion of some people in the news. As I read each name, please say if you have a favorable or unfavorable opinion of these people -- or if you have never heard of them. John McCain."" 6/07 - 8/23-24/08: ""Arizona Senator John McCain""",CNN/ORC Poll
+
+
+
+
+
+
+"l.htm | Question 21"
+"CBS News/New York Times Poll. April 5-12, 2010. N=1,580 adults nationwide. Margin of error ± 3."
+"Is your opinion of John McCain favorable, not favorable, undecided, or haven't you heard enough about John McCain yet to have an opinion?"
+date,favorable,not favorable,undecided,haven't heard enough,refused,sample_size,margin_of_error,subpopulation,question_type,url,original,question,pollster
+"=""4/5-12/10""",23,36,27,12,2,1580,3,a,favorability,http://www.pollingreport.com/l.htm,"CBS News/New York Times Poll. April 5-12, 2010. N=1,580 adults nationwide. Margin of error ± 3.","""Is your opinion of John McCain favorable, not favorable, undecided, or haven't you heard enough about John McCain yet to have an opinion?""",CBS News/New York Times Poll
+"=""10/31 - 11/2/08""",43,42,12,2,1,,,,favorability,http://www.pollingreport.com/l.htm,"CBS News/New York Times Poll. April 5-12, 2010. N=1,580 adults nationwide. Margin of error ± 3.","""Is your opinion of John McCain favorable, not favorable, undecided, or haven't you heard enough about John McCain yet to have an opinion?""",CBS News/New York Times Poll
+"=""10/25-29/08""",41,43,15,1,0,,,,favorability,http://www.pollingreport.com/l.htm,"CBS News/New York Times Poll. April 5-12, 2010. N=1,580 adults nationwide. Margin of error ± 3.","""Is your opinion of John McCain favorable, not favorable, undecided, or haven't you heard enough about John McCain yet to have an opinion?""",CBS News/New York Times Poll
+"=""10/19-22/08""",39,46,13,1,1,,,,favorability,http://www.pollingreport.com/l.htm,"CBS News/New York Times Poll. April 5-12, 2010. N=1,580 adults nationwide. Margin of error ± 3.","""Is your opinion of John McCain favorable, not favorable, undecided, or haven't you heard enough about John McCain yet to have an opinion?""",CBS News/New York Times Poll
+"=""10/10-13/08""",36,41,20,2,1,,,,favorability,http://www.pollingreport.com/l.htm,"CBS News/New York Times Poll. April 5-12, 2010. N=1,580 adults nationwide. Margin of error ± 3.","""Is your opinion of John McCain favorable, not favorable, undecided, or haven't you heard enough about John McCain yet to have an opinion?""",CBS News/New York Times Poll
+"=""10/3-5/08""",40,38,17,4,1,,,,favorability,http://www.pollingreport.com/l.htm,"CBS News/New York Times Poll. April 5-12, 2010. N=1,580 adults nationwide. Margin of error ± 3.","""Is your opinion of John McCain favorable, not favorable, undecided, or haven't you heard enough about John McCain yet to have an opinion?""",CBS News/New York Times Poll
+"=""9/27-30/08""",39,42,15,4,0,,,,favorability,http://www.pollingreport.com/l.htm,"CBS News/New York Times Poll. April 5-12, 2010. N=1,580 adults nationwide. Margin of error ± 3.","""Is your opinion of John McCain favorable, not favorable, undecided, or haven't you heard enough about John McCain yet to have an opinion?""",CBS News/New York Times Poll
+"=""9/21-24/08""",38,35,23,4,1,,,,favorability,http://www.pollingreport.com/l.htm,"CBS News/New York Times Poll. April 5-12, 2010. N=1,580 adults nationwide. Margin of error ± 3.","""Is your opinion of John McCain favorable, not favorable, undecided, or haven't you heard enough about John McCain yet to have an opinion?""",CBS News/New York Times Poll
+"=""9/12-16/08""",44,37,16,3,0,,,,favorability,http://www.pollingreport.com/l.htm,"CBS News/New York Times Poll. April 5-12, 2010. N=1,580 adults nationwide. Margin of error ± 3.","""Is your opinion of John McCain favorable, not favorable, undecided, or haven't you heard enough about John McCain yet to have an opinion?""",CBS News/New York Times Poll
+"=""9/1-3/08""",37,36,24,3,0,,,,favorability,http://www.pollingreport.com/l.htm,"CBS News/New York Times Poll. April 5-12, 2010. N=1,580 adults nationwide. Margin of error ± 3.","""Is your opinion of John McCain favorable, not favorable, undecided, or haven't you heard enough about John McCain yet to have an opinion?""",CBS News/New York Times Poll
+"=""8/29-31/08""",35,34,22,8,1,,,,favorability,http://www.pollingreport.com/l.htm,"CBS News/New York Times Poll. April 5-12, 2010. N=1,580 adults nationwide. Margin of error ± 3.","""Is your opinion of John McCain favorable, not favorable, undecided, or haven't you heard enough about John McCain yet to have an opinion?""",CBS News/New York Times Poll
+"=""8/15-19/08""",34,33,28,4,1,,,,favorability,http://www.pollingreport.com/l.htm,"CBS News/New York Times Poll. April 5-12, 2010. N=1,580 adults nationwide. Margin of error ± 3.","""Is your opinion of John McCain favorable, not favorable, undecided, or haven't you heard enough about John McCain yet to have an opinion?""",CBS News/New York Times Poll
+"=""7/31 - 8/5/08""",33,34,26,7,0,,,,favorability,http://www.pollingreport.com/l.htm,"CBS News/New York Times Poll. April 5-12, 2010. N=1,580 adults nationwide. Margin of error ± 3.","""Is your opinion of John McCain favorable, not favorable, undecided, or haven't you heard enough about John McCain yet to have an opinion?""",CBS News/New York Times Poll
+"=""7/7-14/08""",31,32,27,10,0,,,,favorability,http://www.pollingreport.com/l.htm,"CBS News/New York Times Poll. April 5-12, 2010. N=1,580 adults nationwide. Margin of error ± 3.","""Is your opinion of John McCain favorable, not favorable, undecided, or haven't you heard enough about John McCain yet to have an opinion?""",CBS News/New York Times Poll
+"=""5/30 - 6/3/08""",34,37,21,8,0,,,,favorability,http://www.pollingreport.com/l.htm,"CBS News/New York Times Poll. April 5-12, 2010. N=1,580 adults nationwide. Margin of error ± 3.","""Is your opinion of John McCain favorable, not favorable, undecided, or haven't you heard enough about John McCain yet to have an opinion?""",CBS News/New York Times Poll
+"=""5/1-3/08""",32,35,19,14,0,,,,favorability,http://www.pollingreport.com/l.htm,"CBS News/New York Times Poll. April 5-12, 2010. N=1,580 adults nationwide. Margin of error ± 3.","""Is your opinion of John McCain favorable, not favorable, undecided, or haven't you heard enough about John McCain yet to have an opinion?""",CBS News/New York Times Poll
+"=""4/25-29/08""",33,34,20,12,1,,,,favorability,http://www.pollingreport.com/l.htm,"CBS News/New York Times Poll. April 5-12, 2010. N=1,580 adults nationwide. Margin of error ± 3.","""Is your opinion of John McCain favorable, not favorable, undecided, or haven't you heard enough about John McCain yet to have an opinion?""",CBS News/New York Times Poll
+"=""3/28 - 4/2/08""",35,29,24,11,1,,,,favorability,http://www.pollingreport.com/l.htm,"CBS News/New York Times Poll. April 5-12, 2010. N=1,580 adults nationwide. Margin of error ± 3.","""Is your opinion of John McCain favorable, not favorable, undecided, or haven't you heard enough about John McCain yet to have an opinion?""",CBS News/New York Times Poll
+"=""3/15-18/08""",38,31,21,10,0,,,,favorability,http://www.pollingreport.com/l.htm,"CBS News/New York Times Poll. April 5-12, 2010. N=1,580 adults nationwide. Margin of error ± 3.","""Is your opinion of John McCain favorable, not favorable, undecided, or haven't you heard enough about John McCain yet to have an opinion?""",CBS News/New York Times Poll
+"=""2/20-24/08""",36,32,22,9,1,,,,favorability,http://www.pollingreport.com/l.htm,"CBS News/New York Times Poll. April 5-12, 2010. N=1,580 adults nationwide. Margin of error ± 3.","""Is your opinion of John McCain favorable, not favorable, undecided, or haven't you heard enough about John McCain yet to have an opinion?""",CBS News/New York Times Poll
+"=""10/12-16/07""",27,28,28,16,1,,,,favorability,http://www.pollingreport.com/l.htm,"CBS News/New York Times Poll. April 5-12, 2010. N=1,580 adults nationwide. Margin of error ± 3.","""Is your opinion of John McCain favorable, not favorable, undecided, or haven't you heard enough about John McCain yet to have an opinion?""",CBS News/New York Times Poll
+"=""9/4-9/07""",26,28,29,16,1,,,,favorability,http://www.pollingreport.com/l.htm,"CBS News/New York Times Poll. April 5-12, 2010. N=1,580 adults nationwide. Margin of error ± 3.","""Is your opinion of John McCain favorable, not favorable, undecided, or haven't you heard enough about John McCain yet to have an opinion?""",CBS News/New York Times Poll
+"=""8/8-12/07""",26,31,25,17,1,,,,favorability,http://www.pollingreport.com/l.htm,"CBS News/New York Times Poll. April 5-12, 2010. N=1,580 adults nationwide. Margin of error ± 3.","""Is your opinion of John McCain favorable, not favorable, undecided, or haven't you heard enough about John McCain yet to have an opinion?""",CBS News/New York Times Poll
+"=""7/9-17/07""",29,33,24,14,0,,,,favorability,http://www.pollingreport.com/l.htm,"CBS News/New York Times Poll. April 5-12, 2010. N=1,580 adults nationwide. Margin of error ± 3.","""Is your opinion of John McCain favorable, not favorable, undecided, or haven't you heard enough about John McCain yet to have an opinion?""",CBS News/New York Times Poll
+"=""6/26-28/07""",27,29,25,19,0,,,,favorability,http://www.pollingreport.com/l.htm,"CBS News/New York Times Poll. April 5-12, 2010. N=1,580 adults nationwide. Margin of error ± 3.","""Is your opinion of John McCain favorable, not favorable, undecided, or haven't you heard enough about John McCain yet to have an opinion?""",CBS News/New York Times Poll
+"=""5/18-23/07""",23,30,26,20,1,,,,favorability,http://www.pollingreport.com/l.htm,"CBS News/New York Times Poll. April 5-12, 2010. N=1,580 adults nationwide. Margin of error ± 3.","""Is your opinion of John McCain favorable, not favorable, undecided, or haven't you heard enough about John McCain yet to have an opinion?""",CBS News/New York Times Poll
+"=""4/9-12/07""",28,29,27,16,0,,,,favorability,http://www.pollingreport.com/l.htm,"CBS News/New York Times Poll. April 5-12, 2010. N=1,580 adults nationwide. Margin of error ± 3.","""Is your opinion of John McCain favorable, not favorable, undecided, or haven't you heard enough about John McCain yet to have an opinion?""",CBS News/New York Times Poll
+"=""3/7-11/07""",25,22,27,25,1,,,,favorability,http://www.pollingreport.com/l.htm,"CBS News/New York Times Poll. April 5-12, 2010. N=1,580 adults nationwide. Margin of error ± 3.","""Is your opinion of John McCain favorable, not favorable, undecided, or haven't you heard enough about John McCain yet to have an opinion?""",CBS News/New York Times Poll
+"=""2/8-11/07""",31,20,28,21,0,,,,favorability,http://www.pollingreport.com/l.htm,"CBS News/New York Times Poll. April 5-12, 2010. N=1,580 adults nationwide. Margin of error ± 3.","""Is your opinion of John McCain favorable, not favorable, undecided, or haven't you heard enough about John McCain yet to have an opinion?""",CBS News/New York Times Poll
+"=""1/1-3/07 Adults""",39,20,28,13,0,,,,favorability,http://www.pollingreport.com/l.htm,"CBS News/New York Times Poll. April 5-12, 2010. N=1,580 adults nationwide. Margin of error ± 3.","""Is your opinion of John McCain favorable, not favorable, undecided, or haven't you heard enough about John McCain yet to have an opinion?""",CBS News/New York Times Poll
+"=""9/15-19/06 Adults""",28,14,28,28,2,,,,favorability,http://www.pollingreport.com/l.htm,"CBS News/New York Times Poll. April 5-12, 2010. N=1,580 adults nationwide. Margin of error ± 3.","""Is your opinion of John McCain favorable, not favorable, undecided, or haven't you heard enough about John McCain yet to have an opinion?""",CBS News/New York Times Poll
+"=""7/21-25/06 Adults""",28,13,29,29,1,,,,favorability,http://www.pollingreport.com/l.htm,"CBS News/New York Times Poll. April 5-12, 2010. N=1,580 adults nationwide. Margin of error ± 3.","""Is your opinion of John McCain favorable, not favorable, undecided, or haven't you heard enough about John McCain yet to have an opinion?""",CBS News/New York Times Poll
+"=""5/4-8/06 Adults""",31,15,25,28,1,,,,favorability,http://www.pollingreport.com/l.htm,"CBS News/New York Times Poll. April 5-12, 2010. N=1,580 adults nationwide. Margin of error ± 3.","""Is your opinion of John McCain favorable, not favorable, undecided, or haven't you heard enough about John McCain yet to have an opinion?""",CBS News/New York Times Poll
+"=""2/22-26/06 Adults""",35,12,24,29,0,,,,favorability,http://www.pollingreport.com/l.htm,"CBS News/New York Times Poll. April 5-12, 2010. N=1,580 adults nationwide. Margin of error ± 3.","""Is your opinion of John McCain favorable, not favorable, undecided, or haven't you heard enough about John McCain yet to have an opinion?""",CBS News/New York Times Poll
+"=""1/20-25/06 Adults""",34,12,24,29,1,,,,favorability,http://www.pollingreport.com/l.htm,"CBS News/New York Times Poll. April 5-12, 2010. N=1,580 adults nationwide. Margin of error ± 3.","""Is your opinion of John McCain favorable, not favorable, undecided, or haven't you heard enough about John McCain yet to have an opinion?""",CBS News/New York Times Poll
+"=""5/20-23/04""",46,9,22,22,1,,,,favorability,http://www.pollingreport.com/l.htm,"CBS News/New York Times Poll. April 5-12, 2010. N=1,580 adults nationwide. Margin of error ± 3.","""Is your opinion of John McCain favorable, not favorable, undecided, or haven't you heard enough about John McCain yet to have an opinion?""",CBS News/New York Times Poll
+"=""3/19-21/00""",38,26,19,15,2,,,,favorability,http://www.pollingreport.com/l.htm,"CBS News/New York Times Poll. April 5-12, 2010. N=1,580 adults nationwide. Margin of error ± 3.","""Is your opinion of John McCain favorable, not favorable, undecided, or haven't you heard enough about John McCain yet to have an opinion?""",CBS News/New York Times Poll
+"=""2/6-10/00""",30,13,24,32,1,,,,favorability,http://www.pollingreport.com/l.htm,"CBS News/New York Times Poll. April 5-12, 2010. N=1,580 adults nationwide. Margin of error ± 3.","""Is your opinion of John McCain favorable, not favorable, undecided, or haven't you heard enough about John McCain yet to have an opinion?""",CBS News/New York Times Poll
+"=""6/14-18/01 Adults""",36,12,23,28,1,,,,favorability,http://www.pollingreport.com/l.htm,"CBS News/New York Times Poll. April 5-12, 2010. N=1,580 adults nationwide. Margin of error ± 3.","""Is your opinion of John McCain favorable, not favorable, undecided, or haven't you heard enough about John McCain yet to have an opinion?""",CBS News/New York Times Poll
+"=""12/99 Adults""",22,11,22,45,0,,,,favorability,http://www.pollingreport.com/l.htm,"CBS News/New York Times Poll. April 5-12, 2010. N=1,580 adults nationwide. Margin of error ± 3.","""Is your opinion of John McCain favorable, not favorable, undecided, or haven't you heard enough about John McCain yet to have an opinion?""",CBS News/New York Times Poll
+
+
+
+
+
+
+"l.htm | Question 22"
+"NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R). April 23-26, 2009. N=approx. 500 adults nationwide. Margin of error ± 4.4."
+"I'm going to read you the names of several public figures and I'd like you to rate your feelings toward each one as either very positive, somewhat positive, neutral, somewhat negative, or very negative. If you don't know the name, please just say so. John McCain."
+date,very positive,somewhat positive,neutral,somewhat negative,very negative,don't know name/ not sure,sample_size,margin_of_error,subpopulation,question_type,url,original,question,pollster
+"=""4/23-26/09""",12,30,25,18,13,2,,4,a,thermometer,http://www.pollingreport.com/l.htm,"NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R). April 23-26, 2009. N=approx. 500 adults nationwide. Margin of error ± 4.4.","""I'm going to read you the names of several public figures and I'd like you to rate your feelings toward each one as either very positive, somewhat positive, neutral, somewhat negative, or very negative. If you don't know the name, please just say so. John McCain.""",NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R)
+"=""2/26 - 3/1/09""",13,29,28,15,12,3,,,,thermometer,http://www.pollingreport.com/l.htm,"NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R). April 23-26, 2009. N=approx. 500 adults nationwide. Margin of error ± 4.4.","""I'm going to read you the names of several public figures and I'd like you to rate your feelings toward each one as either very positive, somewhat positive, neutral, somewhat negative, or very negative. If you don't know the name, please just say so. John McCain.""",NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R)
+"=""12/5-8/08""",11,30,25,21,12,1,,,,thermometer,http://www.pollingreport.com/l.htm,"NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R). April 23-26, 2009. N=approx. 500 adults nationwide. Margin of error ± 4.4.","""I'm going to read you the names of several public figures and I'd like you to rate your feelings toward each one as either very positive, somewhat positive, neutral, somewhat negative, or very negative. If you don't know the name, please just say so. John McCain.""",NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R)
+"=""11/1-2/08""",24,23,13,16,23,1,,,lv,thermometer,http://www.pollingreport.com/l.htm,"NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R). April 23-26, 2009. N=approx. 500 adults nationwide. Margin of error ± 4.4.","""I'm going to read you the names of several public figures and I'd like you to rate your feelings toward each one as either very positive, somewhat positive, neutral, somewhat negative, or very negative. If you don't know the name, please just say so. John McCain.""",NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R)
+"=""10/17-20/08""",20,24,15,18,22,1,,,lv,thermometer,http://www.pollingreport.com/l.htm,"NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R). April 23-26, 2009. N=approx. 500 adults nationwide. Margin of error ± 4.4.","""I'm going to read you the names of several public figures and I'd like you to rate your feelings toward each one as either very positive, somewhat positive, neutral, somewhat negative, or very negative. If you don't know the name, please just say so. John McCain.""",NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R)
+"=""10/4-5/08""",18,25,16,18,21,2,,,rv,thermometer,http://www.pollingreport.com/l.htm,"NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R). April 23-26, 2009. N=approx. 500 adults nationwide. Margin of error ± 4.4.","""I'm going to read you the names of several public figures and I'd like you to rate your feelings toward each one as either very positive, somewhat positive, neutral, somewhat negative, or very negative. If you don't know the name, please just say so. John McCain.""",NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R)
+"=""9/19-22/08""",22,24,15,17,21,1,,,rv,thermometer,http://www.pollingreport.com/l.htm,"NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R). April 23-26, 2009. N=approx. 500 adults nationwide. Margin of error ± 4.4.","""I'm going to read you the names of several public figures and I'd like you to rate your feelings toward each one as either very positive, somewhat positive, neutral, somewhat negative, or very negative. If you don't know the name, please just say so. John McCain.""",NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R)
+"=""9/6-8/08""",25,25,16,15,18,1,,,rv,thermometer,http://www.pollingreport.com/l.htm,"NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R). April 23-26, 2009. N=approx. 500 adults nationwide. Margin of error ± 4.4.","""I'm going to read you the names of several public figures and I'd like you to rate your feelings toward each one as either very positive, somewhat positive, neutral, somewhat negative, or very negative. If you don't know the name, please just say so. John McCain.""",NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R)
+"=""8/15-18/08""",14,31,21,16,17,1,,,rv,thermometer,http://www.pollingreport.com/l.htm,"NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R). April 23-26, 2009. N=approx. 500 adults nationwide. Margin of error ± 4.4.","""I'm going to read you the names of several public figures and I'd like you to rate your feelings toward each one as either very positive, somewhat positive, neutral, somewhat negative, or very negative. If you don't know the name, please just say so. John McCain.""",NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R)
+"=""7/18-21/08""",13,29,26,16,14,2,,,rv,thermometer,http://www.pollingreport.com/l.htm,"NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R). April 23-26, 2009. N=approx. 500 adults nationwide. Margin of error ± 4.4.","""I'm going to read you the names of several public figures and I'd like you to rate your feelings toward each one as either very positive, somewhat positive, neutral, somewhat negative, or very negative. If you don't know the name, please just say so. John McCain.""",NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R)
+"=""6/6-9/08""",11,28,25,19,15,2,,,rv,thermometer,http://www.pollingreport.com/l.htm,"NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R). April 23-26, 2009. N=approx. 500 adults nationwide. Margin of error ± 4.4.","""I'm going to read you the names of several public figures and I'd like you to rate your feelings toward each one as either very positive, somewhat positive, neutral, somewhat negative, or very negative. If you don't know the name, please just say so. John McCain.""",NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R)
+"=""4/25-28/08""",11,29,27,17,13,3,,,rv,thermometer,http://www.pollingreport.com/l.htm,"NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R). April 23-26, 2009. N=approx. 500 adults nationwide. Margin of error ± 4.4.","""I'm going to read you the names of several public figures and I'd like you to rate your feelings toward each one as either very positive, somewhat positive, neutral, somewhat negative, or very negative. If you don't know the name, please just say so. John McCain.""",NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R)
+"=""3/24-25/08""",14,31,26,15,10,4,,,rv,thermometer,http://www.pollingreport.com/l.htm,"NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R). April 23-26, 2009. N=approx. 500 adults nationwide. Margin of error ± 4.4.","""I'm going to read you the names of several public figures and I'd like you to rate your feelings toward each one as either very positive, somewhat positive, neutral, somewhat negative, or very negative. If you don't know the name, please just say so. John McCain.""",NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R)
+"=""3/7-10/08""",15,32,23,15,12,3,,,rv,thermometer,http://www.pollingreport.com/l.htm,"NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R). April 23-26, 2009. N=approx. 500 adults nationwide. Margin of error ± 4.4.","""I'm going to read you the names of several public figures and I'd like you to rate your feelings toward each one as either very positive, somewhat positive, neutral, somewhat negative, or very negative. If you don't know the name, please just say so. John McCain.""",NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R)
+"=""1/20-22/08""",15,31,26,15,7,6,,,rv,thermometer,http://www.pollingreport.com/l.htm,"NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R). April 23-26, 2009. N=approx. 500 adults nationwide. Margin of error ± 4.4.","""I'm going to read you the names of several public figures and I'd like you to rate your feelings toward each one as either very positive, somewhat positive, neutral, somewhat negative, or very negative. If you don't know the name, please just say so. John McCain.""",NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R)
+"=""4/20-23/07""",11,31,27,15,7,9,,,,thermometer,http://www.pollingreport.com/l.htm,"NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R). April 23-26, 2009. N=approx. 500 adults nationwide. Margin of error ± 4.4.","""I'm going to read you the names of several public figures and I'd like you to rate your feelings toward each one as either very positive, somewhat positive, neutral, somewhat negative, or very negative. If you don't know the name, please just say so. John McCain.""",NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R)
+"=""3/2-5/07""",12,31,25,15,9,8,,,,thermometer,http://www.pollingreport.com/l.htm,"NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R). April 23-26, 2009. N=approx. 500 adults nationwide. Margin of error ± 4.4.","""I'm going to read you the names of several public figures and I'd like you to rate your feelings toward each one as either very positive, somewhat positive, neutral, somewhat negative, or very negative. If you don't know the name, please just say so. John McCain.""",NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R)
+"=""12/8-11/06""",13,33,22,16,4,12,,,,thermometer,http://www.pollingreport.com/l.htm,"NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R). April 23-26, 2009. N=approx. 500 adults nationwide. Margin of error ± 4.4.","""I'm going to read you the names of several public figures and I'd like you to rate your feelings toward each one as either very positive, somewhat positive, neutral, somewhat negative, or very negative. If you don't know the name, please just say so. John McCain.""",NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R)
+"=""6/9-12/06""",11,29,29,11,5,15,,,,thermometer,http://www.pollingreport.com/l.htm,"NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R). April 23-26, 2009. N=approx. 500 adults nationwide. Margin of error ± 4.4.","""I'm going to read you the names of several public figures and I'd like you to rate your feelings toward each one as either very positive, somewhat positive, neutral, somewhat negative, or very negative. If you don't know the name, please just say so. John McCain.""",NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R)
+"=""4/21-24/06""",12,27,28,13,6,14,,,,thermometer,http://www.pollingreport.com/l.htm,"NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R). April 23-26, 2009. N=approx. 500 adults nationwide. Margin of error ± 4.4.","""I'm going to read you the names of several public figures and I'd like you to rate your feelings toward each one as either very positive, somewhat positive, neutral, somewhat negative, or very negative. If you don't know the name, please just say so. John McCain.""",NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R)
+"=""5/1-3/04""",20,30,26,8,5,11,,,rv,thermometer,http://www.pollingreport.com/l.htm,"NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R). April 23-26, 2009. N=approx. 500 adults nationwide. Margin of error ± 4.4.","""I'm going to read you the names of several public figures and I'd like you to rate your feelings toward each one as either very positive, somewhat positive, neutral, somewhat negative, or very negative. If you don't know the name, please just say so. John McCain.""",NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R)
+"=""7/19-21/02""",12,29,27,10,5,17,,,,thermometer,http://www.pollingreport.com/l.htm,"NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R). April 23-26, 2009. N=approx. 500 adults nationwide. Margin of error ± 4.4.","""I'm going to read you the names of several public figures and I'd like you to rate your feelings toward each one as either very positive, somewhat positive, neutral, somewhat negative, or very negative. If you don't know the name, please just say so. John McCain.""",NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R)
+"=""4/5-7/02""",18,29,25,9,3,16,,,,thermometer,http://www.pollingreport.com/l.htm,"NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R). April 23-26, 2009. N=approx. 500 adults nationwide. Margin of error ± 4.4.","""I'm going to read you the names of several public figures and I'd like you to rate your feelings toward each one as either very positive, somewhat positive, neutral, somewhat negative, or very negative. If you don't know the name, please just say so. John McCain.""",NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R)
+"=""6/23-25/01""",15,29,26,11,6,13,,,,thermometer,http://www.pollingreport.com/l.htm,"NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R). April 23-26, 2009. N=approx. 500 adults nationwide. Margin of error ± 4.4.","""I'm going to read you the names of several public figures and I'd like you to rate your feelings toward each one as either very positive, somewhat positive, neutral, somewhat negative, or very negative. If you don't know the name, please just say so. John McCain.""",NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R)
+"=""4/01""",17,30,25,9,3,16,,,,thermometer,http://www.pollingreport.com/l.htm,"NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R). April 23-26, 2009. N=approx. 500 adults nationwide. Margin of error ± 4.4.","""I'm going to read you the names of several public figures and I'd like you to rate your feelings toward each one as either very positive, somewhat positive, neutral, somewhat negative, or very negative. If you don't know the name, please just say so. John McCain.""",NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R)
+"=""1/13-15/01""",16,28,29,7,3,17,,,,thermometer,http://www.pollingreport.com/l.htm,"NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R). April 23-26, 2009. N=approx. 500 adults nationwide. Margin of error ± 4.4.","""I'm going to read you the names of several public figures and I'd like you to rate your feelings toward each one as either very positive, somewhat positive, neutral, somewhat negative, or very negative. If you don't know the name, please just say so. John McCain.""",NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R)
+"=""10/13-15/00""",19,34,27,7,3,10,,,rv,thermometer,http://www.pollingreport.com/l.htm,"NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R). April 23-26, 2009. N=approx. 500 adults nationwide. Margin of error ± 4.4.","""I'm going to read you the names of several public figures and I'd like you to rate your feelings toward each one as either very positive, somewhat positive, neutral, somewhat negative, or very negative. If you don't know the name, please just say so. John McCain.""",NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R)
+"=""9/7-10/00""",21,32,25,8,6,8,,,rv,thermometer,http://www.pollingreport.com/l.htm,"NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R). April 23-26, 2009. N=approx. 500 adults nationwide. Margin of error ± 4.4.","""I'm going to read you the names of several public figures and I'd like you to rate your feelings toward each one as either very positive, somewhat positive, neutral, somewhat negative, or very negative. If you don't know the name, please just say so. John McCain.""",NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R)
+"=""7/27-28/00""",18,32,25,9,6,10,,,rv,thermometer,http://www.pollingreport.com/l.htm,"NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R). April 23-26, 2009. N=approx. 500 adults nationwide. Margin of error ± 4.4.","""I'm going to read you the names of several public figures and I'd like you to rate your feelings toward each one as either very positive, somewhat positive, neutral, somewhat negative, or very negative. If you don't know the name, please just say so. John McCain.""",NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R)
+"=""6/14-18/00""",15,32,25,11,7,10,,,rv,thermometer,http://www.pollingreport.com/l.htm,"NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R). April 23-26, 2009. N=approx. 500 adults nationwide. Margin of error ± 4.4.","""I'm going to read you the names of several public figures and I'd like you to rate your feelings toward each one as either very positive, somewhat positive, neutral, somewhat negative, or very negative. If you don't know the name, please just say so. John McCain.""",NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R)
+"=""4/29 - 5/1/00""",16,30,27,12,5,10,,,rv,thermometer,http://www.pollingreport.com/l.htm,"NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R). April 23-26, 2009. N=approx. 500 adults nationwide. Margin of error ± 4.4.","""I'm going to read you the names of several public figures and I'd like you to rate your feelings toward each one as either very positive, somewhat positive, neutral, somewhat negative, or very negative. If you don't know the name, please just say so. John McCain.""",NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R)
+"=""3/2-5/00""",14,31,24,13,7,11,,,,thermometer,http://www.pollingreport.com/l.htm,"NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R). April 23-26, 2009. N=approx. 500 adults nationwide. Margin of error ± 4.4.","""I'm going to read you the names of several public figures and I'd like you to rate your feelings toward each one as either very positive, somewhat positive, neutral, somewhat negative, or very negative. If you don't know the name, please just say so. John McCain.""",NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R)
+"=""1/25-26/00""",14,20,27,8,3,28,,,,thermometer,http://www.pollingreport.com/l.htm,"NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R). April 23-26, 2009. N=approx. 500 adults nationwide. Margin of error ± 4.4.","""I'm going to read you the names of several public figures and I'd like you to rate your feelings toward each one as either very positive, somewhat positive, neutral, somewhat negative, or very negative. If you don't know the name, please just say so. John McCain.""",NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R)
+"=""12/9-12/99""",12,22,24,4,2,36,,,,thermometer,http://www.pollingreport.com/l.htm,"NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R). April 23-26, 2009. N=approx. 500 adults nationwide. Margin of error ± 4.4.","""I'm going to read you the names of several public figures and I'd like you to rate your feelings toward each one as either very positive, somewhat positive, neutral, somewhat negative, or very negative. If you don't know the name, please just say so. John McCain.""",NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R)
+"=""10/23-25/99""",9,20,22,5,2,42,,,,thermometer,http://www.pollingreport.com/l.htm,"NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R). April 23-26, 2009. N=approx. 500 adults nationwide. Margin of error ± 4.4.","""I'm going to read you the names of several public figures and I'd like you to rate your feelings toward each one as either very positive, somewhat positive, neutral, somewhat negative, or very negative. If you don't know the name, please just say so. John McCain.""",NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R)
+"=""4/99""",8,14,18,3,3,54,,,,thermometer,http://www.pollingreport.com/l.htm,"NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R). April 23-26, 2009. N=approx. 500 adults nationwide. Margin of error ± 4.4.","""I'm going to read you the names of several public figures and I'd like you to rate your feelings toward each one as either very positive, somewhat positive, neutral, somewhat negative, or very negative. If you don't know the name, please just say so. John McCain.""",NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R)
+
+
+
+
+
+
+"l.htm | Question 23"
+"Newsweek Poll conducted by Princeton Survey Research Associates International. March 4-5, 2009. N=1,203 adults nationwide. Margin of error ± 3.5."
+"Next, as I read you the names of some people in politics, please tell me if you have a favorable or unfavorable opinion of each one. If I mention someone you never heard of before this interview, just tell me. What about John McCain?"
+date,favorable,unfavorable,never heard of,unsure,sample_size,margin_of_error,subpopulation,question_type,url,original,question,pollster
+"=""3/4-5/09""",55,37,-,8,1203,3,a,favorability,http://www.pollingreport.com/l.htm,"Newsweek Poll conducted by Princeton Survey Research Associates International. March 4-5, 2009. N=1,203 adults nationwide. Margin of error ± 3.5.","""Next, as I read you the names of some people in politics, please tell me if you have a favorable or unfavorable opinion of each one. If I mention someone you never heard of before this interview, just tell me. What about John McCain?""",Newsweek Poll conducted by Princeton Survey Research Associates International
+"=""10/22-23/08""",50,44,-,6,,,rv,favorability,http://www.pollingreport.com/l.htm,"Newsweek Poll conducted by Princeton Survey Research Associates International. March 4-5, 2009. N=1,203 adults nationwide. Margin of error ± 3.5.","""Next, as I read you the names of some people in politics, please tell me if you have a favorable or unfavorable opinion of each one. If I mention someone you never heard of before this interview, just tell me. What about John McCain?""",Newsweek Poll conducted by Princeton Survey Research Associates International
+"=""10/8-9/08""",51,45,0,4,,,rv,favorability,http://www.pollingreport.com/l.htm,"Newsweek Poll conducted by Princeton Survey Research Associates International. March 4-5, 2009. N=1,203 adults nationwide. Margin of error ± 3.5.","""Next, as I read you the names of some people in politics, please tell me if you have a favorable or unfavorable opinion of each one. If I mention someone you never heard of before this interview, just tell me. What about John McCain?""",Newsweek Poll conducted by Princeton Survey Research Associates International
+"=""9/10-11/08""",57,36,-,7,,,rv,favorability,http://www.pollingreport.com/l.htm,"Newsweek Poll conducted by Princeton Survey Research Associates International. March 4-5, 2009. N=1,203 adults nationwide. Margin of error ± 3.5.","""Next, as I read you the names of some people in politics, please tell me if you have a favorable or unfavorable opinion of each one. If I mention someone you never heard of before this interview, just tell me. What about John McCain?""",Newsweek Poll conducted by Princeton Survey Research Associates International
+"=""7/9-10/08""",55,32,-,13,,,rv,favorability,http://www.pollingreport.com/l.htm,"Newsweek Poll conducted by Princeton Survey Research Associates International. March 4-5, 2009. N=1,203 adults nationwide. Margin of error ± 3.5.","""Next, as I read you the names of some people in politics, please tell me if you have a favorable or unfavorable opinion of each one. If I mention someone you never heard of before this interview, just tell me. What about John McCain?""",Newsweek Poll conducted by Princeton Survey Research Associates International
+"=""6/18-19/08""",49,37,1,13,,,rv,favorability,http://www.pollingreport.com/l.htm,"Newsweek Poll conducted by Princeton Survey Research Associates International. March 4-5, 2009. N=1,203 adults nationwide. Margin of error ± 3.5.","""Next, as I read you the names of some people in politics, please tell me if you have a favorable or unfavorable opinion of each one. If I mention someone you never heard of before this interview, just tell me. What about John McCain?""",Newsweek Poll conducted by Princeton Survey Research Associates International
+"=""5/21-22/08""",54,40,1,5,,,rv,favorability,http://www.pollingreport.com/l.htm,"Newsweek Poll conducted by Princeton Survey Research Associates International. March 4-5, 2009. N=1,203 adults nationwide. Margin of error ± 3.5.","""Next, as I read you the names of some people in politics, please tell me if you have a favorable or unfavorable opinion of each one. If I mention someone you never heard of before this interview, just tell me. What about John McCain?""",Newsweek Poll conducted by Princeton Survey Research Associates International
+"=""4/24-25/08""",51,41,1,7,,,rv,favorability,http://www.pollingreport.com/l.htm,"Newsweek Poll conducted by Princeton Survey Research Associates International. March 4-5, 2009. N=1,203 adults nationwide. Margin of error ± 3.5.","""Next, as I read you the names of some people in politics, please tell me if you have a favorable or unfavorable opinion of each one. If I mention someone you never heard of before this interview, just tell me. What about John McCain?""",Newsweek Poll conducted by Princeton Survey Research Associates International
+"=""4/16-17/08""",52,42,1,5,,,rv,favorability,http://www.pollingreport.com/l.htm,"Newsweek Poll conducted by Princeton Survey Research Associates International. March 4-5, 2009. N=1,203 adults nationwide. Margin of error ± 3.5.","""Next, as I read you the names of some people in politics, please tell me if you have a favorable or unfavorable opinion of each one. If I mention someone you never heard of before this interview, just tell me. What about John McCain?""",Newsweek Poll conducted by Princeton Survey Research Associates International
+"=""3/5-6/08""",55,35,1,9,,,rv,favorability,http://www.pollingreport.com/l.htm,"Newsweek Poll conducted by Princeton Survey Research Associates International. March 4-5, 2009. N=1,203 adults nationwide. Margin of error ± 3.5.","""Next, as I read you the names of some people in politics, please tell me if you have a favorable or unfavorable opinion of each one. If I mention someone you never heard of before this interview, just tell me. What about John McCain?""",Newsweek Poll conducted by Princeton Survey Research Associates International
+
+
+
+
+
+
+"l.htm | Question 24"
+"USA Today/Gallup Poll. Nov. 7-9, 2008. N=1,010 adults nationwide. Margin of error ± 3."
+"Next, I'd like to get your overall opinion of some people in the news. As I read each name, please say if you have a favorable or unfavorable opinion of these people -- or if you have never heard of them. How about John McCain?"
+manually enter poll
+
+
+
+
+
+"l.htm | Question 25"
+"ABC News/Washington Post Poll. Oct. 8-11, 2008. N=945 registered voters nationwide. Margin of error ± 3."
+"Regardless of how you might vote, do you have a favorable or unfavorable impression of John McCain?"
+date,favorable,unfavorable,unsure,sample_size,margin_of_error,subpopulation,question_type,url,original,question,pollster
+"=""10/8-11/08""",52,45,4,945,3,rv,favorability,http://www.pollingreport.com/l.htm,"ABC News/Washington Post Poll. Oct. 8-11, 2008. N=945 registered voters nationwide. Margin of error ± 3.","""Regardless of how you might vote, do you have a favorable or unfavorable impression of John McCain?""",ABC News/Washington Post Poll
+"=""9/5-7/08""",59,36,5,,,rv,favorability,http://www.pollingreport.com/l.htm,"ABC News/Washington Post Poll. Oct. 8-11, 2008. N=945 registered voters nationwide. Margin of error ± 3.","""Regardless of how you might vote, do you have a favorable or unfavorable impression of John McCain?""",ABC News/Washington Post Poll
+"=""8/19-22/08""",59,37,4,,,rv,favorability,http://www.pollingreport.com/l.htm,"ABC News/Washington Post Poll. Oct. 8-11, 2008. N=945 registered voters nationwide. Margin of error ± 3.","""Regardless of how you might vote, do you have a favorable or unfavorable impression of John McCain?""",ABC News/Washington Post Poll
+"=""6/12-15/08""",56,39,5,,,,favorability,http://www.pollingreport.com/l.htm,"ABC News/Washington Post Poll. Oct. 8-11, 2008. N=945 registered voters nationwide. Margin of error ± 3.","""Regardless of how you might vote, do you have a favorable or unfavorable impression of John McCain?""",ABC News/Washington Post Poll
+"=""4/10-13/08""",53,40,7,,,,favorability,http://www.pollingreport.com/l.htm,"ABC News/Washington Post Poll. Oct. 8-11, 2008. N=945 registered voters nationwide. Margin of error ± 3.","""Regardless of how you might vote, do you have a favorable or unfavorable impression of John McCain?""",ABC News/Washington Post Poll
+"=""1/9-12/08""",59,30,11,,,,favorability,http://www.pollingreport.com/l.htm,"ABC News/Washington Post Poll. Oct. 8-11, 2008. N=945 registered voters nationwide. Margin of error ± 3.","""Regardless of how you might vote, do you have a favorable or unfavorable impression of John McCain?""",ABC News/Washington Post Poll
+"=""10/29 - 11/1/07""",43,42,14,,,,favorability,http://www.pollingreport.com/l.htm,"ABC News/Washington Post Poll. Oct. 8-11, 2008. N=945 registered voters nationwide. Margin of error ± 3.","""Regardless of how you might vote, do you have a favorable or unfavorable impression of John McCain?""",ABC News/Washington Post Poll
+"=""2/22-25/07""",52,35,13,,,,favorability,http://www.pollingreport.com/l.htm,"ABC News/Washington Post Poll. Oct. 8-11, 2008. N=945 registered voters nationwide. Margin of error ± 3.","""Regardless of how you might vote, do you have a favorable or unfavorable impression of John McCain?""",ABC News/Washington Post Poll
+"=""1/16-19/07""",49,35,16,,,,favorability,http://www.pollingreport.com/l.htm,"ABC News/Washington Post Poll. Oct. 8-11, 2008. N=945 registered voters nationwide. Margin of error ± 3.","""Regardless of how you might vote, do you have a favorable or unfavorable impression of John McCain?""",ABC News/Washington Post Poll
+"=""12/7-11/06""",50,31,19,,,,favorability,http://www.pollingreport.com/l.htm,"ABC News/Washington Post Poll. Oct. 8-11, 2008. N=945 registered voters nationwide. Margin of error ± 3.","""Regardless of how you might vote, do you have a favorable or unfavorable impression of John McCain?""",ABC News/Washington Post Poll
+"=""5/11-15/06""",55,31,14,,,,favorability,http://www.pollingreport.com/l.htm,"ABC News/Washington Post Poll. Oct. 8-11, 2008. N=945 registered voters nationwide. Margin of error ± 3.","""Regardless of how you might vote, do you have a favorable or unfavorable impression of John McCain?""",ABC News/Washington Post Poll
+"=""3/2-5/06""",59,29,12,,,,favorability,http://www.pollingreport.com/l.htm,"ABC News/Washington Post Poll. Oct. 8-11, 2008. N=945 registered voters nationwide. Margin of error ± 3.","""Regardless of how you might vote, do you have a favorable or unfavorable impression of John McCain?""",ABC News/Washington Post Poll
+"=""6/2-5/05""",57,32,11,,,,favorability,http://www.pollingreport.com/l.htm,"ABC News/Washington Post Poll. Oct. 8-11, 2008. N=945 registered voters nationwide. Margin of error ± 3.","""Regardless of how you might vote, do you have a favorable or unfavorable impression of John McCain?""",ABC News/Washington Post Poll
+"=""7//01""",57,30,12,,,,favorability,http://www.pollingreport.com/l.htm,"ABC News/Washington Post Poll. Oct. 8-11, 2008. N=945 registered voters nationwide. Margin of error ± 3.","""Regardless of how you might vote, do you have a favorable or unfavorable impression of John McCain?""",ABC News/Washington Post Poll
+"=""2/00""",60,21,19,,,,favorability,http://www.pollingreport.com/l.htm,"ABC News/Washington Post Poll. Oct. 8-11, 2008. N=945 registered voters nationwide. Margin of error ± 3.","""Regardless of how you might vote, do you have a favorable or unfavorable impression of John McCain?""",ABC News/Washington Post Poll
+"=""10/99""",36,22,41,,,,favorability,http://www.pollingreport.com/l.htm,"ABC News/Washington Post Poll. Oct. 8-11, 2008. N=945 registered voters nationwide. Margin of error ± 3.","""Regardless of how you might vote, do you have a favorable or unfavorable impression of John McCain?""",ABC News/Washington Post Poll
+"=""8/30 - 9/2/99""",22,10,68,,,,favorability,http://www.pollingreport.com/l.htm,"ABC News/Washington Post Poll. Oct. 8-11, 2008. N=945 registered voters nationwide. Margin of error ± 3.","""Regardless of how you might vote, do you have a favorable or unfavorable impression of John McCain?""",ABC News/Washington Post Poll
+"=""3/99""",20,10,69,,,,favorability,http://www.pollingreport.com/l.htm,"ABC News/Washington Post Poll. Oct. 8-11, 2008. N=945 registered voters nationwide. Margin of error ± 3.","""Regardless of how you might vote, do you have a favorable or unfavorable impression of John McCain?""",ABC News/Washington Post Poll
+
+
+
+
+
+
+"l.htm | Question 26"
+"Diageo/Hotline Poll . Aug. 29-31, 2008. N=805 registered voters nationwide. Margin of error ± 3.5."
+"Please tell me if you have a favorable or unfavorable opinion of the following public figures. If you haven't heard of them, just tell me and we'll move on. John McCain."
+date,favorable,unfavorable,heard of/can't rate (vol.),haven't heard of,unsure,sample_size,margin_of_error,subpopulation,question_type,url,original,question,pollster
+"=""8/29-31/08""",51,41,4,1,1,805,3,rv,favorability,http://www.pollingreport.com/l.htm,"Diageo/Hotline Poll . Aug. 29-31, 2008. N=805 registered voters nationwide. Margin of error ± 3.5.","""Please tell me if you have a favorable or unfavorable opinion of the following public figures. If you haven't heard of them, just tell me and we'll move on. John McCain.""",Diageo/Hotline Poll 
+"=""3/28-31/08""",58,32,7,1,1,,,,favorability,http://www.pollingreport.com/l.htm,"Diageo/Hotline Poll . Aug. 29-31, 2008. N=805 registered voters nationwide. Margin of error ± 3.5.","""Please tell me if you have a favorable or unfavorable opinion of the following public figures. If you haven't heard of them, just tell me and we'll move on. John McCain.""",Diageo/Hotline Poll 
+"=""3/29 - 4/1/07""",50,27,11,9,3,,,,favorability,http://www.pollingreport.com/l.htm,"Diageo/Hotline Poll . Aug. 29-31, 2008. N=805 registered voters nationwide. Margin of error ± 3.5.","""Please tell me if you have a favorable or unfavorable opinion of the following public figures. If you haven't heard of them, just tell me and we'll move on. John McCain.""",Diageo/Hotline Poll 
+"=""2/21-24/07""",48,26,14,10,3,,,,favorability,http://www.pollingreport.com/l.htm,"Diageo/Hotline Poll . Aug. 29-31, 2008. N=805 registered voters nationwide. Margin of error ± 3.5.","""Please tell me if you have a favorable or unfavorable opinion of the following public figures. If you haven't heard of them, just tell me and we'll move on. John McCain.""",Diageo/Hotline Poll 
+"=""1/11-14/07""",53,23,14,5,4,,,,favorability,http://www.pollingreport.com/l.htm,"Diageo/Hotline Poll . Aug. 29-31, 2008. N=805 registered voters nationwide. Margin of error ± 3.5.","""Please tell me if you have a favorable or unfavorable opinion of the following public figures. If you haven't heard of them, just tell me and we'll move on. John McCain.""",Diageo/Hotline Poll 
+"=""11/8-12/06""",50,21,12,11,6,,,,favorability,http://www.pollingreport.com/l.htm,"Diageo/Hotline Poll . Aug. 29-31, 2008. N=805 registered voters nationwide. Margin of error ± 3.5.","""Please tell me if you have a favorable or unfavorable opinion of the following public figures. If you haven't heard of them, just tell me and we'll move on. John McCain.""",Diageo/Hotline Poll 
+"=""10/19-23/06""",51,23,11,10,5,,,,favorability,http://www.pollingreport.com/l.htm,"Diageo/Hotline Poll . Aug. 29-31, 2008. N=805 registered voters nationwide. Margin of error ± 3.5.","""Please tell me if you have a favorable or unfavorable opinion of the following public figures. If you haven't heard of them, just tell me and we'll move on. John McCain.""",Diageo/Hotline Poll 
+"=""9/24-26/06""",56,24,7,9,4,,,,favorability,http://www.pollingreport.com/l.htm,"Diageo/Hotline Poll . Aug. 29-31, 2008. N=805 registered voters nationwide. Margin of error ± 3.5.","""Please tell me if you have a favorable or unfavorable opinion of the following public figures. If you haven't heard of them, just tell me and we'll move on. John McCain.""",Diageo/Hotline Poll 
+"=""8/17-20/06""",51,20,16,11,2,,,,favorability,http://www.pollingreport.com/l.htm,"Diageo/Hotline Poll . Aug. 29-31, 2008. N=805 registered voters nationwide. Margin of error ± 3.5.","""Please tell me if you have a favorable or unfavorable opinion of the following public figures. If you haven't heard of them, just tell me and we'll move on. John McCain.""",Diageo/Hotline Poll 
+"=""7/20-23/06""",50,21,17,9,4,,,,favorability,http://www.pollingreport.com/l.htm,"Diageo/Hotline Poll . Aug. 29-31, 2008. N=805 registered voters nationwide. Margin of error ± 3.5.","""Please tell me if you have a favorable or unfavorable opinion of the following public figures. If you haven't heard of them, just tell me and we'll move on. John McCain.""",Diageo/Hotline Poll 
+"=""2/16-19/06""",58,17,11,10,5,,,,favorability,http://www.pollingreport.com/l.htm,"Diageo/Hotline Poll . Aug. 29-31, 2008. N=805 registered voters nationwide. Margin of error ± 3.5.","""Please tell me if you have a favorable or unfavorable opinion of the following public figures. If you haven't heard of them, just tell me and we'll move on. John McCain.""",Diageo/Hotline Poll 
+"=""1/12-15/06""",59,18,10,8,5,,,,favorability,http://www.pollingreport.com/l.htm,"Diageo/Hotline Poll . Aug. 29-31, 2008. N=805 registered voters nationwide. Margin of error ± 3.5.","""Please tell me if you have a favorable or unfavorable opinion of the following public figures. If you haven't heard of them, just tell me and we'll move on. John McCain.""",Diageo/Hotline Poll 
+"=""12/12-13/05""",56,14,14,13,2,,,,favorability,http://www.pollingreport.com/l.htm,"Diageo/Hotline Poll . Aug. 29-31, 2008. N=805 registered voters nationwide. Margin of error ± 3.5.","""Please tell me if you have a favorable or unfavorable opinion of the following public figures. If you haven't heard of them, just tell me and we'll move on. John McCain.""",Diageo/Hotline Poll 
+"=""11/11-15/05""",56,18,14,8,4,,,,favorability,http://www.pollingreport.com/l.htm,"Diageo/Hotline Poll . Aug. 29-31, 2008. N=805 registered voters nationwide. Margin of error ± 3.5.","""Please tell me if you have a favorable or unfavorable opinion of the following public figures. If you haven't heard of them, just tell me and we'll move on. John McCain.""",Diageo/Hotline Poll 
+
+
+
+
+
+
+"l.htm | Question 27"
+"Los Angeles Times/Bloomberg Poll. Aug. 15-18, 2008. N=1,248 registered voters nationwide. Margin of error ± 3."
+"Do you have a positive or negative feeling about John McCain?"
+date,positive,negative,neither (vol.),unsure,haven't heard enough (vol.),sample_size,margin_of_error,subpopulation,question_type,url,original,question,pollster
+"=""8/15-18/08""",46,38,12,3,-,1248,3,rv,thermometer,http://www.pollingreport.com/l.htm,"Los Angeles Times/Bloomberg Poll. Aug. 15-18, 2008. N=1,248 registered voters nationwide. Margin of error ± 3.","""Do you have a positive or negative feeling about John McCain?""",Los Angeles Times/Bloomberg Poll
+"=""6/19-23/08""",47,35,14,3,1,,,,thermometer,http://www.pollingreport.com/l.htm,"Los Angeles Times/Bloomberg Poll. Aug. 15-18, 2008. N=1,248 registered voters nationwide. Margin of error ± 3.","""Do you have a positive or negative feeling about John McCain?""",Los Angeles Times/Bloomberg Poll
+
+
+
+
+
+
+"l.htm | Question 28"
+"Pew Research Center for the People & the Press survey conducted by Princeton Survey Research Associates International. March 19-22, 2008. N=1,503 adults nationwide. Margin of error ± 3.  "
+". . . Would you say your overall opinion of John McCain is very favorable, mostly favorable, mostly unfavorable, or very unfavorable?"
+date,very favorable,mostly favorable,mostly unfavorable,very unfavorable,never heard of (vol.),can't rate (vol.),sample_size,margin_of_error,subpopulation,question_type,url,original,question,pollster
+"=""3/19-22/08""",8,37,25,16,2,12,1503,3,a,favorability,http://www.pollingreport.com/l.htm,"Pew Research Center for the People & the Press survey conducted by Princeton Survey Research Associates International. March 19-22, 2008. N=1,503 adults nationwide. Margin of error ± 3.  ",""". . . Would you say your overall opinion of John McCain is very favorable, mostly favorable, mostly unfavorable, or very unfavorable?""",Pew Research Center for the People & the Press survey conducted by Princeton Survey Research Associates International
+"=""8/1-18/07""",8,39,21,8,12,12,,,,favorability,http://www.pollingreport.com/l.htm,"Pew Research Center for the People & the Press survey conducted by Princeton Survey Research Associates International. March 19-22, 2008. N=1,503 adults nationwide. Margin of error ± 3.  ",""". . . Would you say your overall opinion of John McCain is very favorable, mostly favorable, mostly unfavorable, or very unfavorable?""",Pew Research Center for the People & the Press survey conducted by Princeton Survey Research Associates International
+"=""12/06""",13,38,20,6,10,13,,,,favorability,http://www.pollingreport.com/l.htm,"Pew Research Center for the People & the Press survey conducted by Princeton Survey Research Associates International. March 19-22, 2008. N=1,503 adults nationwide. Margin of error ± 3.  ",""". . . Would you say your overall opinion of John McCain is very favorable, mostly favorable, mostly unfavorable, or very unfavorable?""",Pew Research Center for the People & the Press survey conducted by Princeton Survey Research Associates International
+"=""4/7-16/06""",14,40,19,7,8,12,,,,favorability,http://www.pollingreport.com/l.htm,"Pew Research Center for the People & the Press survey conducted by Princeton Survey Research Associates International. March 19-22, 2008. N=1,503 adults nationwide. Margin of error ± 3.  ",""". . . Would you say your overall opinion of John McCain is very favorable, mostly favorable, mostly unfavorable, or very unfavorable?""",Pew Research Center for the People & the Press survey conducted by Princeton Survey Research Associates International
+"=""10/12-24/05""",15,41,14,5,10,15,,,,favorability,http://www.pollingreport.com/l.htm,"Pew Research Center for the People & the Press survey conducted by Princeton Survey Research Associates International. March 19-22, 2008. N=1,503 adults nationwide. Margin of error ± 3.  ",""". . . Would you say your overall opinion of John McCain is very favorable, mostly favorable, mostly unfavorable, or very unfavorable?""",Pew Research Center for the People & the Press survey conducted by Princeton Survey Research Associates International
+"=""3/17-27/05""",15,44,13,4,8,16,,,,favorability,http://www.pollingreport.com/l.htm,"Pew Research Center for the People & the Press survey conducted by Princeton Survey Research Associates International. March 19-22, 2008. N=1,503 adults nationwide. Margin of error ± 3.  ",""". . . Would you say your overall opinion of John McCain is very favorable, mostly favorable, mostly unfavorable, or very unfavorable?""",Pew Research Center for the People & the Press survey conducted by Princeton Survey Research Associates International
+
+
+
+
+
+
+"l.htm | Question 29"
+"Los Angeles Times/Bloomberg Poll. Feb. 21-25, 2008. N=1,246 registered voters nationwide. Margin of error ± 3."
+"What is your impression of Arizona Senator John McCain? As of today, is it very favorable, somewhat favorable, somewhat unfavorable, very unfavorable or haven't you heard enough about him to say?"
+date,favorable,unfavorable,haven't heard,unsure,sample_size,margin_of_error,subpopulation,question_type,url,original,question,pollster
+"=""2/21-25/08""",61,26,8,5,1246,3,rv,favorability,http://www.pollingreport.com/l.htm,"Los Angeles Times/Bloomberg Poll. Feb. 21-25, 2008. N=1,246 registered voters nationwide. Margin of error ± 3.","""What is your impression of Arizona Senator John McCain? As of today, is it very favorable, somewhat favorable, somewhat unfavorable, very unfavorable or haven't you heard enough about him to say?""",Los Angeles Times/Bloomberg Poll
+
+
+
+
+
+
+"l.htm | Question 30"
+"Quinnipiac University Poll. Nov. 13-19, 2006. N=1,623 registered voters nationwide. Margin of error ± 2.4."
+"I'd like to get your feelings toward some of our political leaders and other people who have been in the news. I'll read the name of a person and I'd like you to rate that person using something called the feeling thermometer. You can choose any number between 0 and 100. The higher the number, the warmer or more favorable you feel toward that person, the lower the number, the colder or less favorable. If we come to a person who you haven't heard enough about to form an opinion, you don't need to rate the person. Just tell me and we'll move on to the next one. How do you feel about
+manually enter poll
+
+
+
+
+
+"l.htm | Question 31"
+"Time Poll conducted by Schulman, Ronca & Bucuvalas (SRBI) Public Affairs. July 13-17, 2006. N=1,003 adults nationwide. Margin of error ± 3."
+"Looking ahead to the 2008 presidential election, how favorable an impression do you have of each of the following possible candidates: very favorable, somewhat favorable, somewhat unfavorable, very unfavorable? . . . Arizona Republican Senator John McCain."
+date,very favorable,somewhat favorable,somewhat unfavorable,very unfavorable,unsure,sample_size,margin_of_error,subpopulation,question_type,url,original,question,pollster
+"=""7/13-17/06""",20,36,15,10,18,1003,3,a,favorability,http://www.pollingreport.com/l.htm,"Time Poll conducted by Schulman, Ronca & Bucuvalas (SRBI) Public Affairs. July 13-17, 2006. N=1,003 adults nationwide. Margin of error ± 3.","""Looking ahead to the 2008 presidential election, how favorable an impression do you have of each of the following possible candidates: very favorable, somewhat favorable, somewhat unfavorable, very unfavorable? . . . Arizona Republican Senator John McCain.""","Time Poll conducted by Schulman, Ronca & Bucuvalas (SRBI) Public Affairs"
+"=""3/22-23/06""",23,38,17,10,13,,,,favorability,http://www.pollingreport.com/l.htm,"Time Poll conducted by Schulman, Ronca & Bucuvalas (SRBI) Public Affairs. July 13-17, 2006. N=1,003 adults nationwide. Margin of error ± 3.","""Looking ahead to the 2008 presidential election, how favorable an impression do you have of each of the following possible candidates: very favorable, somewhat favorable, somewhat unfavorable, very unfavorable? . . . Arizona Republican Senator John McCain.""","Time Poll conducted by Schulman, Ronca & Bucuvalas (SRBI) Public Affairs"
+
+
+
+
+
+
+"l.htm | Question 32"
+"FOX News/Opinion Dynamics Poll. May 16-18, 2006. N=900 registered voters nationwide. Margin of error ± 3.  "
+"I'm going to read the names of several individuals or groups. Please tell me whether you have a generally favorable or unfavorable opinion of each one. If you've never heard of someone, please just say so. John McCain."
+date,favorable,unfavorable,unsure,never heard of,sample_size,margin_of_error,subpopulation,question_type,url,original,question,pollster
+"=""5/16-18/06""",49,25,18,7,900,3,rv,favorability,http://www.pollingreport.com/l.htm,"FOX News/Opinion Dynamics Poll. May 16-18, 2006. N=900 registered voters nationwide. Margin of error ± 3.  ","""I'm going to read the names of several individuals or groups. Please tell me whether you have a generally favorable or unfavorable opinion of each one. If you've never heard of someone, please just say so. John McCain.""",FOX News/Opinion Dynamics Poll
+"=""2/7-8/06""",54,18,19,9,,,,favorability,http://www.pollingreport.com/l.htm,"FOX News/Opinion Dynamics Poll. May 16-18, 2006. N=900 registered voters nationwide. Margin of error ± 3.  ","""I'm going to read the names of several individuals or groups. Please tell me whether you have a generally favorable or unfavorable opinion of each one. If you've never heard of someone, please just say so. John McCain.""",FOX News/Opinion Dynamics Poll
+"=""12/13-14/05""",56,18,18,7,,,,favorability,http://www.pollingreport.com/l.htm,"FOX News/Opinion Dynamics Poll. May 16-18, 2006. N=900 registered voters nationwide. Margin of error ± 3.  ","""I'm going to read the names of several individuals or groups. Please tell me whether you have a generally favorable or unfavorable opinion of each one. If you've never heard of someone, please just say so. John McCain.""",FOX News/Opinion Dynamics Poll
+"=""8/30-31/05""",57,15,18,10,,,,favorability,http://www.pollingreport.com/l.htm,"FOX News/Opinion Dynamics Poll. May 16-18, 2006. N=900 registered voters nationwide. Margin of error ± 3.  ","""I'm going to read the names of several individuals or groups. Please tell me whether you have a generally favorable or unfavorable opinion of each one. If you've never heard of someone, please just say so. John McCain.""",FOX News/Opinion Dynamics Poll
+"=""6/6-7/01""",57,18,18,7,,,,favorability,http://www.pollingreport.com/l.htm,"FOX News/Opinion Dynamics Poll. May 16-18, 2006. N=900 registered voters nationwide. Margin of error ± 3.  ","""I'm going to read the names of several individuals or groups. Please tell me whether you have a generally favorable or unfavorable opinion of each one. If you've never heard of someone, please just say so. John McCain.""",FOX News/Opinion Dynamics Poll
+"=""3/28-29/01""",54,17,22,7,,,,favorability,http://www.pollingreport.com/l.htm,"FOX News/Opinion Dynamics Poll. May 16-18, 2006. N=900 registered voters nationwide. Margin of error ± 3.  ","""I'm going to read the names of several individuals or groups. Please tell me whether you have a generally favorable or unfavorable opinion of each one. If you've never heard of someone, please just say so. John McCain.""",FOX News/Opinion Dynamics Poll
+"=""3/8-9/00""",50,28,17,5,,,,favorability,http://www.pollingreport.com/l.htm,"FOX News/Opinion Dynamics Poll. May 16-18, 2006. N=900 registered voters nationwide. Margin of error ± 3.  ","""I'm going to read the names of several individuals or groups. Please tell me whether you have a generally favorable or unfavorable opinion of each one. If you've never heard of someone, please just say so. John McCain.""",FOX News/Opinion Dynamics Poll
+"=""2/23-24/00""",57,19,19,5,,,,favorability,http://www.pollingreport.com/l.htm,"FOX News/Opinion Dynamics Poll. May 16-18, 2006. N=900 registered voters nationwide. Margin of error ± 3.  ","""I'm going to read the names of several individuals or groups. Please tell me whether you have a generally favorable or unfavorable opinion of each one. If you've never heard of someone, please just say so. John McCain.""",FOX News/Opinion Dynamics Poll
+"=""2/9-10/00""",54,15,20,11,,,,favorability,http://www.pollingreport.com/l.htm,"FOX News/Opinion Dynamics Poll. May 16-18, 2006. N=900 registered voters nationwide. Margin of error ± 3.  ","""I'm going to read the names of several individuals or groups. Please tell me whether you have a generally favorable or unfavorable opinion of each one. If you've never heard of someone, please just say so. John McCain.""",FOX News/Opinion Dynamics Poll
+"=""1/26-27/00""",42,17,22,19,,,,favorability,http://www.pollingreport.com/l.htm,"FOX News/Opinion Dynamics Poll. May 16-18, 2006. N=900 registered voters nationwide. Margin of error ± 3.  ","""I'm going to read the names of several individuals or groups. Please tell me whether you have a generally favorable or unfavorable opinion of each one. If you've never heard of someone, please just say so. John McCain.""",FOX News/Opinion Dynamics Poll
+"=""1/12-13/00""",45,13,22,20,,,,favorability,http://www.pollingreport.com/l.htm,"FOX News/Opinion Dynamics Poll. May 16-18, 2006. N=900 registered voters nationwide. Margin of error ± 3.  ","""I'm going to read the names of several individuals or groups. Please tell me whether you have a generally favorable or unfavorable opinion of each one. If you've never heard of someone, please just say so. John McCain.""",FOX News/Opinion Dynamics Poll
+"=""12/6-7/99""",41,11,18,30,,,,favorability,http://www.pollingreport.com/l.htm,"FOX News/Opinion Dynamics Poll. May 16-18, 2006. N=900 registered voters nationwide. Margin of error ± 3.  ","""I'm going to read the names of several individuals or groups. Please tell me whether you have a generally favorable or unfavorable opinion of each one. If you've never heard of someone, please just say so. John McCain.""",FOX News/Opinion Dynamics Poll
+"=""11/17-18/99""",33,10,19,38,,,,favorability,http://www.pollingreport.com/l.htm,"FOX News/Opinion Dynamics Poll. May 16-18, 2006. N=900 registered voters nationwide. Margin of error ± 3.  ","""I'm going to read the names of several individuals or groups. Please tell me whether you have a generally favorable or unfavorable opinion of each one. If you've never heard of someone, please just say so. John McCain.""",FOX News/Opinion Dynamics Poll
+"=""11/3-4/99""",30,12,23,35,,,,favorability,http://www.pollingreport.com/l.htm,"FOX News/Opinion Dynamics Poll. May 16-18, 2006. N=900 registered voters nationwide. Margin of error ± 3.  ","""I'm going to read the names of several individuals or groups. Please tell me whether you have a generally favorable or unfavorable opinion of each one. If you've never heard of someone, please just say so. John McCain.""",FOX News/Opinion Dynamics Poll
+"=""10/20-21/99""",34,12,19,35,,,,favorability,http://www.pollingreport.com/l.htm,"FOX News/Opinion Dynamics Poll. May 16-18, 2006. N=900 registered voters nationwide. Margin of error ± 3.  ","""I'm going to read the names of several individuals or groups. Please tell me whether you have a generally favorable or unfavorable opinion of each one. If you've never heard of someone, please just say so. John McCain.""",FOX News/Opinion Dynamics Poll
+"=""6/2-3/99""",25,8,17,50,,,,favorability,http://www.pollingreport.com/l.htm,"FOX News/Opinion Dynamics Poll. May 16-18, 2006. N=900 registered voters nationwide. Margin of error ± 3.  ","""I'm going to read the names of several individuals or groups. Please tell me whether you have a generally favorable or unfavorable opinion of each one. If you've never heard of someone, please just say so. John McCain.""",FOX News/Opinion Dynamics Poll
+"=""5/20-21/98""",18,8,19,55,,,,favorability,http://www.pollingreport.com/l.htm,"FOX News/Opinion Dynamics Poll. May 16-18, 2006. N=900 registered voters nationwide. Margin of error ± 3.  ","""I'm going to read the names of several individuals or groups. Please tell me whether you have a generally favorable or unfavorable opinion of each one. If you've never heard of someone, please just say so. John McCain.""",FOX News/Opinion Dynamics Poll
+
+
+
+
+
+
+"l.htm | Question 33"
+"Quinnipiac University Poll. Nov. 28-Dec. 4, 2005. N=1,230 registered voters nationwide. Margin of error ± 2.8.  "
+"Is your opinion of Arizona Senator John McCain favorable, unfavorable, mixed, or haven't you heard enough about him?"
+date,favorable,unfavorable,mixed,haven't heard enough,refused,sample_size,margin_of_error,subpopulation,question_type,url,original,question,pollster
+"=""11/28 - 12/4/05""",32,11,25,32,-,1230,2,rv,favorability,http://www.pollingreport.com/l.htm,"Quinnipiac University Poll. Nov. 28-Dec. 4, 2005. N=1,230 registered voters nationwide. Margin of error ± 2.8.  ","""Is your opinion of Arizona Senator John McCain favorable, unfavorable, mixed, or haven't you heard enough about him?""",Quinnipiac University Poll
+"=""3/2-7/05""",35,8,22,33,2,,,,favorability,http://www.pollingreport.com/l.htm,"Quinnipiac University Poll. Nov. 28-Dec. 4, 2005. N=1,230 registered voters nationwide. Margin of error ± 2.8.  ","""Is your opinion of Arizona Senator John McCain favorable, unfavorable, mixed, or haven't you heard enough about him?""",Quinnipiac University Poll
+
+
+
+
+
+
+"l.htm | Question 34"
+"CNN/Time Poll conducted by Yankelovich Partners. March 21-22, 2001. N=1,025 adults nationwide."
+"Next, I'm going to read you the names of some people in the news today. Please tell me whether you have generally favorable or generally unfavorable impressions of each, or whether you are not familiar enough to say one way or another. Arizona Senator John McCain."
+date,favorable,unfavorable,not familiar,unsure,sample_size,margin_of_error,subpopulation,question_type,url,original,question,pollster
+"=""3/21-22/01""",44,21,31,4,1025,,a,favorability,http://www.pollingreport.com/l.htm,"CNN/Time Poll conducted by Yankelovich Partners. March 21-22, 2001. N=1,025 adults nationwide.","""Next, I'm going to read you the names of some people in the news today. Please tell me whether you have generally favorable or generally unfavorable impressions of each, or whether you are not familiar enough to say one way or another. Arizona Senator John McCain.""",CNN/Time Poll conducted by Yankelovich Partners
+"=""6/14-15/00""",47,17,32,4,,,,favorability,http://www.pollingreport.com/l.htm,"CNN/Time Poll conducted by Yankelovich Partners. March 21-22, 2001. N=1,025 adults nationwide.","""Next, I'm going to read you the names of some people in the news today. Please tell me whether you have generally favorable or generally unfavorable impressions of each, or whether you are not familiar enough to say one way or another. Arizona Senator John McCain.""",CNN/Time Poll conducted by Yankelovich Partners
+"=""3/8-9/00""",47,27,23,3,,,,favorability,http://www.pollingreport.com/l.htm,"CNN/Time Poll conducted by Yankelovich Partners. March 21-22, 2001. N=1,025 adults nationwide.","""Next, I'm going to read you the names of some people in the news today. Please tell me whether you have generally favorable or generally unfavorable impressions of each, or whether you are not familiar enough to say one way or another. Arizona Senator John McCain.""",CNN/Time Poll conducted by Yankelovich Partners
+"=""2/2-3/00""",45,13,38,4,,,,favorability,http://www.pollingreport.com/l.htm,"CNN/Time Poll conducted by Yankelovich Partners. March 21-22, 2001. N=1,025 adults nationwide.","""Next, I'm going to read you the names of some people in the news today. Please tell me whether you have generally favorable or generally unfavorable impressions of each, or whether you are not familiar enough to say one way or another. Arizona Senator John McCain.""",CNN/Time Poll conducted by Yankelovich Partners
+"=""1/12-13/00""",40,14,41,5,,,,favorability,http://www.pollingreport.com/l.htm,"CNN/Time Poll conducted by Yankelovich Partners. March 21-22, 2001. N=1,025 adults nationwide.","""Next, I'm going to read you the names of some people in the news today. Please tell me whether you have generally favorable or generally unfavorable impressions of each, or whether you are not familiar enough to say one way or another. Arizona Senator John McCain.""",CNN/Time Poll conducted by Yankelovich Partners
+"=""6/9-10/99""",23,17,58,2,,,,favorability,http://www.pollingreport.com/l.htm,"CNN/Time Poll conducted by Yankelovich Partners. March 21-22, 2001. N=1,025 adults nationwide.","""Next, I'm going to read you the names of some people in the news today. Please tell me whether you have generally favorable or generally unfavorable impressions of each, or whether you are not familiar enough to say one way or another. Arizona Senator John McCain.""",CNN/Time Poll conducted by Yankelovich Partners
+
+
+
+
+
+
+"l.htm | Question 35"
+"Newsweek Poll conducted by Princeton Survey Research Associates International. Sept. 10-11, 2008. N=1,038 registered voters nationwide. Margin of error ± 3.8."
+"Please tell me if you have a favorable or unfavorable opinion of the following people in politics. If I mention someone you have never heard of before, just tell me. What about Cindy McCain? Do you have a favorable or unfavorable opinion of her?"
+date,favorable,unfavorable,never heard of,unsure,sample_size,margin_of_error,subpopulation,question_type,url,original,question,pollster
+"=""9/10-11/08""",48,26,4,22,1038,3,rv,favorability,http://www.pollingreport.com/l.htm,"Newsweek Poll conducted by Princeton Survey Research Associates International. Sept. 10-11, 2008. N=1,038 registered voters nationwide. Margin of error ± 3.8.","""Please tell me if you have a favorable or unfavorable opinion of the following people in politics. If I mention someone you have never heard of before, just tell me. What about Cindy McCain? Do you have a favorable or unfavorable opinion of her?""",Newsweek Poll conducted by Princeton Survey Research Associates International
+"=""6/18-19/08""",33,19,12,36,,,,favorability,http://www.pollingreport.com/l.htm,"Newsweek Poll conducted by Princeton Survey Research Associates International. Sept. 10-11, 2008. N=1,038 registered voters nationwide. Margin of error ± 3.8.","""Please tell me if you have a favorable or unfavorable opinion of the following people in politics. If I mention someone you have never heard of before, just tell me. What about Cindy McCain? Do you have a favorable or unfavorable opinion of her?""",Newsweek Poll conducted by Princeton Survey Research Associates International
+
+
+
+
+
+
+"l.htm | Question 36"
+"CNN/Opinion Research Corporation Poll. Aug. 29-31, 2008. N=467 registered voters nationwide. Margin of error ± 4.5."
+"We'd like to get your overall opinion of some people in the news. As I read each name, please say if you have a favorable or unfavorable opinion of these people -- or if you have never heard of them. Cindy McCain."
+date,favorable,unfavorable,never heard of,unsure,sample_size,margin_of_error,subpopulation,question_type,url,original,question,pollster
+"=""8/29-31/08""",43,29,9,19,467,4,rv,favorability,http://www.pollingreport.com/l.htm,"CNN/Opinion Research Corporation Poll. Aug. 29-31, 2008. N=467 registered voters nationwide. Margin of error ± 4.5.","""We'd like to get your overall opinion of some people in the news. As I read each name, please say if you have a favorable or unfavorable opinion of these people -- or if you have never heard of them. Cindy McCain.""",CNN/Opinion Research Corporation Poll
+"=""6/26-29/08""",39,23,10,28,,,,favorability,http://www.pollingreport.com/l.htm,"CNN/Opinion Research Corporation Poll. Aug. 29-31, 2008. N=467 registered voters nationwide. Margin of error ± 4.5.","""We'd like to get your overall opinion of some people in the news. As I read each name, please say if you have a favorable or unfavorable opinion of these people -- or if you have never heard of them. Cindy McCain.""",CNN/Opinion Research Corporation Poll
+
+
+
+
+
+
+"l.htm | Question 37"
+"USA Today/Gallup Poll. Aug. 21-23, 2008. N=1,023 adults nationwide. Margin of error ± 3."
+"Next, we'd like to get your overall opinion of some people in the news. As I read each name, please say if you have a favorable or unfavorable opinion of these people -- or if you have never heard of them. How about Cindy McCain, wife of John McCain?"
+date,favorable,unfavorable,never heard of,unsure,sample_size,margin_of_error,subpopulation,question_type,url,original,question,pollster
+"=""8/21-23/08""",47,20,8,25,1023,3,a,favorability,http://www.pollingreport.com/l.htm,"USA Today/Gallup Poll. Aug. 21-23, 2008. N=1,023 adults nationwide. Margin of error ± 3.","""Next, we'd like to get your overall opinion of some people in the news. As I read each name, please say if you have a favorable or unfavorable opinion of these people -- or if you have never heard of them. How about Cindy McCain, wife of John McCain?""",USA Today/Gallup Poll
+"=""5/30 - 6/1/08""",40,19,10,31,,,,favorability,http://www.pollingreport.com/l.htm,"USA Today/Gallup Poll. Aug. 21-23, 2008. N=1,023 adults nationwide. Margin of error ± 3.","""Next, we'd like to get your overall opinion of some people in the news. As I read each name, please say if you have a favorable or unfavorable opinion of these people -- or if you have never heard of them. How about Cindy McCain, wife of John McCain?""",USA Today/Gallup Poll
+
+
+
+
+
+
+"l.htm | Question 38"
+"NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Neil Newhouse (R). July 18-21, 2008. N=approx. 500 registered voters nationwide."
+"Now I'm going to read you the names of several public figures, and I'd like you to rate your feelings toward each one as either very positive, somewhat positive, neutral, somewhat negative, or very negative. If you don't know the name, please just say so.
+date,very positive,somewhat positive,neutral,somewhat negative,very negative,don't know name/ not sure,sample_size,margin_of_error,subpopulation,question_type,url,original,question,pollster
+"=""7/18-21/08""",9,19,40,10,6,16,,,rv,thermometer,http://www.pollingreport.com/l.htm,"NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Neil Newhouse (R). July 18-21, 2008. N=approx. 500 registered voters nationwide.","""Now I'm going to read you the names of several public figures, and I'd like you to rate your feelings toward each one as either very positive, somewhat positive, neutral, somewhat negative, or very negative. If you don't know the name, please just say so.",NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Neil Newhouse (R)
+"=""3/7-10/08""",6,14,37,7,5,31,,,,thermometer,http://www.pollingreport.com/l.htm,"NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Neil Newhouse (R). July 18-21, 2008. N=approx. 500 registered voters nationwide.","""Now I'm going to read you the names of several public figures, and I'd like you to rate your feelings toward each one as either very positive, somewhat positive, neutral, somewhat negative, or very negative. If you don't know the name, please just say so.",NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Neil Newhouse (R)
+
+
+
+
+
+
+"l.htm | Question 39"
+"CBS News/New York Times Poll. July 7-14, 2008. N=1,534 registered voters nationwide."
+"Is your opinion of Cindy McCain favorable, not favorable, undecided, or haven't you heard enough about Cindy McCain yet to have an opinion?"
+date,favorable,not favorable,undecided,haven't heard,refused,sample_size,margin_of_error,subpopulation,question_type,url,original,question,pollster
+"=""7/7-14/08""",18,8,17,55,2,1534,,rv,favorability,http://www.pollingreport.com/l.htm,"CBS News/New York Times Poll. July 7-14, 2008. N=1,534 registered voters nationwide.","""Is your opinion of Cindy McCain favorable, not favorable, undecided, or haven't you heard enough about Cindy McCain yet to have an opinion?""",CBS News/New York Times Poll
+"=""4/25-29/08""",17,7,14,61,1,,,,favorability,http://www.pollingreport.com/l.htm,"CBS News/New York Times Poll. July 7-14, 2008. N=1,534 registered voters nationwide.","""Is your opinion of Cindy McCain favorable, not favorable, undecided, or haven't you heard enough about Cindy McCain yet to have an opinion?""",CBS News/New York Times Poll
+
+
+
+
+
+
+"l.htm | Question 40"
+"ABC News/Washington Post Poll. June 12-15, 2008. N=1,125 adults nationwide. Margin of error ± 3 ."
+"
+date,favorable,unfavorable,unsure,sample_size,margin_of_error,subpopulation,question_type,url,original,question,pollster
+"=""6/12-15/08""",39,25,36,1125,3,a,favorability,http://www.pollingreport.com/l.htm,"ABC News/Washington Post Poll. June 12-15, 2008. N=1,125 adults nationwide. Margin of error ± 3 .","""",ABC News/Washington Post Poll
+
+
+
+
+
+
+"l.htm | Question 41"
+"Gallup Poll. Oct. 7-11, 2015. N=1,015 adults nationwide. Margin of error ± 4."
+"Next, we'd like to get your overall opinion of some people in the news. As I read each name, please say if you have a favorable or unfavorable opinion of these people -- or if you have never heard of them. How about Senate Republican Leader Mitch McConnell?"
+date,favorable,unfavorable,never heard of,unsure,sample_size,margin_of_error,subpopulation,question_type,url,original,question,pollster
+"=""10/7-11/15""",18,41,23,17,1015,4,a,favorability,http://www.pollingreport.com/l.htm,"Gallup Poll. Oct. 7-11, 2015. N=1,015 adults nationwide. Margin of error ± 4.","""Next, we'd like to get your overall opinion of some people in the news. As I read each name, please say if you have a favorable or unfavorable opinion of these people -- or if you have never heard of them. How about Senate Republican Leader Mitch McConnell?""",Gallup Poll
+"=""8/5-9/15""",22,41,25,12,,,,favorability,http://www.pollingreport.com/l.htm,"Gallup Poll. Oct. 7-11, 2015. N=1,015 adults nationwide. Margin of error ± 4.","""Next, we'd like to get your overall opinion of some people in the news. As I read each name, please say if you have a favorable or unfavorable opinion of these people -- or if you have never heard of them. How about Senate Republican Leader Mitch McConnell?""",Gallup Poll
+"=""4/24-30/14""",23,40,25,12,,,,favorability,http://www.pollingreport.com/l.htm,"Gallup Poll. Oct. 7-11, 2015. N=1,015 adults nationwide. Margin of error ± 4.","""Next, we'd like to get your overall opinion of some people in the news. As I read each name, please say if you have a favorable or unfavorable opinion of these people -- or if you have never heard of them. How about Senate Republican Leader Mitch McConnell?""",Gallup Poll
+"=""10/3-6/13""",22,42,23,12,,,,favorability,http://www.pollingreport.com/l.htm,"Gallup Poll. Oct. 7-11, 2015. N=1,015 adults nationwide. Margin of error ± 4.","""Next, we'd like to get your overall opinion of some people in the news. As I read each name, please say if you have a favorable or unfavorable opinion of these people -- or if you have never heard of them. How about Senate Republican Leader Mitch McConnell?""",Gallup Poll
+"=""4/11-14/13""",26,34,22,17,,,,favorability,http://www.pollingreport.com/l.htm,"Gallup Poll. Oct. 7-11, 2015. N=1,015 adults nationwide. Margin of error ± 4.","""Next, we'd like to get your overall opinion of some people in the news. As I read each name, please say if you have a favorable or unfavorable opinion of these people -- or if you have never heard of them. How about Senate Republican Leader Mitch McConnell?""",Gallup Poll
+"=""5/24-25/10""",28,30,25,17,,,,favorability,http://www.pollingreport.com/l.htm,"Gallup Poll. Oct. 7-11, 2015. N=1,015 adults nationwide. Margin of error ± 4.","""Next, we'd like to get your overall opinion of some people in the news. As I read each name, please say if you have a favorable or unfavorable opinion of these people -- or if you have never heard of them. How about Senate Republican Leader Mitch McConnell?""",Gallup Poll
+"=""3/26-28/10""",31,32,23,14,,,,favorability,http://www.pollingreport.com/l.htm,"Gallup Poll. Oct. 7-11, 2015. N=1,015 adults nationwide. Margin of error ± 4.","""Next, we'd like to get your overall opinion of some people in the news. As I read each name, please say if you have a favorable or unfavorable opinion of these people -- or if you have never heard of them. How about Senate Republican Leader Mitch McConnell?""",Gallup Poll
+
+
+
+
+
+
+"l.htm | Question 42"
+"Bloomberg Politics Poll conducted by Selzer & Company. Sept. 18-21, 2015. N=1,001 adults nationwide. Margin of error ± 3.1."
+"I'm going to mention some people and groups in the news recently. For each, please tell me if your feelings are very favorable, mostly favorable, mostly unfavorable, or very unfavorable. If you don't know enough to answer, just say so. Mitch McConnell, majority leader in the U.S. Senate."
+date,favorable,unfavorable,unsure,sample_size,margin_of_error,subpopulation,question_type,url,original,question,pollster
+"=""9/18-21/15""",18,42,40,1001,3,a,favorability,http://www.pollingreport.com/l.htm,"Bloomberg Politics Poll conducted by Selzer & Company. Sept. 18-21, 2015. N=1,001 adults nationwide. Margin of error ± 3.1.","""I'm going to mention some people and groups in the news recently. For each, please tell me if your feelings are very favorable, mostly favorable, mostly unfavorable, or very unfavorable. If you don't know enough to answer, just say so. Mitch McConnell, majority leader in the U.S. Senate.""",Bloomberg Politics Poll conducted by Selzer & Company
+"=""4/6-8/15""",25,35,40,,,,favorability,http://www.pollingreport.com/l.htm,"Bloomberg Politics Poll conducted by Selzer & Company. Sept. 18-21, 2015. N=1,001 adults nationwide. Margin of error ± 3.1.","""I'm going to mention some people and groups in the news recently. For each, please tell me if your feelings are very favorable, mostly favorable, mostly unfavorable, or very unfavorable. If you don't know enough to answer, just say so. Mitch McConnell, majority leader in the U.S. Senate.""",Bloomberg Politics Poll conducted by Selzer & Company
+
+
+
+
+
+
+"l.htm | Question 43"
+"Pew Research Center/USA Today. Dec. 3-7, 2014. N=1,507 adults nationwide. Margin of error ± 2.9."
+"Would you say your overall opinion of Mitch McConnell is very favorable, mostly favorable, mostly UNfavorable, or very unfavorable?"
+date,favorable,unfavorable,never heard of (vol.),can't rate (vol.)/refused,sample_size,margin_of_error,subpopulation,question_type,url,original,question,pollster
+"=""12/3-7/14""",21,37,24,18,1507,2,a,favorability,http://www.pollingreport.com/l.htm,"Pew Research Center/USA Today. Dec. 3-7, 2014. N=1,507 adults nationwide. Margin of error ± 2.9.","""Would you say your overall opinion of Mitch McConnell is very favorable, mostly favorable, mostly UNfavorable, or very unfavorable?""",Pew Research Center/USA Today
+"=""10/9-13/13""",23,37,23,17,,,,favorability,http://www.pollingreport.com/l.htm,"Pew Research Center/USA Today. Dec. 3-7, 2014. N=1,507 adults nationwide. Margin of error ± 2.9.","""Would you say your overall opinion of Mitch McConnell is very favorable, mostly favorable, mostly UNfavorable, or very unfavorable?""",Pew Research Center/USA Today
+
+
+
+
+
+
+"l.htm | Question 44"
+"CNN/ORC Poll. Nov. 21-23, 2014. N=1,045 adults nationwide. Margin of error ± 3."
+"We'd like to get your overall opinion of some people in the news. As I read each name, please say if you have a favorable or unfavorable opinion of these people -- or if you have never heard of them. Senate Republican Leader Mitch McConnell."
+date,favorable,unfavorable,never heard of,unsure,sample_size,margin_of_error,subpopulation,question_type,url,original,question,pollster
+"=""11/21-23/14""",26,38,23,13,1045,3,a,favorability,http://www.pollingreport.com/l.htm,"CNN/ORC Poll. Nov. 21-23, 2014. N=1,045 adults nationwide. Margin of error ± 3.","""We'd like to get your overall opinion of some people in the news. As I read each name, please say if you have a favorable or unfavorable opinion of these people -- or if you have never heard of them. Senate Republican Leader Mitch McConnell.""",CNN/ORC Poll
+"=""10/18-20/13""",23,42,20,16,,,,favorability,http://www.pollingreport.com/l.htm,"CNN/ORC Poll. Nov. 21-23, 2014. N=1,045 adults nationwide. Margin of error ± 3.","""We'd like to get your overall opinion of some people in the news. As I read each name, please say if you have a favorable or unfavorable opinion of these people -- or if you have never heard of them. Senate Republican Leader Mitch McConnell.""",CNN/ORC Poll
+"=""9/27-29/13""",27,39,17,17,,,,favorability,http://www.pollingreport.com/l.htm,"CNN/ORC Poll. Nov. 21-23, 2014. N=1,045 adults nationwide. Margin of error ± 3.","""We'd like to get your overall opinion of some people in the news. As I read each name, please say if you have a favorable or unfavorable opinion of these people -- or if you have never heard of them. Senate Republican Leader Mitch McConnell.""",CNN/ORC Poll
+"=""3/15-17/13""",24,32,28,16,,,,favorability,http://www.pollingreport.com/l.htm,"CNN/ORC Poll. Nov. 21-23, 2014. N=1,045 adults nationwide. Margin of error ± 3.","""We'd like to get your overall opinion of some people in the news. As I read each name, please say if you have a favorable or unfavorable opinion of these people -- or if you have never heard of them. Senate Republican Leader Mitch McConnell.""",CNN/ORC Poll
+"=""9/23-25/11""",23,33,28,16,,,,favorability,http://www.pollingreport.com/l.htm,"CNN/ORC Poll. Nov. 21-23, 2014. N=1,045 adults nationwide. Margin of error ± 3.","""We'd like to get your overall opinion of some people in the news. As I read each name, please say if you have a favorable or unfavorable opinion of these people -- or if you have never heard of them. Senate Republican Leader Mitch McConnell.""",CNN/ORC Poll
+"=""8/5-7/11""",21,39,27,13,,,,favorability,http://www.pollingreport.com/l.htm,"CNN/ORC Poll. Nov. 21-23, 2014. N=1,045 adults nationwide. Margin of error ± 3.","""We'd like to get your overall opinion of some people in the news. As I read each name, please say if you have a favorable or unfavorable opinion of these people -- or if you have never heard of them. Senate Republican Leader Mitch McConnell.""",CNN/ORC Poll
+"=""7/18-20/11""",27,32,27,14,,,,favorability,http://www.pollingreport.com/l.htm,"CNN/ORC Poll. Nov. 21-23, 2014. N=1,045 adults nationwide. Margin of error ± 3.","""We'd like to get your overall opinion of some people in the news. As I read each name, please say if you have a favorable or unfavorable opinion of these people -- or if you have never heard of them. Senate Republican Leader Mitch McConnell.""",CNN/ORC Poll
+"=""12/17-19/10""",32,25,16,27,,,,favorability,http://www.pollingreport.com/l.htm,"CNN/ORC Poll. Nov. 21-23, 2014. N=1,045 adults nationwide. Margin of error ± 3.","""We'd like to get your overall opinion of some people in the news. As I read each name, please say if you have a favorable or unfavorable opinion of these people -- or if you have never heard of them. Senate Republican Leader Mitch McConnell.""",CNN/ORC Poll
+"=""11/11-14/10""",26,23,31,20,,,,favorability,http://www.pollingreport.com/l.htm,"CNN/ORC Poll. Nov. 21-23, 2014. N=1,045 adults nationwide. Margin of error ± 3.","""We'd like to get your overall opinion of some people in the news. As I read each name, please say if you have a favorable or unfavorable opinion of these people -- or if you have never heard of them. Senate Republican Leader Mitch McConnell.""",CNN/ORC Poll
+"=""9/1-2/10""",26,24,34,16,,,,favorability,http://www.pollingreport.com/l.htm,"CNN/ORC Poll. Nov. 21-23, 2014. N=1,045 adults nationwide. Margin of error ± 3.","""We'd like to get your overall opinion of some people in the news. As I read each name, please say if you have a favorable or unfavorable opinion of these people -- or if you have never heard of them. Senate Republican Leader Mitch McConnell.""",CNN/ORC Poll
+"=""11/17-19/06""",21,18,42,19,,,,favorability,http://www.pollingreport.com/l.htm,"CNN/ORC Poll. Nov. 21-23, 2014. N=1,045 adults nationwide. Margin of error ± 3.","""We'd like to get your overall opinion of some people in the news. As I read each name, please say if you have a favorable or unfavorable opinion of these people -- or if you have never heard of them. Senate Republican Leader Mitch McConnell.""",CNN/ORC Poll
+
+
+
+
+
+
+"l.htm | Question 45"
+"Gallup Poll. Sept. 5-8, 2013. N=764 adults nationwide. Margin of error ± 4."
+"Do you approve or disapprove of the way Mitch McConnell is handling his job as minority leader of the U.S. Senate?"
+date,approve,disapprove,unsure,sample_size,margin_of_error,subpopulation,question_type,url,original,question,pollster
+"=""9/5-8/13""",35,47,17,764,4,a,approval,http://www.pollingreport.com/l.htm,"Gallup Poll. Sept. 5-8, 2013. N=764 adults nationwide. Margin of error ± 4.","""Do you approve or disapprove of the way Mitch McConnell is handling his job as minority leader of the U.S. Senate?""",Gallup Poll
+
+
+
+
+
+
+"l.htm | Question 46"
+"AP-GfK Poll conducted by GfK Roper Public Affairs & Corporate Communications. Jan. 5-10, 2011. N=1,001 adults nationwide. Margin of error ± 4.2."
+"Do you have a favorable or unfavorable impression of Mitch McConnell?"
+date,favorable,unfavorable,unsure,refused,sample_size,margin_of_error,subpopulation,question_type,url,original,question,pollster
+"=""1/5-10/11""",30,28,42,1,1001,4,a,favorability,http://www.pollingreport.com/l.htm,"AP-GfK Poll conducted by GfK Roper Public Affairs & Corporate Communications. Jan. 5-10, 2011. N=1,001 adults nationwide. Margin of error ± 4.2.","""Do you have a favorable or unfavorable impression of Mitch McConnell?""",AP-GfK Poll conducted by GfK Roper Public Affairs & Corporate Communications
+"=""11/3-8/10""",34,25,41,1,,,,favorability,http://www.pollingreport.com/l.htm,"AP-GfK Poll conducted by GfK Roper Public Affairs & Corporate Communications. Jan. 5-10, 2011. N=1,001 adults nationwide. Margin of error ± 4.2.","""Do you have a favorable or unfavorable impression of Mitch McConnell?""",AP-GfK Poll conducted by GfK Roper Public Affairs & Corporate Communications
+"=""10/13-18/10""",30,31,38,1,,,,favorability,http://www.pollingreport.com/l.htm,"AP-GfK Poll conducted by GfK Roper Public Affairs & Corporate Communications. Jan. 5-10, 2011. N=1,001 adults nationwide. Margin of error ± 4.2.","""Do you have a favorable or unfavorable impression of Mitch McConnell?""",AP-GfK Poll conducted by GfK Roper Public Affairs & Corporate Communications
+
+
+
+
+
+
+"l.htm | Question 47"
+"NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R). Oct. 22-25, 2009. N=approx. 500 adults nationwide. Margin of error ± 4.4."
+"I'm going to read you the names of several public figures and I'd like you to rate your feelings toward each one as either very positive, somewhat positive, neutral, somewhat negative, or very negative. If you don't know the name, please just say so. Mitch McConnell."
+date,very positive,somewhat positive,neutral,somewhat negative,very negative,don't know name/ not sure,sample_size,margin_of_error,subpopulation,question_type,url,original,question,pollster
+"=""10/22-25/09""",3,6,19,8,6,58,,4,a,thermometer,http://www.pollingreport.com/l.htm,"NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R). Oct. 22-25, 2009. N=approx. 500 adults nationwide. Margin of error ± 4.4.","""I'm going to read you the names of several public figures and I'd like you to rate your feelings toward each one as either very positive, somewhat positive, neutral, somewhat negative, or very negative. If you don't know the name, please just say so. Mitch McConnell.""",NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R)
+"=""1/07""",2,9,19,5,1,64,,,,thermometer,http://www.pollingreport.com/l.htm,"NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R). Oct. 22-25, 2009. N=approx. 500 adults nationwide. Margin of error ± 4.4.","""I'm going to read you the names of several public figures and I'd like you to rate your feelings toward each one as either very positive, somewhat positive, neutral, somewhat negative, or very negative. If you don't know the name, please just say so. Mitch McConnell.""",NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R)
+
+
+
+
+
+
+"l.htm | Question 48"
+"Newsweek Poll conducted by Princeton Survey Research Associates International. March 4-5, 2009. N=1,203 adults nationwide. Margin of error ± 3.5."
+"Next, as I read you the names of some people in politics, please tell me if you have a favorable or unfavorable opinion of each one. If I mention someone you never heard of before this interview, just tell me. What about Senate Minority Leader Mitch McConnell?"
+date,favorable,unfavorable,never heard of,unsure,sample_size,margin_of_error,subpopulation,question_type,url,original,question,pollster
+"=""3/4-5/09""",23,16,41,20,1203,3,a,favorability,http://www.pollingreport.com/l.htm,"Newsweek Poll conducted by Princeton Survey Research Associates International. March 4-5, 2009. N=1,203 adults nationwide. Margin of error ± 3.5.","""Next, as I read you the names of some people in politics, please tell me if you have a favorable or unfavorable opinion of each one. If I mention someone you never heard of before this interview, just tell me. What about Senate Minority Leader Mitch McConnell?""",Newsweek Poll conducted by Princeton Survey Research Associates International
+
+
+
+
+
+
+"l.htm | Question 49"
+"The Harris Poll. Oct. 5-8, 2007. N=1,003 adults nationwide. Margin of error ± 3.  "
+"How would you rate the job Senate Minority Leader Mitch McConnell is doing: excellent, pretty good, only fair, or poor?"
+date,excellent/ pretty good,only fair/ poor,sample_size,margin_of_error,subpopulation,question_type,url,original,question,pollster
+"=""10/5-8/07""",21,51,1003,3,a,approval,http://www.pollingreport.com/l.htm,"The Harris Poll. Oct. 5-8, 2007. N=1,003 adults nationwide. Margin of error ± 3.  ","""How would you rate the job Senate Minority Leader Mitch McConnell is doing: excellent, pretty good, only fair, or poor?""",The Harris Poll
+"=""7/6-9/07""",20,44,,,,approval,http://www.pollingreport.com/l.htm,"The Harris Poll. Oct. 5-8, 2007. N=1,003 adults nationwide. Margin of error ± 3.  ","""How would you rate the job Senate Minority Leader Mitch McConnell is doing: excellent, pretty good, only fair, or poor?""",The Harris Poll
+"=""2/2-5/07""",19,42,,,,approval,http://www.pollingreport.com/l.htm,"The Harris Poll. Oct. 5-8, 2007. N=1,003 adults nationwide. Margin of error ± 3.  ","""How would you rate the job Senate Minority Leader Mitch McConnell is doing: excellent, pretty good, only fair, or poor?""",The Harris Poll
+
+
+
+
+
+
+"l.htm | Question 50"
+"CNN/ORC Poll. Aug. 7-8, 2012. N=1,010 adults nationwide. Margin of error ± 3."
+"We'd like to get your overall opinion of some people in the news. As I read each name, please say if you have a favorable or unfavorable opinion of these people -- or if you have never heard of them. Virginia Governor Bob McDonnell."
+date,favorable,unfavorable,never heard of,unsure,sample_size,margin_of_error,subpopulation,question_type,url,original,question,pollster
+"=""8/7-8/12""",15,12,51,22,1010,3,a,favorability,http://www.pollingreport.com/l.htm,"CNN/ORC Poll. Aug. 7-8, 2012. N=1,010 adults nationwide. Margin of error ± 3.","""We'd like to get your overall opinion of some people in the news. As I read each name, please say if you have a favorable or unfavorable opinion of these people -- or if you have never heard of them. Virginia Governor Bob McDonnell.""",CNN/ORC Poll
+
+
+
+
+
+
+"l.htm | Question 51"
+"USA Today/Gallup Poll. Aug. 21-23, 2008. N=1,023 adults nationwide. Margin of error ± 3."
+"Next, we'd like to get your overall opinion of some people in the news. As I read each name, please say if you have a favorable or unfavorable opinion of these people -- or if you have never heard of them. How about Ralph Nader?"
+date,favorable,unfavorable,never heard of,unsure,sample_size,margin_of_error,subpopulation,question_type,url,original,question,pollster
+"=""8/21-23/08""",29,44,11,16,1023,3,a,favorability,http://www.pollingreport.com/l.htm,"USA Today/Gallup Poll. Aug. 21-23, 2008. N=1,023 adults nationwide. Margin of error ± 3.","""Next, we'd like to get your overall opinion of some people in the news. As I read each name, please say if you have a favorable or unfavorable opinion of these people -- or if you have never heard of them. How about Ralph Nader?""",USA Today/Gallup Poll
+"=""9/13-15/04""",33,48,4,15,,,,favorability,http://www.pollingreport.com/l.htm,"USA Today/Gallup Poll. Aug. 21-23, 2008. N=1,023 adults nationwide. Margin of error ± 3.","""Next, we'd like to get your overall opinion of some people in the news. As I read each name, please say if you have a favorable or unfavorable opinion of these people -- or if you have never heard of them. How about Ralph Nader?""",USA Today/Gallup Poll
+"=""9/3-5/04""",26,49,6,19,,,,favorability,http://www.pollingreport.com/l.htm,"USA Today/Gallup Poll. Aug. 21-23, 2008. N=1,023 adults nationwide. Margin of error ± 3.","""Next, we'd like to get your overall opinion of some people in the news. As I read each name, please say if you have a favorable or unfavorable opinion of these people -- or if you have never heard of them. How about Ralph Nader?""",USA Today/Gallup Poll
+"=""3/26-28/04""",30,48,7,15,,,,favorability,http://www.pollingreport.com/l.htm,"USA Today/Gallup Poll. Aug. 21-23, 2008. N=1,023 adults nationwide. Margin of error ± 3.","""Next, we'd like to get your overall opinion of some people in the news. As I read each name, please say if you have a favorable or unfavorable opinion of these people -- or if you have never heard of them. How about Ralph Nader?""",USA Today/Gallup Poll
+"=""8/3-5/01""",42,31,13,14,,,,favorability,http://www.pollingreport.com/l.htm,"USA Today/Gallup Poll. Aug. 21-23, 2008. N=1,023 adults nationwide. Margin of error ± 3.","""Next, we'd like to get your overall opinion of some people in the news. As I read each name, please say if you have a favorable or unfavorable opinion of these people -- or if you have never heard of them. How about Ralph Nader?""",USA Today/Gallup Poll
+"=""7/14-16/00""",42,22,17,19,,,,favorability,http://www.pollingreport.com/l.htm,"USA Today/Gallup Poll. Aug. 21-23, 2008. N=1,023 adults nationwide. Margin of error ± 3.","""Next, we'd like to get your overall opinion of some people in the news. As I read each name, please say if you have a favorable or unfavorable opinion of these people -- or if you have never heard of them. How about Ralph Nader?""",USA Today/Gallup Poll
+"=""6/6-7/00""",36,22,18,24,,,,favorability,http://www.pollingreport.com/l.htm,"USA Today/Gallup Poll. Aug. 21-23, 2008. N=1,023 adults nationwide. Margin of error ± 3.","""Next, we'd like to get your overall opinion of some people in the news. As I read each name, please say if you have a favorable or unfavorable opinion of these people -- or if you have never heard of them. How about Ralph Nader?""",USA Today/Gallup Poll
+"=""4/28-30/00""",41,20,18,21,,,,favorability,http://www.pollingreport.com/l.htm,"USA Today/Gallup Poll. Aug. 21-23, 2008. N=1,023 adults nationwide. Margin of error ± 3.","""Next, we'd like to get your overall opinion of some people in the news. As I read each name, please say if you have a favorable or unfavorable opinion of these people -- or if you have never heard of them. How about Ralph Nader?""",USA Today/Gallup Poll
+
+
+
+
+
+
+"l.htm | Question 52"
+"Diageo/Hotline Poll conducted by Financial Dynamics. March 28-31, 2008. N=799 registered voters nationwide. Margin of error ± 3.5."
+"Please tell me if you have a favorable or unfavorable opinion of the following public figures. If you haven't heard of them, just tell me and we'll move on. Ralph Nader."
+date,favorable,unfavorable,heard of/can't rate (vol.),haven't heard of,unsure,sample_size,margin_of_error,subpopulation,question_type,url,original,question,pollster
+"=""3/28-31/08""",22,46,20,9,4,799,3,rv,favorability,http://www.pollingreport.com/l.htm,"Diageo/Hotline Poll conducted by Financial Dynamics. March 28-31, 2008. N=799 registered voters nationwide. Margin of error ± 3.5.","""Please tell me if you have a favorable or unfavorable opinion of the following public figures. If you haven't heard of them, just tell me and we'll move on. Ralph Nader.""",Diageo/Hotline Poll conducted by Financial Dynamics
+
+
+
+
+
+
+"l.htm | Question 53"
+"NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R). March 7-10, 2008. N=approx. 500 registered voters nationwide."
+"Now I'm going to read you the names of several public figures and organizations, and I'd like you to rate your feelings toward each one as either very positive, somewhat positive, neutral, somewhat negative, or very negative. If you don't know the name, please just say so.
+date,very positive,somewhat positive,neutral,somewhat negative,very negative,don't know name/ not sure,sample_size,margin_of_error,subpopulation,question_type,url,original,question,pollster
+"=""3/7-10/08""",4,10,25,18,29,14,,,rv,thermometer,http://www.pollingreport.com/l.htm,"NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R). March 7-10, 2008. N=approx. 500 registered voters nationwide.","""Now I'm going to read you the names of several public figures and organizations, and I'd like you to rate your feelings toward each one as either very positive, somewhat positive, neutral, somewhat negative, or very negative. If you don't know the name, please just say so.",NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R)
+"=""7/27-30/07""",7,14,36,16,12,15,,,,thermometer,http://www.pollingreport.com/l.htm,"NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R). March 7-10, 2008. N=approx. 500 registered voters nationwide.","""Now I'm going to read you the names of several public figures and organizations, and I'd like you to rate your feelings toward each one as either very positive, somewhat positive, neutral, somewhat negative, or very negative. If you don't know the name, please just say so.",NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R)
+"=""9/17-19/04""",3,11,34,18,24,10,,,rv,thermometer,http://www.pollingreport.com/l.htm,"NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R). March 7-10, 2008. N=approx. 500 registered voters nationwide.","""Now I'm going to read you the names of several public figures and organizations, and I'd like you to rate your feelings toward each one as either very positive, somewhat positive, neutral, somewhat negative, or very negative. If you don't know the name, please just say so.",NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R)
+"=""6/25-28/04""",4,16,28,19,22,11,,,rv,thermometer,http://www.pollingreport.com/l.htm,"NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R). March 7-10, 2008. N=approx. 500 registered voters nationwide.","""Now I'm going to read you the names of several public figures and organizations, and I'd like you to rate your feelings toward each one as either very positive, somewhat positive, neutral, somewhat negative, or very negative. If you don't know the name, please just say so.",NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R)
+"=""5/1-3/04""",5,14,30,18,24,9,,,rv,thermometer,http://www.pollingreport.com/l.htm,"NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R). March 7-10, 2008. N=approx. 500 registered voters nationwide.","""Now I'm going to read you the names of several public figures and organizations, and I'd like you to rate your feelings toward each one as either very positive, somewhat positive, neutral, somewhat negative, or very negative. If you don't know the name, please just say so.",NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R)
+"=""3/6-8/04""",3,15,29,20,23,10,,,rv,thermometer,http://www.pollingreport.com/l.htm,"NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R). March 7-10, 2008. N=approx. 500 registered voters nationwide.","""Now I'm going to read you the names of several public figures and organizations, and I'd like you to rate your feelings toward each one as either very positive, somewhat positive, neutral, somewhat negative, or very negative. If you don't know the name, please just say so.",NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R)
+"=""12/00""",8,23,30,15,13,11,,,,thermometer,http://www.pollingreport.com/l.htm,"NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R). March 7-10, 2008. N=approx. 500 registered voters nationwide.","""Now I'm going to read you the names of several public figures and organizations, and I'd like you to rate your feelings toward each one as either very positive, somewhat positive, neutral, somewhat negative, or very negative. If you don't know the name, please just say so.",NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R)
+"=""10/13-15/00""",11,20,31,10,12,16,,,,thermometer,http://www.pollingreport.com/l.htm,"NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R). March 7-10, 2008. N=approx. 500 registered voters nationwide.","""Now I'm going to read you the names of several public figures and organizations, and I'd like you to rate your feelings toward each one as either very positive, somewhat positive, neutral, somewhat negative, or very negative. If you don't know the name, please just say so.",NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R)
+"=""9/7-10/00""",12,20,27,14,13,14,,,,thermometer,http://www.pollingreport.com/l.htm,"NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R). March 7-10, 2008. N=approx. 500 registered voters nationwide.","""Now I'm going to read you the names of several public figures and organizations, and I'd like you to rate your feelings toward each one as either very positive, somewhat positive, neutral, somewhat negative, or very negative. If you don't know the name, please just say so.",NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R)
+"=""7/27-28/00""",13,22,27,10,10,18,,,,thermometer,http://www.pollingreport.com/l.htm,"NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R). March 7-10, 2008. N=approx. 500 registered voters nationwide.","""Now I'm going to read you the names of several public figures and organizations, and I'd like you to rate your feelings toward each one as either very positive, somewhat positive, neutral, somewhat negative, or very negative. If you don't know the name, please just say so.",NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R)
+"=""6/14-18/00""",10,23,30,9,6,22,,,,thermometer,http://www.pollingreport.com/l.htm,"NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R). March 7-10, 2008. N=approx. 500 registered voters nationwide.","""Now I'm going to read you the names of several public figures and organizations, and I'd like you to rate your feelings toward each one as either very positive, somewhat positive, neutral, somewhat negative, or very negative. If you don't know the name, please just say so.",NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R)
+"=""4/29 - 5/1/00""",9,19,31,12,8,21,,,,thermometer,http://www.pollingreport.com/l.htm,"NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R). March 7-10, 2008. N=approx. 500 registered voters nationwide.","""Now I'm going to read you the names of several public figures and organizations, and I'd like you to rate your feelings toward each one as either very positive, somewhat positive, neutral, somewhat negative, or very negative. If you don't know the name, please just say so.",NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Bill McInturff (R)
+
+
+
+
+
+
+"l.htm | Question 54"
+"Pew Research Center for the People & the Press survey conducted by Princeton Survey Research Associates International. Aug. 5-10, 2004. N=739 adults nationwide. Margin of error ± 4.  "
+"Now I'd like your views on some people and organizations. Would you say your overall opinion of
+date,very favorable,mostly favorable,mostly unfavorable,very unfavorable,never heard of,can't rate (vol.),sample_size,margin_of_error,subpopulation,question_type,url,original,question,pollster
+"=""8/5-10/04""",4,22,26,18,7,23,739,4,a,favorability,http://www.pollingreport.com/l.htm,"Pew Research Center for the People & the Press survey conducted by Princeton Survey Research Associates International. Aug. 5-10, 2004. N=739 adults nationwide. Margin of error ± 4.  ","""Now I'd like your views on some people and organizations. Would you say your overall opinion of",Pew Research Center for the People & the Press survey conducted by Princeton Survey Research Associates International
+"=""6/04""",4,22,24,20,4,26,,,,favorability,http://www.pollingreport.com/l.htm,"Pew Research Center for the People & the Press survey conducted by Princeton Survey Research Associates International. Aug. 5-10, 2004. N=739 adults nationwide. Margin of error ± 4.  ","""Now I'd like your views on some people and organizations. Would you say your overall opinion of",Pew Research Center for the People & the Press survey conducted by Princeton Survey Research Associates International
+
+
+
+
+
+
+"l.htm | Question 55"
+"ABC News/Washington Post Poll. July 22-25, 2004. N=909 registered voters nationwide. Margin of error ± 3."
+". . . please tell me if you have a favorable or unfavorable impression of
+manually enter poll
+
+
+
+
+
+"l.htm | Question 56"
+"Quinnipiac University Poll. July 18-22, 2004. N=1,551 registered voters nationwide. Margin of error ± 2.5. "
+"Is your opinion of
+date,favorable,unfavorable,mixed,haven't heard,refused,sample_size,margin_of_error,subpopulation,question_type,url,original,question,pollster
+"=""7/18-22/04""",13,27,18,40,2,1551,2,rv,favorability,http://www.pollingreport.com/l.htm,"Quinnipiac University Poll. July 18-22, 2004. N=1,551 registered voters nationwide. Margin of error ± 2.5. ","""Is your opinion of",Quinnipiac University Poll
+"=""5/18-24/04""",10,28,19,42,1,,,,favorability,http://www.pollingreport.com/l.htm,"Quinnipiac University Poll. July 18-22, 2004. N=1,551 registered voters nationwide. Margin of error ± 2.5. ","""Is your opinion of",Quinnipiac University Poll
+"=""4/26 - 5/3/04""",14,27,18,39,2,,,,favorability,http://www.pollingreport.com/l.htm,"Quinnipiac University Poll. July 18-22, 2004. N=1,551 registered voters nationwide. Margin of error ± 2.5. ","""Is your opinion of",Quinnipiac University Poll
+"=""3/16-22/04""",14,28,18,37,3,,,,favorability,http://www.pollingreport.com/l.htm,"Quinnipiac University Poll. July 18-22, 2004. N=1,551 registered voters nationwide. Margin of error ± 2.5. ","""Is your opinion of",Quinnipiac University Poll
+
+
+
+
+
+
+"l.htm | Question 57"
+"CBS News/New York Times Poll. June 23-27, 2004. N=875 registered voters nationwide. Margin of error ± 3."
+"Is your opinion of Ralph Nader favorable, not favorable, undecided, or haven't you heard enough about Ralph Nader yet to have an opinion?"
+date,favorable,not favorable,undecided,haven't heard enough,don't know/no answer,sample_size,margin_of_error,subpopulation,question_type,url,original,question,pollster
+"=""6/23-27/04""",15,32,20,32,1,875,3,rv,favorability,http://www.pollingreport.com/l.htm,"CBS News/New York Times Poll. June 23-27, 2004. N=875 registered voters nationwide. Margin of error ± 3.","""Is your opinion of Ralph Nader favorable, not favorable, undecided, or haven't you heard enough about Ralph Nader yet to have an opinion?""",CBS News/New York Times Poll
+"=""4/23-27/04""",11,31,15,42,1,,,,favorability,http://www.pollingreport.com/l.htm,"CBS News/New York Times Poll. June 23-27, 2004. N=875 registered voters nationwide. Margin of error ± 3.","""Is your opinion of Ralph Nader favorable, not favorable, undecided, or haven't you heard enough about Ralph Nader yet to have an opinion?""",CBS News/New York Times Poll
+"=""3/10-14/04""",14,37,19,29,1,,,,favorability,http://www.pollingreport.com/l.htm,"CBS News/New York Times Poll. June 23-27, 2004. N=875 registered voters nationwide. Margin of error ± 3.","""Is your opinion of Ralph Nader favorable, not favorable, undecided, or haven't you heard enough about Ralph Nader yet to have an opinion?""",CBS News/New York Times Poll
+"=""2/24-27/04""",14,42,20,24,0,,,,favorability,http://www.pollingreport.com/l.htm,"CBS News/New York Times Poll. June 23-27, 2004. N=875 registered voters nationwide. Margin of error ± 3.","""Is your opinion of Ralph Nader favorable, not favorable, undecided, or haven't you heard enough about Ralph Nader yet to have an opinion?""",CBS News/New York Times Poll
+"=""7/20-23/00""",13,24,18,44,2,,,,favorability,http://www.pollingreport.com/l.htm,"CBS News/New York Times Poll. June 23-27, 2004. N=875 registered voters nationwide. Margin of error ± 3.","""Is your opinion of Ralph Nader favorable, not favorable, undecided, or haven't you heard enough about Ralph Nader yet to have an opinion?""",CBS News/New York Times Poll
+"=""7/13-16/00""",14,20,14,51,1,,,,favorability,http://www.pollingreport.com/l.htm,"CBS News/New York Times Poll. June 23-27, 2004. N=875 registered voters nationwide. Margin of error ± 3.","""Is your opinion of Ralph Nader favorable, not favorable, undecided, or haven't you heard enough about Ralph Nader yet to have an opinion?""",CBS News/New York Times Poll
+
+
+
+
+
+
+"l.htm | Question 58"
+"FOX News/Opinion Dynamics Poll. June 22-23, 2004. N=900 registered voters nationwide. Margin of error ± 3.  "
+"I'm going to read the names of some people. Please tell me whether you have a generally favorable or unfavorable opinion of each. If you've never heard of one, please just say so.
+date,favorable,unfavorable,can't say (vol.),never heard of,sample_size,margin_of_error,subpopulation,question_type,url,original,question,pollster
+"=""6/22-23/04""",21,47,25,7,900,3,rv,favorability,http://www.pollingreport.com/l.htm,"FOX News/Opinion Dynamics Poll. June 22-23, 2004. N=900 registered voters nationwide. Margin of error ± 3.  ","""I'm going to read the names of some people. Please tell me whether you have a generally favorable or unfavorable opinion of each. If you've never heard of one, please just say so.",FOX News/Opinion Dynamics Poll
+"=""6/8-9/04""",23,43,28,6,,,,favorability,http://www.pollingreport.com/l.htm,"FOX News/Opinion Dynamics Poll. June 22-23, 2004. N=900 registered voters nationwide. Margin of error ± 3.  ","""I'm going to read the names of some people. Please tell me whether you have a generally favorable or unfavorable opinion of each. If you've never heard of one, please just say so.",FOX News/Opinion Dynamics Poll
+"=""3/04""",30,40,22,8,,,,favorability,http://www.pollingreport.com/l.htm,"FOX News/Opinion Dynamics Poll. June 22-23, 2004. N=900 registered voters nationwide. Margin of error ± 3.  ","""I'm going to read the names of some people. Please tell me whether you have a generally favorable or unfavorable opinion of each. If you've never heard of one, please just say so.",FOX News/Opinion Dynamics Poll
+"=""7/00""",43,22,23,12,,,,favorability,http://www.pollingreport.com/l.htm,"FOX News/Opinion Dynamics Poll. June 22-23, 2004. N=900 registered voters nationwide. Margin of error ± 3.  ","""I'm going to read the names of some people. Please tell me whether you have a generally favorable or unfavorable opinion of each. If you've never heard of one, please just say so.",FOX News/Opinion Dynamics Poll
+
+
+
+
+
+
+"l.htm | Question 59"
+"The Los Angeles Times Poll. June 5-8, 2004. N=1,230 registered voters nationwide. Margin of error ± 3."
+"What is your impression of Ralph Nader? As of today, is it very favorable, somewhat favorable, somewhat unfavorable, very unfavorable or haven't you heard enough about him to say?"
+date,favorable,unfavorable,haven't heard enough,unsure,sample_size,margin_of_error,subpopulation,question_type,url,original,question,pollster
+"=""6/5-8/04""",15,29,51,5,1230,3,rv,favorability,http://www.pollingreport.com/l.htm,"The Los Angeles Times Poll. June 5-8, 2004. N=1,230 registered voters nationwide. Margin of error ± 3.","""What is your impression of Ralph Nader? As of today, is it very favorable, somewhat favorable, somewhat unfavorable, very unfavorable or haven't you heard enough about him to say?""",The Los Angeles Times Poll
+
+
+
+
+
+
+"l.htm | Question 60"
+"Zogby International Poll. May 10-13, 2004. N=985 likely voters nationwide. Margin of error ± 3.2."
+"Please tell me if your overall opinion of Ralph Nader is very favorable, somewhat favorable, somewhat unfavorable, very unfavorable, or you are not familiar enough to form an opinion."
+date,favorable,unfavorable,not familiar/ not sure,sample_size,margin_of_error,subpopulation,question_type,url,original,question,pollster
+"=""5/10-13/04""",19,51,31,985,3,lv,favorability,http://www.pollingreport.com/l.htm,"Zogby International Poll. May 10-13, 2004. N=985 likely voters nationwide. Margin of error ± 3.2.","""Please tell me if your overall opinion of Ralph Nader is very favorable, somewhat favorable, somewhat unfavorable, very unfavorable, or you are not familiar enough to form an opinion.""",Zogby International Poll
+"=""4/15-17/04""",20,51,29,,,,favorability,http://www.pollingreport.com/l.htm,"Zogby International Poll. May 10-13, 2004. N=985 likely voters nationwide. Margin of error ± 3.2.","""Please tell me if your overall opinion of Ralph Nader is very favorable, somewhat favorable, somewhat unfavorable, very unfavorable, or you are not familiar enough to form an opinion.""",Zogby International Poll
+"=""4/1-4/04""",21,52,27,,,,favorability,http://www.pollingreport.com/l.htm,"Zogby International Poll. May 10-13, 2004. N=985 likely voters nationwide. Margin of error ± 3.2.","""Please tell me if your overall opinion of Ralph Nader is very favorable, somewhat favorable, somewhat unfavorable, very unfavorable, or you are not familiar enough to form an opinion.""",Zogby International Poll
+
+
+
+
+
+
+"l.htm | Question 61"
+"CNN/Time Poll conducted by Yankelovich Partners. Nov. 10, 2000. N=1,154 adults nationwide."
+"Next, I'm going to read you the names of some people in the news today. Please tell me whether you have generally favorable or generally unfavorable impressions of each, or whether you are not familiar enough to say one way or another.
+date,favorable,unfavorable,not familiar,unsure,sample_size,margin_of_error,subpopulation,question_type,url,original,question,pollster
+"=""11/10/00""",28,34,33,5,1154,,a,favorability,http://www.pollingreport.com/l.htm,"CNN/Time Poll conducted by Yankelovich Partners. Nov. 10, 2000. N=1,154 adults nationwide.","""Next, I'm going to read you the names of some people in the news today. Please tell me whether you have generally favorable or generally unfavorable impressions of each, or whether you are not familiar enough to say one way or another.",CNN/Time Poll conducted by Yankelovich Partners
+"=""10/25-26/00""",31,28,37,4,,,,favorability,http://www.pollingreport.com/l.htm,"CNN/Time Poll conducted by Yankelovich Partners. Nov. 10, 2000. N=1,154 adults nationwide.","""Next, I'm going to read you the names of some people in the news today. Please tell me whether you have generally favorable or generally unfavorable impressions of each, or whether you are not familiar enough to say one way or another.",CNN/Time Poll conducted by Yankelovich Partners
+"=""10/12-13/00""",33,26,36,5,,,,favorability,http://www.pollingreport.com/l.htm,"CNN/Time Poll conducted by Yankelovich Partners. Nov. 10, 2000. N=1,154 adults nationwide.","""Next, I'm going to read you the names of some people in the news today. Please tell me whether you have generally favorable or generally unfavorable impressions of each, or whether you are not familiar enough to say one way or another.",CNN/Time Poll conducted by Yankelovich Partners
+"=""7/26-27/00""",28,23,45,4,,,,favorability,http://www.pollingreport.com/l.htm,"CNN/Time Poll conducted by Yankelovich Partners. Nov. 10, 2000. N=1,154 adults nationwide.","""Next, I'm going to read you the names of some people in the news today. Please tell me whether you have generally favorable or generally unfavorable impressions of each, or whether you are not familiar enough to say one way or another.",CNN/Time Poll conducted by Yankelovich Partners
+
+
+
+
+
+

@@ -29,8 +29,19 @@ def get_stripped_text(el):
     return re.sub(r'\s+', ' ', el.text_content()).strip() if el is not None else ""
 
 def scrape_page(url, f):
-    response = requests.get(url)
-    doc = lxml.html.fromstring(response.content)
+
+    html_filename = url.split("/")[-1]
+    
+    if os.path.isfile("raw/" + html_filename):
+        with open("raw/" + html_filename, "rb") as f2:
+            response_content = f2.read()
+    else:
+        response = requests.get(url)
+        response_content = response.content
+        with open("raw/" + html_filename, "wb") as f2:
+            f2.write(response_content)
+
+    doc = lxml.html.fromstring(response_content)
 
     question_counter = 0
 
@@ -110,18 +121,74 @@ def scrape_page(url, f):
             # Remove last row if it contains an hr tag
             if rows[-1].cssselect("hr"): del rows[-1]
 
+            #####################################################
+
+            def remove_blank_first_last_rows():
+                # Remove first row if its entirely blank or a single dot
+                if re.search(r'^$|^\.$', rows[0].text_content().strip()): del rows[0]
+                # Remove last row if its entirely blank or a single dot
+                if re.search(r'^$|^\.$', rows[-1].text_content().strip()): del rows[-1]
+
+            #####################################################
+
+            remove_blank_first_last_rows()
+
+            #####################################################
+
+            highest_approval_index = None
+            lowest_approval_index = None
+
+            highest_lowest_approval_rows = []
+
+            for i, row in enumerate(rows):
+
+                row_text = get_stripped_text(row)
+
+                # if its listing highest approval polls
+                if "Highest approval" in row_text:
+                    highest_approval_index = i
+
+                # if its listing lowest approval polls
+                if "Lowest approval" in row_text:
+                    lowest_approval_index = i
+
+            # Trim list to above highest approval_index
+            if highest_approval_index is not None and lowest_approval_index is not None:
+                if highest_approval_index < lowest_approval_index:
+                    highest_lowest_approval_rows = rows[highest_approval_index:]
+                    rows = rows[0:highest_approval_index]
+
+            #####################################################
+
+            remove_blank_first_last_rows()
+
+            #####################################################
+
+            # rows_indexes_to_remove = []
+            # for i, row in enumerate(rows):
+            #     row_text = row.text_content().strip()
+            #     # if its entirely blank or a single dot
+            #     if re.search(r'^$|^\.$', row_text):
+            #         rows_indexes_to_remove.append(i)
+            # for index in sorted(rows_indexes_to_remove, reverse=True):
+            #     del rows[index]
+
+            #####################################################
+
             num_columns = len(rows[0].cssselect("td"))
 
             # Ensure that all rows have the same number of columns
-            if all([len(row.cssselect("td")) == num_columns for row in rows]):
-            # Filter down to rows with at least 4 columns (ideally the data)
-            # rows = [row for row in rows if len(row.cssselect("td")) > 4]
+            all_rows_equal = lambda: all([len(row.cssselect("td")) == num_columns for row in rows])
 
-                # Remove first row if its entirely blank or a single dot
-                if re.search(r'^\s+|\.$', rows[0].text_content().strip()): del rows[0]
+            # Ensure that all rows except last have the same number of columns
+            # The last row may be notes with asterisks
+            all_rows_except_last = lambda: all([len(row.cssselect("td")) == num_columns for row in rows[:-1]])
 
-                # Remove last row if its entirely blank
-                if rows[-1].text_content().strip() == "": del rows[-1]
+            last_row = None
+            if not all_rows_equal() and all_rows_except_last():
+                last_row = rows.pop(-1)
+
+            if all_rows_equal():
 
                 sample_size_column_index = None
 
@@ -131,9 +198,22 @@ def scrape_page(url, f):
                         sample_size_column_index = [i for i, x in  enumerate(rows[1].cssselect("td")) if get_stripped_text(x) == "N"][0]
                     del rows[1]
 
+                header_regex = r"favorable|favor- able|unfavorable|unfav- orable|positive|negative|approve|disapprove|excellent|not sure|unsure|no opinion|satisfied"
+
+                first_row_text = get_stripped_text(rows[0])
+
                 # First row should now be the header row
-                if re.search(r"Favorable|Unfavorable|Approve|Disapprove", rows[0].text_content()):
+                if re.search(header_regex, first_row_text, re.IGNORECASE):
                     # continue parsing this table
+
+                    if re.search(r"favorable|unfavorable", first_row_text, re.IGNORECASE):
+                        question_type = "favorability"
+                    elif re.search(r"positive|negative", first_row_text, re.IGNORECASE):
+                        question_type = "thermometer"
+                    elif re.search(r"approve|disapprove|excellent", first_row_text, re.IGNORECASE):
+                        question_type = "approval"
+                    else:
+                        question_type = "unknown"
 
                     headers = [get_stripped_text(x).lower() for x in rows[0].cssselect("td")]
 
@@ -141,8 +221,17 @@ def scrape_page(url, f):
                         if header == "disap- prove":
                             headers[i] = "disapprove"
 
+                        if header == "favor- orable":
+                            headers[i] = "unfavorable"
+
                         if header == "unfav- orable":
                             headers[i] = "unfavorable"
+
+                        if header == "excellent/ good":
+                            headers[i] = "excellent/good"
+
+                        if header == "fair/ poor":
+                            headers[i] = "fair/poor"
 
                     if sample_size_column_index is not None:
                         headers[sample_size_column_index] = "sample_size"
@@ -168,21 +257,31 @@ def scrape_page(url, f):
                         columns[0] = "date"
                         df.columns = columns
 
-                    # TODO: parse out pollster from poll_title
                     # TODO: parse date into start date / end date
 
                     if 'sample_size' not in df:
-                        df['sample_size'] = np.nan
+                        df['sample_size'] = ''
                     else:
                         df['sample_size'] = df['sample_size'].replace(',', '', regex=True)
 
                     df['margin_of_error'] = np.nan
                     df['subpopulation'] = np.nan
+                    df['question_type'] = question_type
+
+                    # TODO remove "lv" and "rv" from the date column as well
+                    #      also potentially remove asterisks and carets? maybe not
 
                     df.loc[df.date.str.contains('rv', case=False).fillna(False), 'subpopulation'] = 'rv'
                     df.loc[df.date.str.contains('lv', case=False).fillna(False), 'subpopulation'] = 'lv'
 
-                    if pd.isnull(df.ix[0, 'sample_size']):
+                    df['date'] = df.date.str.replace("lv|rv", "", case=False).str.strip()
+
+                    df.loc[df.sample_size.str.contains('rv', case=False).fillna(False), 'subpopulation'] = 'rv'
+                    df.loc[df.sample_size.str.contains('lv', case=False).fillna(False), 'subpopulation'] = 'lv'
+
+                    df['sample_size'] = df.sample_size.str.replace("lv|rv", "", case=False).str.strip()
+
+                    if df.ix[0, 'sample_size'] == '':
                         df.ix[0, 'sample_size'] = sample_size or np.nan
 
                     if pd.isnull(df.ix[0, 'margin_of_error']):
@@ -196,11 +295,16 @@ def scrape_page(url, f):
                     df['url'] = url
                     df['original'] = poll_title
                     df['question'] = question
-                    df['date'] = df['date'].map(lambda x: "=\"" + x + "\"") # excel date hack
+                    df['date'] = df['date'].map(lambda x: "=\"" + str(x) + "\"") # excel date hack
                     df['pollster'] = poll_title.split(".")[0]
 
                     f.write(df.to_csv(index=False))
                     f.write("\n")
+
+                else:
+                    print(t.red("header could not be found?"))
+                    print("\t", row[0].text_content())
+                    import pdb; pdb.set_trace()
 
             else:
                 print(t.red("table could not be parsed. expecting all rows to have %d columns. offending rows:" % num_columns))
@@ -209,6 +313,15 @@ def scrape_page(url, f):
                         print("\t", [get_stripped_text(x) for x in row.cssselect("td")])
 
                 f.write("manually enter poll"); f.write("\n")
+
+            if last_row is not None:
+                print(t.yellow("additional notes:"))
+                print("\t", [get_stripped_text(x) for x in last_row.cssselect("td")])
+
+            if len(highest_lowest_approval_rows) > 0:
+                print(t.yellow("highest lowest approval rows:"))
+                for row in highest_lowest_approval_rows:
+                    print("\t", [get_stripped_text(x) for x in row.cssselect("td")])
 
             f.write("\n")
             f.write("\n")
@@ -222,51 +335,3 @@ def scrape_page(url, f):
             print(t.red(traceback.format_exc()))
 
             continue
-
-favorability_keywords = ["favorable", "unfavorable"]
-approval_keywords = ["approve", "disapprove", "disap- prove"]
-
-if __name__ == '__main__':
-
-    urls = [
-
-        # # Favorability Specific Pages
-        # "http://www.pollingreport.com/BushFav.htm", # George W. Bush (page 1)
-        # "http://www.pollingreport.com/bushfav2.htm", # George W. Bush (page 2)
-        "http://www.pollingreport.com/clinton1.htm", # Bill Clinton
-        # "http://www.pollingreport.com/obama_fav.htm", # Obama
-
-        # # Obama Job Ratings
-        # # "http://www.pollingreport.com/obama_job1.htm", # Gallup Daily Tracking (don't use)
-        # # "http://www.pollingreport.com/obama_job1a.htm", # Gallup Daily Tracking (don't use)
-        # "http://www.pollingreport.com/obama_job2.htm",
-
-        # # Bush Job Ratings
-        # "http://www.pollingreport.com/BushJob1.htm",
-        # "http://www.pollingreport.com/bushjob2.htm",
-        # "http://www.pollingreport.com/bushjob3.htm",
-
-        # # Clinton Job Ratings
-        # "http://www.pollingreport.com/clinton-.htm",
-
-        # # Political Figure Pages
-        # "http://www.pollingreport.com/A-B.htm", # includes George H. W. Bush
-        # "http://www.pollingreport.com/c.htm", # includes Jimmy Carter
-        # "http://www.pollingreport.com/hrc.htm", # Hillary Clinton
-        # "http://www.pollingreport.com/d.htm",
-        # "http://www.pollingreport.com/e-f.htm",
-        # "http://www.pollingreport.com/g.htm",
-        # "http://www.pollingreport.com/h-j.htm",
-        # "http://www.pollingreport.com/k.htm",
-        # "http://www.pollingreport.com/l.htm",
-        # "http://www.pollingreport.com/o.htm",
-        # "http://www.pollingreport.com/p.htm",
-        # "http://www.pollingreport.com/r.htm",
-        # "http://www.pollingreport.com/S-Z.htm"
-
-    ]
-
-    with open("polls.csv", "w", encoding="latin-1") as f:
-        for url in urls:
-            print(t.bold_magenta("Scraping {}".format(url)))
-            scrape_page(url, f)

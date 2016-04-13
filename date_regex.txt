@@ -1,0 +1,17 @@
+=IF(
+    REGEXMATCH($E2,"^(\d+)/(\d+)-(\d+)/(\d+)$"), 
+    REGEXREPLACE($E2,"^(\d+)/(\d+)-(\d+)/(\d+)$","$1/$2/$4"),
+    IF(REGEXMATCH($E2,"^(\d+)/(\d+) - (\d+)/(\d+)/(\d+)$"),
+       REGEXREPLACE($E2, "^(\d+)/(\d+) - (\d+)/(\d+)/(\d+)$","$1/$2/$5"),
+       IF(REGEXMATCH($E2,"^(\d+)/(\d+)/(\d{4})$"),
+          REGEXREPLACE($E2, "^(\d+)/(\d+)/(\d{4})$", "$1/$2/$3"),
+          "ERROR")))
+
+=IF(
+    REGEXMATCH($E2,"^(\d+)/(\d+)-(\d+)/(\d+)$"), 
+    REGEXREPLACE($E2,"^(\d+)/(\d+)-(\d+)/(\d+)$","$1/$3/$4"),
+    IF(REGEXMATCH($E2,"^(\d+)/(\d+) - (\d+)/(\d+)/(\d+)$"),
+       REGEXREPLACE($E2, "^(\d+)/(\d+) - (\d+)/(\d+)/(\d+)$","$3/$4/$5"),
+       IF(REGEXMATCH($E2,"^(\d+)/(\d+)/(\d{4})$"),
+          REGEXREPLACE($E2, "^(\d+)/(\d+)/(\d{4})$", "$1/$2/$3"),
+          "ERROR")))
