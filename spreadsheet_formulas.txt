@@ -19,3 +19,19 @@
 didn't account for different years
 
 example: 12/19/03 - 1/4/04
+
+
+---------------------------------------------------------------------------
+
+={
+  'BushFav.htm'!A1:P;
+  'bushfav2.htm'!A2:P;
+  'clinton1.htm'!A2:P;
+  'A-B.htm'!A2:P;
+  'c.htm'!A2:P;
+  'clinton-.htm'!A2:P;
+  'BushJob1.htm'!A2:P;
+  'bushjob2.htm'!A2:P;
+  'bushjob3.htm'!A2:P
+}
+
