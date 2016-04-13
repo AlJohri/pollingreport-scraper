@@ -16,6 +16,12 @@ pip install -r requirements.txt
 
 ## Usage
 
+Download and parse a specific url.
+
+```
+python scrape.py http://www.pollingreport.com/BushJob1.htm
+```
+
 Downloads all of the urls listed in main.py and parses them.
 
 ```

@@ -42,6 +42,8 @@ date,approve,disapprove,not sure,sample_size,margin_of_error,subpopulation,quest
 "=""3/6-10/97""",57,36,7,2010,,,approval,http://www.pollingreport.com/clinton-.htm,NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Robert Teeter (R),"""In general, do you approve or disapprove of the job Bill Clinton is doing as president?""",NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Robert Teeter (R)
 "=""1/25-27/97""",60,32,8,1002,,,approval,http://www.pollingreport.com/clinton-.htm,NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Robert Teeter (R),"""In general, do you approve or disapprove of the job Bill Clinton is doing as president?""",NBC News/Wall Street Journal Poll conducted by the polling organizations of Peter Hart (D) and Robert Teeter (R)
 
+additional notes
+['', '* NBC News Poll ^ NBC News Poll, conducted Saturday afternoon, following the House impeachment vote', 'RV = registered voters']
 
 
 
@@ -185,6 +187,8 @@ date,approve,disapprove,no opinion,sample_size,,margin_of_error,subpopulation,qu
 "=""10/22-25/94""",48,46,6,,,,,approval,http://www.pollingreport.com/clinton-.htm,Gallup/CNN/USA Today Poll,"""Do you approve or disapprove of the way Bill Clinton is handling his job as president?""",Gallup/CNN/USA Today Poll
 "=""nan""",,,,,.,,,approval,http://www.pollingreport.com/clinton-.htm,Gallup/CNN/USA Today Poll,"""Do you approve or disapprove of the way Bill Clinton is handling his job as president?""",Gallup/CNN/USA Today Poll
 
+additional notes
+['', '* Conducted by Gallup and CNN ** Conducted independently by Gallup', '', '']
 
 
 
@@ -293,6 +297,8 @@ date,approve,disapprove,not sure,sample_size,,margin_of_error,subpopulation,ques
 "=""1/9-12/97""",59,31,10,,,,,approval,http://www.pollingreport.com/clinton-.htm,Pew Research Center for the People & the Press survey conducted by Princeton Survey Research Associates,"""Do you approve or disapprove of the way Bill Clinton is handling his job as president?""",Pew Research Center for the People & the Press survey conducted by Princeton Survey Research Associates
 "=""nan""",,,,,.,,,approval,http://www.pollingreport.com/clinton-.htm,Pew Research Center for the People & the Press survey conducted by Princeton Survey Research Associates,"""Do you approve or disapprove of the way Bill Clinton is handling his job as president?""",Pew Research Center for the People & the Press survey conducted by Princeton Survey Research Associates
 
+additional notes
+['', '* Survey of respondents who had also been polled 12/9-13/98. ^ Tracking poll.', '', 'RV = registered voters']
 
 
 
@@ -380,6 +386,8 @@ date,approve,disapprove,no opinion,sample_size,,margin_of_error,subpopulation,qu
 "=""1/5/97""",58,32,10,680,,,,approval,http://www.pollingreport.com/clinton-.htm,"CBS News Poll and, where noted, CBS News/New York Times Poll","""Do you approve or disapprove of the way Bill Clinton is handling his job as president?""","CBS News Poll and, where noted, CBS News/New York Times Poll"
 "="".""",,,,,.,,,approval,http://www.pollingreport.com/clinton-.htm,"CBS News Poll and, where noted, CBS News/New York Times Poll","""Do you approve or disapprove of the way Bill Clinton is handling his job as president?""","CBS News Poll and, where noted, CBS News/New York Times Poll"
 
+additional notes
+['', '* Conducted with The New York Times ^ Respondents who had first been polled by CBS 9/19-20/98 *^ Conducted with The New York Times; respondents who had first been polled by CBS and The New York Times 12/13-15 & 17/98 ^^ Respondents originally interviewed in CBS polls conducted 1/30-2/1/99 and 2/7/99']
 
 
 
@@ -449,6 +457,8 @@ date,approve,disapprove,don't know,sample_size,margin_of_error,subpopulation,que
 "=""2/25-26/98""",69,26,5,900,,rv,approval,http://www.pollingreport.com/clinton-.htm,Fox News/Opinion Dynamics Poll,"""Do you approve or disapprove of the job President Clinton is doing?""",Fox News/Opinion Dynamics Poll
 "=""2/11-12/98""",67,26,7,903,,rv,approval,http://www.pollingreport.com/clinton-.htm,Fox News/Opinion Dynamics Poll,"""Do you approve or disapprove of the job President Clinton is doing?""",Fox News/Opinion Dynamics Poll
 
+additional notes
+['', '', '', '', '', 'LV = likely voters RV = registered voters']
 
 
 
@@ -575,6 +585,8 @@ date,approve,disapprove,no opinion,sample_size,margin_of_error,subpopulation,que
 "=""3/6-9/97 ***""",55,41,4,1004,,,approval,http://www.pollingreport.com/clinton-.htm,ABC News and The Washington Post ,"""Do you approve or disapprove of the way Bill Clinton is handling his job as president?""",ABC News and The Washington Post 
 "=""1/13-15/97 *""",60,34,6,1206,,,approval,http://www.pollingreport.com/clinton-.htm,ABC News and The Washington Post ,"""Do you approve or disapprove of the way Bill Clinton is handling his job as president?""",ABC News and The Washington Post 
 
+additional notes
+['', '* Conducted by ABC News ** Conducted by The Washington Post *** Conducted by ABC News and The Washington Post ^ Conducted by ABC News in the closing minutes of and immediately following the State of the Union speech 9/13/98 A: Conducted Sunday afternoon 9/13/98 B: Conducted Sunday night']
 
 
 
@@ -598,6 +610,8 @@ date,approve,disapprove,don't know,sample_size,,margin_of_error,subpopulation,qu
 "=""2/5-6/97""",61,34,5,816,,,,approval,http://www.pollingreport.com/clinton-.htm,The Los Angeles Times Poll,"""Do you approve or disapprove of the way Bill Clinton is handling his job as president?""",The Los Angeles Times Poll
 "=""nan""",,,,,.,,,approval,http://www.pollingreport.com/clinton-.htm,The Los Angeles Times Poll,"""Do you approve or disapprove of the way Bill Clinton is handling his job as president?""",The Los Angeles Times Poll
 
+additional notes
+['', '', '', '', '', 'RV = registered voters']
 
 
 
@@ -679,6 +693,8 @@ date,excellent/good,fair/poor,not sure,sample_size,margin_of_error,subpopulation
 "=""4/97""",44,55,1,,,,approval,http://www.pollingreport.com/clinton-.htm,"Zogby International ""America Poll""","""Overall, how would you rate the performance of Bill Clinton as president: excellent, good, fair, or poor?""","Zogby International ""America Poll"""
 "=""1/97""",51,49,-,,,,approval,http://www.pollingreport.com/clinton-.htm,"Zogby International ""America Poll""","""Overall, how would you rate the performance of Bill Clinton as president: excellent, good, fair, or poor?""","Zogby International ""America Poll"""
 
+additional notes
+['', '', '', '', '', 'LV = likely voters']
 
 
 

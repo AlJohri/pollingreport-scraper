@@ -1,5 +1,5 @@
 import os
-from scrape_pollingreport import scrape_page
+from scrape import scrape_page
 
 # Only works with "Detailed Trend", "Detailed Polls", "Complete Trend"
 

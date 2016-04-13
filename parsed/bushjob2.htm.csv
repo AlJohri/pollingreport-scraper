@@ -153,6 +153,14 @@ date,approve,disapprove,unsure,sample_size,margin_of_error,subpopulation,questio
 "=""3/8-12/01""",60,22,18,,,,approval,http://www.pollingreport.com/bushjob2.htm,"CBS News Poll. Dec. 4-8, 2008. N=1,390 adults nationwide. MoE ± 3.   ","""Do you approve or disapprove of the way George W. Bush is handling his job as president?""",CBS News Poll
 "=""2/10-12/01""",53,21,26,,,,approval,http://www.pollingreport.com/bushjob2.htm,"CBS News Poll. Dec. 4-8, 2008. N=1,390 adults nationwide. MoE ± 3.   ","""Do you approve or disapprove of the way George W. Bush is handling his job as president?""",CBS News Poll
 
+highest lowest approval rows
+['', 'Highest approval:']
+['', '10/9/01', '90', '7', '3', '', '']
+['', '10/8/01', '90', '5', '5', '', '']
+['', 'Lowest approval:']
+['', '10/25-29/08', '22', '70', '8', '', '']
+['', '10/19-22/08', '22', '72', '6', '', '']
+['', '9/27-30/08', '22', '70', '8', '', '']
 
 
 
@@ -341,6 +349,12 @@ date,approve,disapprove,unsure,sample_size,margin_of_error,subpopulation,questio
 "=""2/15-16/01""",56,21,23,,,,approval,http://www.pollingreport.com/bushjob2.htm,"Newsweek Poll conducted by Princeton Survey Research Associates International. Oct. 22-23, 2008. N=1,204 adults nationwide. MoE ± 3.4.   ","""Do you approve or disapprove of the way George W. Bush is handling his job as president?""",Newsweek Poll conducted by Princeton Survey Research Associates International
 "=""2/8-9/01""",52,25,23,,,,approval,http://www.pollingreport.com/bushjob2.htm,"Newsweek Poll conducted by Princeton Survey Research Associates International. Oct. 22-23, 2008. N=1,204 adults nationwide. MoE ± 3.4.   ","""Do you approve or disapprove of the way George W. Bush is handling his job as president?""",Newsweek Poll conducted by Princeton Survey Research Associates International
 
+highest lowest approval rows
+['', 'Highest approval:']
+['', '10/18-19/01', '88', '8', '4', '', '']
+['', '10/11-12/01', '88', '8', '4', '', '']
+['', 'Lowest approval:']
+['', '10/22-23/08', '23', '67', '10', '', '']
 
 
 
@@ -386,6 +400,11 @@ date,approve,disapprove,unsure,sample_size,margin_of_error,subpopulation,questio
 "=""4/21-26/01""",57,33,10,,,,approval,http://www.pollingreport.com/bushjob2.htm,"Los Angeles Times/Bloomberg Poll. Oct. 10-13, 2008. N=1,543 adults nationwide. MoE ± 3.     ","""Do you approve or disapprove of the way George W. Bush is handling his job as president?""",Los Angeles Times/Bloomberg Poll
 "=""3/3-5/01""",62,18,20,,,,approval,http://www.pollingreport.com/bushjob2.htm,"Los Angeles Times/Bloomberg Poll. Oct. 10-13, 2008. N=1,543 adults nationwide. MoE ± 3.     ","""Do you approve or disapprove of the way George W. Bush is handling his job as president?""",Los Angeles Times/Bloomberg Poll
 
+highest lowest approval rows
+['', 'Highest approval:']
+['', '11/10-13/01', '86', '10', '4', '', '']
+['', 'Lowest approval:']
+['', '6/19-23/08 RV', '23', '73', '4', '', '']
 
 
 
@@ -505,6 +524,13 @@ date,excellent/ pretty good,only fair/ poor,unsure/ refused,sample_size,margin_o
 "=""3/22-26/01""",49,38,13,,,,approval,http://www.pollingreport.com/bushjob2.htm,"The Harris Poll. Sept. 17-21, 2008. N=1,015 adults nationwide. MoE ± 3.    ","""How would you rate the overall job President George W. Bush is doing as president: excellent, pretty good, only fair, or poor?""",The Harris Poll
 "=""2/22 - 3/3/01""",56,26,18,,,,approval,http://www.pollingreport.com/bushjob2.htm,"The Harris Poll. Sept. 17-21, 2008. N=1,015 adults nationwide. MoE ± 3.    ","""How would you rate the overall job President George W. Bush is doing as president: excellent, pretty good, only fair, or poor?""",The Harris Poll
 
+highest lowest approval rows
+['', 'Highest approval:']
+['', '10/17-22/01', '88', '11', '1', '', '']
+['.']
+['', 'Lowest approval:']
+['', '9/17-21/08', '24', '75', '1', '', '']
+['', '6/4-8/08', '24', '75', '1', '', '']
 
 
 
@@ -514,6 +540,11 @@ date,excellent/ pretty good,only fair/ poor,unsure/ refused,sample_size,margin_o
 "Quinnipiac University Poll. Aug. 12-17, 2008. N=1,547 likely voters nationwide. MoE ± 2.5.    "
 "Do you approve or disapprove of the way George W. Bush is handling his job as president?"
 manually enter poll
+highest lowest approval rows
+['', 'Highest approval:']
+['', '12/01', '83', '11', '6', '', '']
+['', 'Lowest approval:']
+['', '7/8-13/08 LV', '26', '67', '6', '', '']
 
 
 
@@ -523,6 +554,12 @@ manually enter poll
 "Associated Press-Ipsos poll conducted by Ipsos Public Affairs. July 31-Aug. 4, 2008. N=1,002 adults nationwide. MoE ± 3.1."
 "Overall, do you approve, disapprove or have mixed feelings about the way George W. Bush is handling his job as president?" If "mixed feelings" or not sure: "If you had to choose, do you lean more toward approve or disapprove?"
 manually enter poll
+highest lowest approval rows
+['', 'Highest approval:']
+['', '1/4-6/02', '77', '20', '2', '-', '', '.']
+['', 'Lowest approval:']
+['', '7/10-14/08', '28', '67', '3', '2', '', '.']
+['', '4/7-9/08', '28', '68', '3', '1', '', '.']
 
 
 

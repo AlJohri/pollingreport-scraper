@@ -322,12 +322,19 @@ def scrape_page(url, f):
 
             if last_row is not None:
                 print(t.yellow("additional notes:"))
-                print("\t", [get_stripped_text(x) for x in last_row.cssselect("td")])
+                f.write("additional notes"); f.write("\n")
+                last_row_text = [get_stripped_text(x) for x in last_row.cssselect("td")]
+                print("\t", last_row_text)
+
+                f.write(str(last_row_text)); f.write("\n")
 
             if len(highest_lowest_approval_rows) > 0:
                 print(t.yellow("highest lowest approval rows:"))
+                f.write("highest lowest approval rows"); f.write("\n")
                 for row in highest_lowest_approval_rows:
-                    print("\t", [get_stripped_text(x) for x in row.cssselect("td")])
+                    row_text = [get_stripped_text(x) for x in row.cssselect("td")]
+                    print("\t", row_text)
+                    f.write(str(row_text)); f.write("\n")
 
             f.write("\n")
             f.write("\n")
