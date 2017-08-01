@@ -31,13 +31,13 @@ def get_stripped_text(el):
 def scrape_page(url, f):
 
     html_filename = url.split("/")[-1]
-    
+
     if os.path.isfile("raw/" + html_filename):
-        print(t.bold_magenta("Opening {}".format(url)))
+        print(t.bold_magenta(f"Opening {url}"))
         with open("raw/" + html_filename, "rb") as f2:
             response_content = f2.read()
     else:
-        print(t.bold_magenta("Scraping {}".format(url)))
+        print(t.bold_magenta(f"Scraping {url}"))
         response = requests.get(url)
         response_content = response.content
         with open("raw/" + html_filename, "wb") as f2:

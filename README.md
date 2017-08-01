@@ -8,7 +8,7 @@ Semi-scrapes publically available polls from [polling report](http://www.polling
 
 ## Setup
 
-Requires Python 3.5+. [Anaconda](https://www.continuum.io/downloads) recommended due the numpy/pandas dependency.
+Requires Python 3.6+.
 
 ```
 pip install -r requirements.txt

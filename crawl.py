@@ -54,7 +54,7 @@ def crawl_page(url, depth, urls_already_crawled=set()):
 start_url = "http://www.pollingreport.com/"
 max_depth = 2
 
-logging.info("Crawling start page {} with max depth of {}".format(start_url, max_depth))
+logging.info(f"Crawling start page {start_url} with max depth of {max_depth}")
 
 links = crawl_page(start_url, depth=max_depth)
 
